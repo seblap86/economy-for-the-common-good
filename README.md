@@ -8,4 +8,4 @@ In this project, I analyze the status quo and trends withing the economy for the
 ## Tech used
 - Python (web-scraping)
 - SQL (MYSQL; modeling, analyses)
-- Tableau (or similar visualization tool TBA; data visualization)
+- Tableau (or similar visualization tool TBD; data visualization)
