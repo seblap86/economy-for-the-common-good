@@ -1,5 +1,5 @@
 # economy-for-the-common-good
-Project started in January 2024.
+Project started in January 2024.  
 Project status: Ongoing.
 
 ## Scope
