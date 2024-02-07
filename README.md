@@ -1,4 +1,4 @@
-# Economy for the Common Good: Trends & Developments
+# Economy for the Common Good: Trends & developments
 Project started in January 2024.  
 Project status: Ongoing.
 
