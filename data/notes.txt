@@ -1,0 +1,9 @@
+- Type code: Gemeinde / M1.2 correction
+- Audit type: AbPE = Peer?
+- Some summary information about balances? Like first balance (interesting for when they entered ECG), last balance?
+- Maybe also improvement over years? (maybe more an analytics than an engineering task)
+- Or min max? (year, balance?)
+- In general, how to treat these 8 different types of information? (in database modeling)
+- Resolve hard coding issues with balance details
+- Check if some missing values can be replaced
+- Valid certificate (compare date to current date)
