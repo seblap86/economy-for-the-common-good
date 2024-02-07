@@ -6,50 +6,50 @@ id,organization,locations_id,employees_id,sectors_id
 29652,AAP-ARCHITEKTEN ZT-GMBH,9,3.0,6.0
 14887,Abitare,227,2.0,8.0
 46986,"abw – gemeinnützige Gesellschaft für Arbeit, Bildung und Wohnen mbH",261,3.0,10.0
-92361,"Action Waterscape, S.L.",858,,26.0
+92361,"Action Waterscape, S.L.",859,\N,26.0
 14888,ad fontes,337,2.0,11.0
 40981,ADAMAH BioHof G. Zoubek Vertriebs KG,20,2.0,25.0
 14973,Adelby 1 Kinder- und Jugenddienste gGmbH,323,12.0,16.0
-92389,AFEF-EBC,831,,26.0
-150227,Afier Accountants + Adviseurs,919,5.0,7.0
+92389,AFEF-EBC,832,\N,26.0
+150227,Afier Accountants + Adviseurs,921,5.0,7.0
 30337,Africa Green Tec AG,516,3.0,12.0
 29635,AGENTUR FÜR EVALUATION & QUALITÄTSENTWICKLUNG,195,1.0,7.0
-132863,AGIT mbH,479,3.0,
-92421,Agresta Soc. Cooperativa,834,,26.0
-92373,Agricología José Manuel Bisetto,800,,26.0
+132863,AGIT mbH,479,3.0,\N
+92421,Agresta Soc. Cooperativa,835,\N,26.0
+92373,Agricología José Manuel Bisetto,801,\N,26.0
 36548,"AISENBREY, RICHTER & PARTNER",206,2.0,7.0
 37075,Aka Merch & Textil GmbH,471,1.0,32.0
 58579,Aktion Eine Welt e.V.,790,1.0,38.0
 29850,Alex Wissmann,187,1.0,7.0
-92467,Alive Surf,925,1.0,26.0
+92467,Alive Surf,927,1.0,26.0
 78313,Allgäu Batterie GmbH & Co. KG,718,4.0,11.0
 35674,Allgäu GmbH,714,3.0,26.0
-113132,Allgemengwuel Agence,907,1.0,7.0
+113132,Allgemengwuel Agence,908,1.0,7.0
 14665,ALLMENDA Social Business eG,132,1.0,33.0
-92491,Aloeysalud,823,1.0,26.0
+92491,Aloeysalud,824,1.0,26.0
 14889,Alpendruck,115,2.0,28.0
 93957,"Alpenland Gemeinnützige Bau-, Wohn- und Siedlungsgenossenschaft reg.Gen.m.b.H.",31,5.0,30.0
 139397,Alpha IC GmbH,784,5.0,30.0
-92475,Alter Consulta,822,1.0,26.0
-92443,Altur coop,799,,26.0
+92475,Alter Consulta,823,1.0,26.0
+92443,Altur coop,800,\N,26.0
 14818,"Amann, Ulrike, Raum für Gemeinwesenentwicklung",121,1.0,7.0
-91614,AMC Luxembourg,909,3.0,13.0
+91614,AMC Luxembourg,910,3.0,13.0
 14819,AmVieh-Theater,382,2.0,37.0
 14772,ananjo informatiker,515,2.0,9.0
 29214,"Andrea Aldosser, Ganzheitliche Personal- und Organisationsentwicklung",107,1.0,7.0
 30925,Andreas Heilmann Gartengestaltung,656,2.0,25.0
-92507,Angaraveca,821,1.0,26.0
-92457,Animación y logística cultural S.L.U.,852,,26.0
+92507,Angaraveca,822,1.0,26.0
+92457,Animación y logística cultural S.L.U.,853,\N,26.0
 37702,ANJA HAIDER-WALLNER/ SMILEVEDA,137,1.0,7.0
 79370,Anne Berg – Bewusster Wandel,483,1.0,7.0
 126462,Annemarie Bink und Fiona Brinker GbR,336,1.0,38.0
 82864,ANWANDER (Anwander GmbH & Co. KG / Anwander-Waldmann GmbH & Co. KG),717,4.0,6.0
-92455,Aplicaciones Industriales Valencianas S.L.,856,,26.0
+92455,Aplicaciones Industriales Valencianas S.L.,857,\N,26.0
 14820,Apotheke am Goetheplatz,363,2.0,27.0
 14821,ARBA-BIOPLAN Genossenschaft,188,2.0,6.0
 14884,Arbatherm,191,2.0,11.0
 14822,arbeit plus Salzburg,62,1.0,16.0
-92371,Arca de Babel S.L,834,,26.0
+92371,Arca de Babel S.L,835,\N,26.0
 14737,Architekturbüro Mießl GmbH,702,2.0,6.0
 44670,ARGEkultur gemeinnützige GmbH,62,3.0,1.0
 37707,Armin Hipper – Büro für Nachhaltigkeit & Wirtschaftsethik,735,1.0,7.0
@@ -57,20 +57,20 @@ id,organization,locations_id,employees_id,sectors_id
 127521,Armin Schmelzle Entwicklungsberatung,69,1.0,7.0
 124478,ars scribendi,356,1.0,33.0
 80265,Artist MesseService und -Bau GmbH & Co. KG,373,3.0,8.0
-92489,ArtMarketing SL,825,1.0,26.0
+92489,ArtMarketing SL,826,1.0,26.0
 109043,ASC Göttingen von 1846 e.V.,407,5.0,2.0
-92391,Asociación Traperos de Emaús Murcia,826,,26.0
-92413,Astrotouristing,840,,26.0
+92391,Asociación Traperos de Emaús Murcia,827,\N,26.0
+92413,Astrotouristing,841,\N,26.0
 67207,Atelier Marianna,164,2.0,8.0
 135370,Atlantic Hotel Sail City GmbH,343,6.0,37.0
 145404,audit.innovation GmbH Wirtschaftsprüfungsgesellschaft,536,1.0,13.0
 14891,AUROBIA GmbH & Co KG,707,1.0,7.0
 140968,authento Vera Boos,682,1.0,7.0
-25099,Auto Rainer GmbH,898,2.0,39.0
+25099,Auto Rainer GmbH,899,2.0,39.0
 31380,avance Unternehmensberatung GmbH,194,1.0,7.0
-17277,Avesani Marta,884,1.0,7.0
+17277,Avesani Marta,885,1.0,7.0
 34415,AXICA Kongress- und Tagungszentrum  GmbH,207,3.0,32.0
-133341,Azienda Agricola Foradori S.s,889,3.0,25.0
+133341,Azienda Agricola Foradori S.s,890,3.0,25.0
 127354,B.A.U.M. Consult GmbH,503,3.0,7.0
 40970,b.it GmbH,74,2.0,9.0
 14797,Bäckerei Bahde GmbH,298,4.0,38.0
@@ -78,7 +78,7 @@ id,organization,locations_id,employees_id,sectors_id
 14666,Backkultur,125,2.0,8.0
 129947,Backwarenbetriebe Herbert Nelles OHG,484,5.0,8.0
 80263,Barghorn GmbH & Co. KG,333,5.0,20.0
-52502,Baril Coatings,915,5.0,5.0
+52502,Baril Coatings,917,5.0,5.0
 118474,base – homes for students GmbH,14,3.0,30.0
 44805,basilikum – soulfood,126,2.0,38.0
 37265,Baukult ZT GmbH,12,2.0,6.0
@@ -96,7 +96,7 @@ id,organization,locations_id,employees_id,sectors_id
 85041,"Berglandkräuter aus Hessen, M. Rehs & U. Kern GbR",402,2.0,25.0
 14746,BerlinBees Schüler*Innengenossenschaft,227,1.0,25.0
 104183,Bernd Hümmer (freiberufliche Tätigkeit) nicht in obigem Register,761,1.0,7.0
-14667,Bernhard Oberrauch,902,1.0,6.0
+14667,Bernhard Oberrauch,903,1.0,6.0
 55121,Beschäftigungsförderung Göttingen (kAöR),404,5.0,26.0
 44685,BestPractice AG,192,1.0,7.0
 14894,BfG – Genossenschaft für Gemeinwohl,5,3.0,33.0
@@ -112,8 +112,8 @@ id,organization,locations_id,employees_id,sectors_id
 127441,Bio-Landgut Fleisch EZG GmbH,558,2.0,25.0
 38079,Bio-Marktgemeinschaft eG Stemmerhof,616,3.0,38.0
 44687,BioBauernladen Kremstal GmbH,54,2.0,25.0
-133353,Biocaseificio Tomasoni,876,2.0,25.0
-92503,Biocosas,806,1.0,26.0
+133353,Biocaseificio Tomasoni,877,2.0,25.0
+92503,Biocosas,807,1.0,26.0
 14721,Bioculture GmbH,621,2.0,22.0
 30326,Biohof Lecker GbR,659,2.0,25.0
 82924,Biohof Lecker GbR,659,2.0,38.0
@@ -136,8 +136,8 @@ id,organization,locations_id,employees_id,sectors_id
 14706,Biomarkt La Vida e.K.,707,2.0,38.0
 14976,Biond GmbH,383,5.0,33.0
 38663,Bioplan GbR Büro für Ökologie und Umweltplanung,414,3.0,33.0
-92359,Bioproducts,815,,26.0
-92393,Biotremol,799,,26.0
+92359,Bioproducts,816,\N,26.0
+92393,Biotremol,800,\N,26.0
 14761,BioVitalHotel Sommerau,78,2.0,37.0
 14937,bittar. worte & zeichen setzen,218,1.0,33.0
 14938,BKK ProVita,679,6.0,16.0
@@ -152,7 +152,7 @@ id,organization,locations_id,employees_id,sectors_id
 14895,Bodan,741,6.0,38.0
 44709,Bodengraf GmbH,76,1.0,25.0
 135335,borisgloger consulting gmbh,510,5.0,7.0
-92469,Bornholm,794,1.0,26.0
+92469,Bornholm,795,1.0,26.0
 62105,BOS Balance of Storage Systems,747,4.0,11.0
 36506,BOSSE WESTPHAL SCHÄFFER Architekten und Sachverständige PartGmbB,299,2.0,6.0
 17821,Braucommune in Freistadt,49,4.0,25.0
@@ -173,19 +173,19 @@ id,organization,locations_id,employees_id,sectors_id
 40874,BÜRGERSTIFTUNG PFALZ UND NATURHOTEL STIFTSGUT KEYSERMÜHLE,579,2.0,37.0
 36546,Büro für Erneuerbare Energie Ing. Leo Riebenbauer GmbH,155,2.0,12.0
 14911,Bürogemeinschaft Sehlbach,228,2.0,16.0
-92379,Buscándome Las Habichuelas (BLH),837,,26.0
+92379,Buscándome Las Habichuelas (BLH),838,\N,26.0
 41064,Business School Lausanne,173,4.0,10.0
 124365,Business-health,259,1.0,7.0
 36749,Busse Franchise Kommunikation,309,1.0,7.0
-126586,CAES – Consorzio Assicurativo Etico Solidale,875,2.0,40.0
+126586,CAES – Consorzio Assicurativo Etico Solidale,876,2.0,40.0
 41321,Café Chrysander,293,2.0,26.0
 14775,Cafe Pausenraum,592,1.0,33.0
 40892,camera obscura GmbH,222,1.0,23.0
 124487,camera obscura GmbH,222,2.0,22.0
 64668,Campus National,167,2.0,10.0
-92511,Can Cet,810,1.0,26.0
+92511,Can Cet,811,1.0,26.0
 14897,Cappel,166,1.0,7.0
-19285,Cappelletti + Bongiovanni Srl,903,2.0,8.0
+19285,Cappelletti + Bongiovanni Srl,904,2.0,8.0
 84326,Capri HotelbetriebsGmbH & Co KG,2,3.0,37.0
 36659,cardamom,151,2.0,7.0
 57026,CariKids gGmbH,469,5.0,10.0
@@ -197,22 +197,22 @@ id,organization,locations_id,employees_id,sectors_id
 14759,castello – Wohlfühlhotel in Königsleiten,89,2.0,37.0
 14828,"Catucho GbR (Ulrike &Laura Eckhardt), Rösterei",335,1.0,25.0
 14829,CCC Druck und Medien GmbH,451,3.0,19.0
-92525,Centro de psicología y Coaching Valencia S.L.,857,1.0,26.0
-117424,Centro Papa Giovanni XXIII Soc. Cooperativa Soc,906,4.0,16.0
-117428,Cha Maria Srl Società Benefit,870,4.0,16.0
+92525,Centro de psicología y Coaching Valencia S.L.,858,1.0,26.0
+117424,Centro Papa Giovanni XXIII Soc. Cooperativa Soc,907,4.0,16.0
+117428,Cha Maria Srl Società Benefit,871,4.0,16.0
 24834,Chemical Check GmbH,370,4.0,33.0
-92387,Chocolates Artesanos Isabel,848,,26.0
+92387,Chocolates Artesanos Isabel,849,\N,26.0
 14929,Christian Felber,7,2.0,26.0
 14898,Christian Jensen Kolleg,329,4.0,10.0
 90051,Christian Jensen Kolleg gemeinnützige GmbH Breklum,329,3.0,10.0
-133954,Christian Rüther e.U.,7,,7.0
+133954,Christian Rüther e.U.,7,\N,7.0
 124336,Christine Ehlers-werterleben,219,1.0,7.0
 14783,"Christof Bader KG – Fliesen, Kachelöfen, Natursteine",84,2.0,6.0
 37751,Christoph Spahn,578,1.0,7.0
 14766,"cibaria GmbH, ökologisch-biologische Vollkornbäckerei",454,4.0,8.0
-92343,Circuitos Aljarafe,847,,26.0
+92343,Circuitos Aljarafe,848,\N,26.0
 59060,Claudia Schleicher | Engagement & Change,423,1.0,7.0
-92437,Club de Fútbol Popular Orihuela Deportiva,796,,26.0
+92437,Club de Fútbol Popular Orihuela Deportiva,797,\N,26.0
 14816,CMP Competent Management Partners AG,181,1.0,7.0
 34187,Coaching Zahn,652,1.0,33.0
 30127,Condrobs e.V.,626,12.0,16.0
@@ -227,18 +227,18 @@ id,organization,locations_id,employees_id,sectors_id
 30962,corsus corporate sustainability GmbH,312,2.0,7.0
 153840,corsus corporate sustainability GmbH,291,10.0,7.0
 14669,"Cosyma, EPU",548,1.0,7.0
-92403,Coworking Nomad,832,,26.0
+92403,Coworking Nomad,833,\N,26.0
 62168,cramer & müller service GmbH & Co. KG / cramer müller & partner consulting PartG,509,2.0,7.0
-92409,CREARQCIO COOP. V,851,,26.0
+92409,CREARQCIO COOP. V,852,\N,26.0
 44713,Createur de Interieur – Ing. Christian Supola,138,1.0,8.0
 45149,CRM – Coastal Research & Management,320,2.0,26.0
-104639,CrossmarX,910,2.0,35.0
-92419,Crowd Spain S.L,832,,26.0
+104639,CrossmarX,911,2.0,35.0
+92419,Crowd Spain S.L,833,\N,26.0
 40169,Ctn Consulting,98,1.0,7.0
-92363,Cuinatur,812,,26.0
+92363,Cuinatur,813,\N,26.0
 14670,Culumnatura,19,3.0,26.0
 14830,"Czeczatka, Werner & Partner Steuerberatungsgesellschaft",396,4.0,14.0
-35297,D-QuESTioN,276,,10.0
+35297,D-QuESTioN,276,\N,10.0
 93961,da-ka hausbetreuungs GmbH,16,5.0,30.0
 140348,Dachstiftung Diakonie,417,10.0,16.0
 127566,Dalitz Immobilien GmbH,484,1.0,30.0
@@ -251,7 +251,7 @@ id,organization,locations_id,employees_id,sectors_id
 64666,de Koer,170,2.0,1.0
 44715,De Öko Melkburen GmbH,322,1.0,25.0
 47814,Degree Clothing GmbH,701,2.0,38.0
-92501,Delibera,803,1.0,26.0
+92501,Delibera,804,1.0,26.0
 14900,Der Fährmann Bestattung und Trauerrituale Bernhard Schöpfer OG,111,2.0,26.0
 38694,DER HOLZHOF GmbH  Kunze,145,2.0,8.0
 40994,"Der Service Gaertner Gärtnermeister, Reinhard Sperr",58,2.0,25.0
@@ -300,7 +300,7 @@ id,organization,locations_id,employees_id,sectors_id
 14988,DR. ULRICH WIEK Training & Coaching,530,1.0,7.0
 129564,Drachenstube,684,1.0,38.0
 35676,Dreimäderlhaus,726,2.0,37.0
-28513,DROSG-PLÖCKINGER & PLÖCKINGER OG,11,,
+28513,DROSG-PLÖCKINGER & PLÖCKINGER OG,11,\N,\N
 44751,Druckerei Nienstedt GmbH,303,2.0,28.0
 14671,Druckerei Zollenspieker,295,2.0,28.0
 38094,dwp eG Fairhandelsgenossenschaft Ravensburg,736,3.0,38.0
@@ -308,14 +308,14 @@ id,organization,locations_id,employees_id,sectors_id
 14906,Dynamic Governance Führung und Ethik in der Unternehmensentwicklung Petra Ostfeld,341,2.0,7.0
 46802,e-fect dialog evaluation consulting eG,218,2.0,7.0
 15795,EarthWays,169,1.0,7.0
-27428,Easy Mobil GmbH,898,1.0,39.0
+27428,Easy Mobil GmbH,899,1.0,39.0
 93999,easyconsult GmbH,7,3.0,9.0
 14936,easySoft. GmbH,565,5.0,26.0
 132123,eb24-einfach mehr Service,438,2.0,33.0
 50170,ECB-Beratung GmbH,275,1.0,7.0
-14672,ECG Ecotopia,923,1.0,33.0
+14672,ECG Ecotopia,925,1.0,33.0
 36666,echoholos,186,1.0,7.0
-92395,Eco Invéntame,859,,26.0
+92395,Eco Invéntame,860,\N,26.0
 83988,EcoEmbassy,674,1.0,7.0
 14792,Ecofit Biofruchtimport GmbH,538,3.0,38.0
 14802,Ecosia GmbH,236,4.0,19.0
@@ -325,7 +325,7 @@ id,organization,locations_id,employees_id,sectors_id
 14926,Eigenbetrieb Stadtentwässerung Mannheim (EBS Mannheim),528,6.0,26.0
 44813,Eissalon Franz Leonardelli KG,15,2.0,37.0
 14847,EL PUENTE GmbH,362,4.0,38.0
-92427,El Sol es vida,838,,26.0
+92427,El Sol es vida,839,\N,26.0
 130850,Elbers Hof GmbH & Co.KG,353,4.0,25.0
 131810,Elektrizitätswerk Hindelang e.G.,722,3.0,12.0
 14714,elfgen pick gmbh & co. kg,688,2.0,23.0
@@ -335,16 +335,16 @@ id,organization,locations_id,employees_id,sectors_id
 30132,"embedded linux devices, EXD",27,1.0,9.0
 14851,Engel und Brotzge og einfachmoebel,136,2.0,6.0
 36671,Engineer M.E. Ing. Markus Eisner,45,1.0,7.0
-92339,Enreda,846,,26.0
+92339,Enreda,847,\N,26.0
 85120,ensian Group GmbH |  elobau GmbH & Co KG,739,12.0,11.0
 41022,Entwicklung Gemeinwohl Kunst,188,1.0,7.0
 55981,Ernährungs-Vitalstoffberatung Lydia Zahn,705,1.0,7.0
-92381,Escuela Ideo,824,,26.0
+92381,Escuela Ideo,825,\N,26.0
 91279,ESN Deutsche Tischtennis Technologie GmbH,789,6.0,5.0
-92397,Espais per conviure,853,,26.0
-92351,ETIC OnLine S.L.,866,,26.0
-92517,Ética patrimonios S.L.U.,849,1.0,26.0
-92471,Eticus Eticae,804,1.0,26.0
+92397,Espais per conviure,854,\N,26.0
+92351,ETIC OnLine S.L.,867,\N,26.0
+92517,Ética patrimonios S.L.U.,850,1.0,26.0
+92471,Eticus Eticae,805,1.0,26.0
 40974,ETTL-SOFTWARE GMBH,44,2.0,9.0
 46971,Ev. Jugendhilfe Bochum e.V.,442,3.0,10.0
 46969,Ev. Jugendhilfe Geltow e.V.,267,4.0,10.0
@@ -369,26 +369,26 @@ id,organization,locations_id,employees_id,sectors_id
 38098,Fairmondo eG,233,3.0,38.0
 30139,Familienferienanlage Gut Nisdorf GmbH,279,2.0,37.0
 14742,Farbenmühle mcdrent GmbH & Co.KG,445,2.0,6.0
-35296,"FARCAP Faire Mode gGmbH, Fürth",763,,36.0
+35296,"FARCAP Faire Mode gGmbH, Fürth",763,\N,36.0
 45948,Fastenopfer,179,4.0,26.0
 90744,Faunt,468,1.0,38.0
 135620,FC St. Pauli von 1910 e.V.,289,7.0,2.0
-133339,Feelera Srl società benefit,877,2.0,9.0
+133339,Feelera Srl società benefit,878,2.0,9.0
 111111,Fegerl Consulting Studio Salzburg,66,1.0,7.0
 37740,Felix Oesch – Beratungen Gallusberg GmbH,196,1.0,7.0
 44755,Ferienhof Möller,322,1.0,37.0
 29723,FH Burgenland,137,5.0,10.0
 14804,FIBUR GmbH,207,2.0,18.0
-110257,Flipped Job Market,793,1.0,33.0
-47495,Flores Farm GmbH,535,,25.0
+110257,Flipped Job Market,794,1.0,33.0
+47495,Flores Farm GmbH,535,\N,25.0
 101017,Flotte Karotte,443,4.0,38.0
 124386,Flower Factory,219,2.0,38.0
 14815,FnF Mannheimer Gesellschaft zur Förderung von Arbeitsplätzen,525,4.0,37.0
 14776,focus-energie,590,2.0,8.0
 14901,Fohlenhof Astner,163,1.0,25.0
-92495,Folgado,852,1.0,26.0
+92495,Folgado,853,1.0,26.0
 23225,followfood GmbH,731,4.0,25.0
-72957,FONDAZIONE MIRAFIORI,872,2.0,16.0
+72957,FONDAZIONE MIRAFIORI,873,2.0,16.0
 14998,Forst Baden-Württemberg (ForstBW),557,12.0,25.0
 84747,forStory GmbH,620,2.0,23.0
 36697,FORUM BERUFSBILDUNG MÜNCHEN KARL THIESSEN,664,3.0,7.0
@@ -401,17 +401,17 @@ id,organization,locations_id,employees_id,sectors_id
 33071,Freiburg Institut,591,2.0,7.0
 35657,Freilich Unverpackt – Stefanie Grömmer & Martin Kensy Gbr,719,2.0,38.0
 14835,Frobenius-Foisner-Holzeis Steuerberatung GmbH,662,2.0,14.0
-25018,Fugger Reisen KG d. Volgger Werner & Co.,900,2.0,39.0
+25018,Fugger Reisen KG d. Volgger Werner & Co.,901,2.0,39.0
 14975,Führen mit… Urte Töpfer,226,1.0,7.0
-92481,Fundació Institut Guttman,809,1.0,26.0
-92499,Fundación Horta Sud,864,1.0,26.0
-72941,Fundraiserperpassione srl sb,879,2.0,32.0
-133266,Fundraiserperpassione srl sb,880,1.0,7.0
+92481,Fundació Institut Guttman,810,1.0,26.0
+92499,Fundación Horta Sud,865,1.0,26.0
+72941,Fundraiserperpassione srl sb,880,2.0,32.0
+133266,Fundraiserperpassione srl sb,881,1.0,7.0
 35678,Füssen Tourismus und Marketing,726,4.0,37.0
 143130,Futour,314,1.0,37.0
 87410,GAB Gesellschaft für Arbeits- und Berufsförderung gGmbH,380,4.0,16.0
 36711,Gaby Belz GmbH,183,1.0,7.0
-92385,GAE comunidades,843,,26.0
+92385,GAE comunidades,844,\N,26.0
 14994,Gandler Risk Management,87,3.0,18.0
 33062,Gardion UG,588,2.0,9.0
 41039,GartenLeben GmbH,767,2.0,25.0
@@ -456,12 +456,12 @@ id,organization,locations_id,employees_id,sectors_id
 38692,Graf GmbH,596,3.0,8.0
 24840,Graf Metternich-Quellen Karl Schöttker KG,370,4.0,25.0
 124473,Gräflich Bernstorff´sche Betriebe,351,4.0,25.0
-92377,Grasaica S.L.,842,,26.0
-92369,Green Urban Data SL,854,,26.0
+92377,Grasaica S.L.,843,\N,26.0
+92369,Green Urban Data SL,855,\N,26.0
 143125,greencentive gUG,472,1.0,33.0
 19081,Greenpeace e.V.,290,12.0,33.0
 45871,Greenpeace Schweiz,184,5.0,26.0
-133351,Greenplanner srl società benefit,874,1.0,23.0
+133351,Greenplanner srl società benefit,875,1.0,23.0
 44759,GreenPrint Osttirol e. U.,164,2.0,28.0
 157021,GREENs Unlimited GmbH,231,5.0,37.0
 64887,GreenWebspace  Riedmatten It Solutions e.U.,4,1.0,9.0
@@ -472,10 +472,10 @@ id,organization,locations_id,employees_id,sectors_id
 14838,Gruber+Haumer Landschaftsarchitektur.OG,119,1.0,6.0
 19684,Grüne Erde GmbH,56,12.0,38.0
 82926,Grünland der Bioladen,347,3.0,38.0
-92365,Grupo La Plana,816,,26.0
+92365,Grupo La Plana,817,\N,26.0
 157458,GT Emission Solutions UG,447,3.0,33.0
 36903,Gugler GmbH,38,5.0,28.0
-92425,Guia Natura Eco Tourism,844,,26.0
+92425,Guia Natura Eco Tourism,845,\N,26.0
 14933,Gunz Warenhandels GmbH,129,5.0,38.0
 14839,Gut Sonnenhausen GmbH & Co. KG,686,4.0,37.0
 22388,Gute Frücht,100,1.0,25.0
@@ -494,15 +494,15 @@ id,organization,locations_id,employees_id,sectors_id
 77329,Haus Luise,729,1.0,37.0
 22385,Haus of Commons,92,1.0,30.0
 139403,Haustechnik Hofer GmbH,672,3.0,8.0
-35298,"Hauswirtschaftliches Service-Team GmbH, Baiersdorf",765,,33.0
+35298,"Hauswirtschaftliches Service-Team GmbH, Baiersdorf",765,\N,33.0
 52862,Havelmi eG,271,1.0,25.0
-35300,HBplus Dinkelscherben GmbH Steuerberatungsgesellschaft,697,,14.0
+35300,HBplus Dinkelscherben GmbH Steuerberatungsgesellschaft,697,\N,14.0
 32995,Headgate,122,1.0,7.0
 41060,Heckel Engineering & Projektdienstleistungen neu,776,3.0,20.0
 73618,HeimatERBE GmbH,446,2.0,25.0
 30091,Heinrich Michael Wansch,68,2.0,8.0
 14695,Heinz Ziegenbein GmbH & Co. KG,569,2.0,36.0
-92349,HELIA Cooperativa Valenciana,863,,26.0
+92349,HELIA Cooperativa Valenciana,864,\N,26.0
 14902,Helmut Kähler,345,1.0,7.0
 132143,Help2007 Dortmund UG (haftungsbeschränkt),440,3.0,33.0
 14768,Henriette Stadthotel,2,4.0,37.0
@@ -519,11 +519,11 @@ id,organization,locations_id,employees_id,sectors_id
 98748,Hofmann & Drews GbR,278,1.0,37.0
 36877,Holger Stützle IT- & Organisationsberatung,302,1.0,7.0
 36728,Höller Seminare,158,1.0,7.0
-24898,Holzer Bus GmbH,894,3.0,39.0
+24898,Holzer Bus GmbH,895,3.0,39.0
 119258,Holzmanufaktur Rottweil GmbH,587,5.0,8.0
 36730,homann colormanagement,215,1.0,7.0
 14992,Horst Haas Prototypen,708,2.0,17.0
-92355,Horta de Rajolar,816,,26.0
+92355,Horta de Rajolar,817,\N,26.0
 84783,Hotel & Restaurant Menge,507,2.0,37.0
 40871,Hotel Balance,174,2.0,37.0
 14841,"Hotel Garmischer Hof, Seiwald-von Thurn GmbH",643,4.0,37.0
@@ -532,10 +532,10 @@ id,organization,locations_id,employees_id,sectors_id
 143250,Hotel Kothmühle GmbH,37,4.0,37.0
 56302,Hotel Leutascherhof – Wandl OHG,96,3.0,37.0
 52985,Hotel Melanie GmbH,64,2.0,37.0
-126575,Hotel Olympic Srl SB,890,3.0,37.0
-56309,Hotel Steineggerhof Resch Kurt & CoKG,901,3.0,37.0
+126575,Hotel Olympic Srl SB,891,3.0,37.0
+56309,Hotel Steineggerhof Resch Kurt & CoKG,902,3.0,37.0
 14985,Hotel Villa Orange,508,3.0,37.0
-92367,Hotel Voramar,817,,26.0
+92367,Hotel Voramar,818,\N,26.0
 52990,Hotel zur Post GmbH,62,2.0,37.0
 131825,Hotel-Restaurant Adler e.K.,721,4.0,37.0
 14723,hpkj | heilpädagogisch-psychotherapeutische Kinder- und Jugendhilfe e.V.,610,6.0,16.0
@@ -551,41 +551,41 @@ id,organization,locations_id,employees_id,sectors_id
 44781,IBOR AG CNC-Zerspanung,180,3.0,17.0
 62113,ICF Germany Charter Chapter e.V,631,2.0,7.0
 101568,iCONDU GmbH,675,2.0,7.0
-157602,IDFS Sp. z o.o.,921,2.0,9.0
+157602,IDFS Sp. z o.o.,923,2.0,9.0
 33281,IFSM,792,2.0,7.0
-35299,IFUB GmbH,601,,6.0
+35299,IFUB GmbH,601,\N,6.0
 19536,Ilse Lang,148,1.0,7.0
 135374,Im-jaich oHG,343,6.0,37.0
-92497,Imanol Medrano de Azpeitia,822,1.0,26.0
+92497,Imanol Medrano de Azpeitia,823,1.0,26.0
 80677,Imdahl-Institut,587,1.0,7.0
 44783,Impact Hub Munich GmbH,617,2.0,26.0
-92435,IMPRESUM GRAFICAS LITOLEMA S.L.,850,,26.0
+92435,IMPRESUM GRAFICAS LITOLEMA S.L.,851,\N,26.0
 61933,IMPROVE-Bildung mit Zukunft,16,1.0,10.0
 50336,IMPULSGEBEREI,667,1.0,7.0
 140188,IMPULSGEBEREI,667,1.0,7.0
-126541,Indaco Team,869,2.0,7.0
+126541,Indaco Team,870,2.0,7.0
 14796,INFO GmbH,399,2.0,7.0
-92347,INFORATGE S.C,862,,26.0
+92347,INFORATGE S.C,863,\N,26.0
 19540,Ing. Robert Graf Unternehmensberatung,17,1.0,7.0
 14767,Ing. Robert Thoma G.m.b.H.,79,1.0,6.0
 14743,Ingenieurbüro für Bautechnik,498,1.0,6.0
 131829,Ingenieurbüro Mayer AG,730,6.0,6.0
 36865,Ingenieurbüro Schlagmann,425,1.0,7.0
-92411,Iniciativas industriales de Tenerife Siglo XXI S.l,840,,26.0
+92411,Iniciativas industriales de Tenerife Siglo XXI S.l,841,\N,26.0
 82684,innovia gem GmbH,92,4.0,16.0
 33004,inoio gmbh,288,3.0,9.0
 83223,Institut für Nachhaltigkeit – Institute for Sustainability,751,1.0,7.0
 36733,Institut für Zukunftskompetenzen e.U.,162,1.0,7.0
-92483,Institut Provençana,808,1.0,26.0
+92483,Institut Provençana,809,1.0,26.0
 14739,Integra e.V.,498,5.0,2.0
 160753,integrate-it Netzwerke GmbH,255,4.0,9.0
 44785,Intercoiffeur Erich,153,2.0,8.0
 129566,Interfacewerk GmbH,768,3.0,9.0
 36906,interlink marketing e. U. Anna Oladejo,16,1.0,7.0
 76896,International School Augsburg -ISA- gAG,688,5.0,10.0
-29821,Irene Müller,914,1.0,6.0
-133344,IRIS Soc. Coop. Agricola,878,2.0,25.0
-92433,ISABA PROJETS S.A.,860,,26.0
+29821,Irene Müller,916,1.0,6.0
+133344,IRIS Soc. Coop. Agricola,879,2.0,25.0
+92433,ISABA PROJETS S.A.,861,\N,26.0
 32425,Ivo Knoll,161,1.0,33.0
 78324,JanKoTec – Zukunft. Nachhaltig. Gestalten.,203,1.0,7.0
 14657,Jaritz- Welten verbinden,160,1.0,7.0
@@ -607,7 +607,7 @@ id,organization,locations_id,employees_id,sectors_id
 35274,Kaiser & Kühne Freizeitgeräte GmbH,334,5.0,26.0
 40219,Kaiser Haus GmbH & Co. KG,415,2.0,6.0
 14760,Kaiserhof Anif  Hotel-Restaurant-Bar,65,3.0,37.0
-92505,Kaleidos,820,1.0,26.0
+92505,Kaleidos,821,1.0,26.0
 29726,Kaltenegger & Partner Architekten ZT GmbH,151,2.0,6.0
 65752,Kanzlei Besser Steuerberatungsgesellschaft mbH,245,2.0,14.0
 36527,KARDEA GmbH,142,1.0,6.0
@@ -647,18 +647,18 @@ id,organization,locations_id,employees_id,sectors_id
 14660,Kortz Konfliktspezialisten,273,1.0,7.0
 39616,Krämerei am Markt,494,2.0,38.0
 82407,KREUZER Medien GmbH,198,2.0,23.0
-106077,Križevci Entrepreneurship Center,868,2.0,7.0
+106077,Križevci Entrepreneurship Center,869,2.0,7.0
 33611,kuhs architekten,589,2.0,6.0
 18100,Kulturquartier Münster GmbH,455,2.0,1.0
 14784,Kulturverein Schloss Goldegg,83,2.0,1.0
 131833,Kurbetriebe Oberstdorf,723,4.0,37.0
 14945,Kurt Egger – eku-konstruktiv,72,1.0,7.0
 14921,KV&P Unternehmensberatung,344,2.0,14.0
-14661,La Perla,897,5.0,37.0
-92445,La Urdimbre,845,,26.0
-153690,LABORATORIO ECOTECH S.R.L.,926,3.0,17.0
+14661,La Perla,898,5.0,37.0
+92445,La Urdimbre,846,\N,26.0
+153690,LABORATORIO ECOTECH S.R.L.,928,3.0,17.0
 89051,Lafim-Diakonie a.V.,265,12.0,16.0
-92353,Lago Becu SL,801,,26.0
+92353,Lago Becu SL,802,\N,26.0
 62102,lahaye tiedemann gestalten GbR,742,1.0,22.0
 14793,"Landesverband Amateurtheater Baden-Württemberg e.V.,",540,2.0,1.0
 14662,Landgut Stober Kontor GmbH & Co. Betriebs KG,269,5.0,37.0
@@ -677,9 +677,9 @@ id,organization,locations_id,employees_id,sectors_id
 52981,Lederer Boutique Hotel,85,2.0,37.0
 129847,LEDtec GmbH,374,3.0,11.0
 112820,Lehm-Laden GmbH & Co. KG,349,2.0,38.0
-20244,Lekido,892,1.0,16.0
+20244,Lekido,893,1.0,16.0
 14857,Lenz Consulting,126,1.0,7.0
-117420,Leotron Srl Società Benefit,886,3.0,38.0
+117420,Leotron Srl Società Benefit,887,3.0,38.0
 36799,LernSINN erlebBAR e.V.,270,1.0,7.0
 14755,"LEWANDOWSKI Beratung, Analyse, Entwicklung",463,1.0,7.0
 127545,LichteGeschichte,198,1.0,22.0
@@ -687,22 +687,22 @@ id,organization,locations_id,employees_id,sectors_id
 14733,liesLotte MEDIEN VERLAG,694,2.0,23.0
 14788,Lilly Deutschland GmbH,514,12.0,27.0
 141375,Lilly Deutschland GmbH,514,8.0,16.0
-92515,Limonium Canarias SL,829,1.0,26.0
+92515,Limonium Canarias SL,830,1.0,26.0
 22837,Lindig Coaching-Wachstum-Integraton,477,1.0,7.0
 51855,Liot Kunststofftechnik,166,3.0,8.0
-92487,LMC,853,1.0,26.0
+92487,LMC,854,1.0,26.0
 93873,Lotta Karotta Bio-Lieferservice OHG,409,4.0,25.0
 23252,Luisenburg Festspiele,783,4.0,1.0
 19686,Lux Bau GmbH,33,6.0,6.0
 36803,LWP Institut Hannover,358,1.0,7.0
-92429,Mª Jesús Pérez Domínguez,833,,26.0
+92429,Mª Jesús Pérez Domínguez,834,\N,26.0
 14858,Maas Naturwaren GmbH,378,6.0,36.0
-19279,Macrolibrarsi di Golden Books S.r.l.,905,5.0,38.0
+19279,Macrolibrarsi di Golden Books S.r.l.,906,5.0,38.0
 36805,Mae Terra – Seminare Anne Tscharmann & Robert Pilak,138,1.0,7.0
 104921,Mag. Daniela Christine Schwaiger,77,1.0,7.0
 45837,Mag. Dr. Martin Sturmer,67,1.0,22.0
 22392,Mag. Michael Zitterl,94,1.0,7.0
-35301,MAG. VERENA FLORIAN,2,,7.0
+35301,MAG. VERENA FLORIAN,2,\N,7.0
 19538,Maga Ulli Fejer,149,1.0,7.0
 156929,MAJORMAJOR Design Co. Schönbörner – Beerwart Gbr,543,1.0,22.0
 44823,MAKAvA delighted GmbH,146,2.0,25.0
@@ -711,14 +711,14 @@ id,organization,locations_id,employees_id,sectors_id
 30355,Malteser Hilfsdienst gemeinnützige GmbH,651,5.0,16.0
 14860,Malzfabrik,240,3.0,1.0
 14905,Manfred Jotter – Besser Wirtschaften,288,1.0,7.0
-28515,Manfred Kofranek,10,,
+28515,Manfred Kofranek,10,\N,\N
 44827,MaranVEGAN GmbH,6,2.0,38.0
 40996,Margit  und Josef Mayr-Lamm,52,2.0,25.0
 37705,Maria Henkys ShopConsult-NRW,422,1.0,7.0
 64670,Maria-Elisabeth Belpaire,168,1.0,26.0
 150760,Marianne Voit Coaching-Training-Supervision,704,1.0,7.0
 30151,Marianne Voit-Lipowsky,704,1.0,7.0
-92459,Marketeasing,807,1.0,26.0
+92459,Marketeasing,808,1.0,26.0
 27489,Märkisches Landbrot GmbH,238,4.0,8.0
 85360,Markt5- Der regionale Concept Store,506,1.0,38.0
 24844,Markthalle Betriebsgesellschaft mbH,283,4.0,38.0
@@ -730,19 +730,19 @@ id,organization,locations_id,employees_id,sectors_id
 14747,Matthias Brunk,482,1.0,7.0
 35669,Mattlihaus KG,722,3.0,37.0
 139399,media4nature GmbH,754,1.0,22.0
-48622,Medus des Andreas Gögele & Co. KG,893,3.0,28.0
+48622,Medus des Andreas Gögele & Co. KG,894,3.0,28.0
 80060,"MehrWert GmbH für Finanzberatung und Vermittlung, Bamberg",784,2.0,13.0
 55101,mehrWerte Unternehmensentwicklung,11,1.0,7.0
 44832,Meierei Horst eG,326,3.0,25.0
 14803,Mein Grundeinkommen e.V. (gemeinnützig),237,3.0,16.0
 14862,Mein Kindskopf UG,653,1.0,16.0
-35292,"Meister Küfner Nusseckenmanufaktur, Nürnberg",759,,8.0
+35292,"Meister Küfner Nusseckenmanufaktur, Nürnberg",759,\N,8.0
 45835,Meisterfloristik Oberndorf,67,2.0,8.0
 14817,Melchinger Systemhaus UG (haftungsbeschränkt),552,1.0,7.0
-24896,Mellauner S.r.l.,899,2.0,39.0
-92465,Mellowmove,922,1.0,26.0
+24896,Mellauner S.r.l.,900,2.0,39.0
+92465,Mellowmove,924,1.0,26.0
 36811,mentalenz Corinna Lütsch & Carsten Schaeffer GbR,308,1.0,7.0
-82677,Meraner Weinhaus – PUR Südtirol,892,5.0,38.0
+82677,Meraner Weinhaus – PUR Südtirol,893,5.0,38.0
 44845,Mercacultura GmbH,152,2.0,38.0
 29734,Metzler Käse – Molke GmbH,134,3.0,25.0
 14790,mg: mannheimer gründungszentren gmbh,527,4.0,30.0
@@ -754,7 +754,7 @@ id,organization,locations_id,employees_id,sectors_id
 14961,Mick Petersmann,287,1.0,7.0
 22381,mICU-Alps GmbH,93,2.0,16.0
 80072,"MINOVA Information Services GmbH, Würzburg",787,3.0,9.0
-48630,MITTELBERGER & CO OHG,902,3.0,8.0
+48630,MITTELBERGER & CO OHG,903,3.0,8.0
 14809,Mobility Center GmbH,199,3.0,39.0
 14725,MobilSpiel e.V.,618,4.0,10.0
 15588,"Möckernkiez Genossenschaft für selbstverwaltetes, soziales und ökologisches Wohnen eG",229,2.0,30.0
@@ -763,8 +763,8 @@ id,organization,locations_id,employees_id,sectors_id
 75629,mondo buchhandlung,379,1.0,38.0
 30038,Monika Riedl Christallmanufaktur,75,2.0,1.0
 14963,monomeer. Alles ohne Plastik,585,1.0,38.0
-44182,Monteverde Cooperativa Sociale di Solidarietà – Onlus,882,4.0,16.0
-133262,Monteverde Cooperativa Sociale di Solidarietà – Onlus,882,4.0,16.0
+44182,Monteverde Cooperativa Sociale di Solidarietà – Onlus,883,4.0,16.0
+133262,Monteverde Cooperativa Sociale di Solidarietà – Onlus,883,4.0,16.0
 74013,Müller & Mooseder Unternehmensberatung,678,1.0,7.0
 14663,Müller Bau GmbH & Co KG,130,4.0,6.0
 14736,MÜLLER Ofenbau Bertram u. Harald Müller GesnbR,121,2.0,8.0
@@ -774,16 +774,16 @@ id,organization,locations_id,employees_id,sectors_id
 30299,Münchner Aids- Hilfe e.V.,604,4.0,16.0
 46973,Münsterland gGmbH,458,3.0,10.0
 56536,Mutpol – Diakonische Jugendhilfe Tuttlingen,586,12.0,16.0
-84899,MYCB1 Group B.V.,912,2.0,27.0
+84899,MYCB1 Group B.V.,913,2.0,27.0
 143254,myssion consulting gmbh,3,2.0,7.0
 36608,"N-Motion, Röhrle & Henle Partnerschaftsgesellschaft",742,1.0,7.0
 14955,n.e.s.t. Bauprojektierung und Vermietung AG,555,1.0,6.0
 14810,Nack Büroeinrichtungen GmbH,301,2.0,38.0
 36813,Nagl-Pölzer Consulting,25,1.0,7.0
-92399,Natura cultura y servicios ambientales S.L.,865,,26.0
+92399,Natura cultura y servicios ambientales S.L.,866,\N,26.0
 132141,Naturbackstube Kreis e.K.,436,2.0,8.0
 14993,naturblau+++ Die Werteagentur,582,2.0,22.0
-35302,nature and progress,598,,7.0
+35302,nature and progress,598,\N,7.0
 35652,Naturerlebniszentrum Allgäu,720,1.0,10.0
 44949,Naturgarten Schönegge Schönegge GmbH,683,2.0,25.0
 92832,Naturkost Elkershausen GmbH,405,6.0,38.0
@@ -807,8 +807,8 @@ id,organization,locations_id,employees_id,sectors_id
 14674,Nils Wittke,223,1.0,7.0
 37056,Nina Baresch,18,1.0,16.0
 131662,Nivona Apparate GmbH,757,5.0,38.0
-58436,NL 1,NL 12345,5.0,6.0
-59391,No Time To Waste (Snew),916,3.0,11.0
+58436,NL 1,914,5.0,6.0
+59391,No Time To Waste (Snew),918,3.0,11.0
 18598,Novatec Consulting GmbH,549,6.0,7.0
 98918,noventum consulting GmbH,454,6.0,7.0
 14942,NoviTech e.U.,62,2.0,38.0
@@ -817,11 +817,11 @@ id,organization,locations_id,employees_id,sectors_id
 23248,Objekt-Service GmbH,782,2.0,36.0
 45955,öbu – der Verband für nachhaltiges Wirtschaften (Verein),182,2.0,26.0
 44998,oceanBASIS GmbH,320,3.0,26.0
-92513,Oceanográfica,830,1.0,26.0
+92513,Oceanográfica,831,1.0,26.0
 14949,OeAD-WohnraumverwaltungsGmbH,1,5.0,26.0
 14676,Oekofrost,241,3.0,25.0
 129590,OH LA LAQUA GmbH,606,2.0,38.0
-20027,OIKOPOLIS Participations SA,908,12.0,38.0
+20027,OIKOPOLIS Participations SA,909,12.0,38.0
 14720,Öko & Fair Umweltzentrum Gauting,634,1.0,33.0
 14677,Ökofairbau,777,1.0,6.0
 84568,Ökokiste Bosshammersch Hof,397,4.0,25.0
@@ -846,8 +846,8 @@ id,organization,locations_id,employees_id,sectors_id
 40111,PAPERBOATS Lenja Rother,285,1.0,7.0
 30305,PARITÄTISCHE Sozialpsychiatrisches Zentrum München gGmbH,629,5.0,16.0
 14680,Parkhotel Frank,723,5.0,37.0
-59402,Parktheater Eindhoven,918,5.0,1.0
-92479,Pauma,827,1.0,26.0
+59402,Parktheater Eindhoven,920,5.0,1.0
+92479,Pauma,828,1.0,26.0
 14741,PCH-Fischer GmbH & Co. KG,498,1.0,7.0
 14697,Pelzl Beratung & Umsetzung,342,1.0,7.0
 96610,peppair GmbH,737,1.0,7.0
@@ -857,19 +857,19 @@ id,organization,locations_id,employees_id,sectors_id
 14681,Peter Frank,557,1.0,7.0
 14682,Peter Weiss Stiftung (PWS)Literaturfestival,206,2.0,28.0
 25426,Petersilchen GmbH,370,5.0,25.0
-92357,Piben Fruits,815,,26.0
-44173,Pineta Hotels,888,4.0,37.0
-126556,Pineta Nature Resort Srl,887,4.0,37.0
-14951,Pizzinini Busreisen,899,4.0,8.0
-27430,Pizzinini Mobility GmbH,899,2.0,39.0
+92357,Piben Fruits,816,\N,26.0
+44173,Pineta Hotels,889,4.0,37.0
+126556,Pineta Nature Resort Srl,888,4.0,37.0
+14951,Pizzinini Busreisen,900,4.0,8.0
+27430,Pizzinini Mobility GmbH,900,2.0,39.0
 124379,Planungsbüro Drobka GmbH,273,3.0,33.0
-92423,Playamar y Turismo,802,,26.0
+92423,Playamar y Turismo,803,\N,26.0
 79534,playfulmind GmbH,781,1.0,7.0
 30768,Points Gesellschaft für digitale Informationssysteme mbH,538,3.0,9.0
 14683,Polarstern,604,3.0,12.0
 150465,Polarstern GmbH,604,4.0,12.0
 85373,POLIFANT Stuttgart gGmbH,553,6.0,10.0
-92451,Pou de Beca,813,,26.0
+92451,Pou de Beca,814,\N,26.0
 96975,PRÄSENTATIONSWERK,511,1.0,7.0
 14727,Praxisgemeinschaft AMEDEA,711,1.0,16.0
 14867,Praxisgemeinschaft Fridolfing,660,3.0,27.0
@@ -882,15 +882,15 @@ id,organization,locations_id,employees_id,sectors_id
 64591,PRO-PLAN GmbH,108,2.0,12.0
 127454,pro… gemeinsam bauen und leben eG,538,2.0,6.0
 143246,PROCESS-M GmbH,11,1.0,7.0
-92401,Produccions Metrònoms S.L.,811,,26.0
+92401,Produccions Metrònoms S.L.,812,\N,26.0
 40588,ProEngeno GmbH & Co. KG,332,2.0,12.0
 36684,Prof. Dr. Bernd Fittkau,307,1.0,7.0
-40119,Prof. Dr. Bernd Hümmer,761,,7.0
+40119,Prof. Dr. Bernd Hümmer,761,\N,7.0
 120252,Profilwerkstatt GmbH,521,5.0,22.0
 14710,Proiectio,521,1.0,7.0
 40298,PROMA Versicherungsmakler GmbH & Co.KG,750,3.0,13.0
 99328,prosa Architektur+Stadtplanung BDA,519,3.0,6.0
-151681,pusch & Partner,318,,
+151681,pusch & Partner,318,\N,\N
 21191,Qaizen GmbH,433,1.0,7.0
 30309,qnipp GmbH,141,2.0,9.0
 44867,Quartiermeister – korrekter Konsum GmbH,233,2.0,38.0
@@ -902,7 +902,7 @@ id,organization,locations_id,employees_id,sectors_id
 29769,Radio München gUG,623,2.0,23.0
 32904,Radio Next Generation GmbH & Co. KG (Sender egoFM),611,3.0,23.0
 80067,"radius UG, Ihr Fahrrad-Kurier in Würzburg",786,2.0,39.0
-35304,Rahm Projektmanagement Schlüsselfertigbau GmbH,542,,6.0
+35304,Rahm Projektmanagement Schlüsselfertigbau GmbH,542,\N,6.0
 56171,Raidboxes GmbH,453,4.0,9.0
 14711,Raiffeisenbank Lech am Arlberg eGen,123,3.0,13.0
 82244,Raiffeisenbank Region St. Pölten eGen,31,6.0,4.0
@@ -923,8 +923,8 @@ id,organization,locations_id,employees_id,sectors_id
 30153,Regionalkollektiv eG,670,2.0,25.0
 29660,REGIOS EG,645,2.0,13.0
 36662,Reinhard Decker  Unternehmensberater,127,1.0,7.0
-53438,Reishofers Pasch UG,665,,7.0
-19282,Remedia di Satanassi & Bosch Società Agricola S.S.,904,4.0,25.0
+53438,Reishofers Pasch UG,665,\N,7.0
+19282,Remedia di Satanassi & Bosch Società Agricola S.S.,905,4.0,25.0
 82902,renergie Allgäu e.V.,715,3.0,7.0
 90814,REUTER × BOBETH,228,2.0,22.0
 29753,ReWiG München eG,624,2.0,33.0
@@ -937,22 +937,22 @@ id,organization,locations_id,employees_id,sectors_id
 87389,Rolf Schanz Gmbh – Schanz Bänder,559,2.0,17.0
 29832,Roseli Gonzalves,339,1.0,7.0
 83738,RÖSTTROMMEL GMBH KAFFEERÖSTEREI,755,4.0,38.0
-35305,Rosy Green Wool GbR – Rosmary Stegmann und Patrick Gruban,607,,38.0
+35305,Rosy Green Wool GbR – Rosmary Stegmann und Patrick Gruban,607,\N,38.0
 55440,Rudolf Eckel Federnfabrik,493,4.0,17.0
 44937,Rudolf Steiner Haus Hamburg e.V.,284,2.0,2.0
 130935,RUNA REISEN GmbH,381,3.0,37.0
-92345,Ruth Palomero S.L.,855,,26.0
+92345,Ruth Palomero S.L.,856,\N,26.0
 14944,Sabine Lehner – MARKENwerkstatt,62,1.0,7.0
 35671,SÄBU Holzbau GmbH,727,4.0,6.0
 14868,Sachranger Dorfladen UG,650,1.0,38.0
 20289,Sächsische Aufbaubank – Förderbank,197,12.0,4.0
-35306,SAD Nahverkehr AG,902,,39.0
-44178,Sadesign SNC,891,2.0,33.0
-126578,Sadesign SNC,891,3.0,38.0
+35306,SAD Nahverkehr AG,903,\N,39.0
+44178,Sadesign SNC,892,2.0,33.0
+126578,Sadesign SNC,892,3.0,38.0
 14925,Samariterstiftung,566,12.0,16.0
 14910,Sanoll,113,2.0,34.0
 17818,Saphenus Medical Technology GmbH,40,2.0,24.0
-92407,SAPIENS ENERGÍA COOP. V.,861,,26.0
+92407,SAPIENS ENERGÍA COOP. V.,862,\N,26.0
 44939,satis&fy AG,504,6.0,26.0
 36838,sattler energie consulting gmbh,57,2.0,7.0
 44942,Schachinger Logistik Holding GmbH,47,12.0,39.0
@@ -977,27 +977,27 @@ id,organization,locations_id,employees_id,sectors_id
 90359,Schwarzer Business Quality,400,1.0,7.0
 25346,Schwarzseher GmbH,331,2.0,22.0
 93101,sd vybrant GmbH,609,2.0,21.0
-92405,Seco Durán S.L.,836,,26.0
+92405,Seco Durán S.L.,837,\N,26.0
 129598,Secur Solutions GmbH,637,6.0,33.0
 14996,Sehen und Hören Maurer GmbH,87,3.0,38.0
 14912,Seifenmanufaktur-Neururer gmbh,114,1.0,34.0
-25101,Seiwald KG des Seiwald Klaus & Co.,894,3.0,39.0
+25101,Seiwald KG des Seiwald Klaus & Co.,895,3.0,39.0
 41057,SEKEM Holding for Investment S.A.E. 3,235,12.0,25.0
 14939,Seminarhaus deinsdorf e.V.,769,2.0,10.0
 56033,Sempact AG,705,2.0,7.0
 55129,Seniorenzentrum Göttingen gGmbH,407,6.0,16.0
-92441,Seniors Vida Sostenible,795,,26.0
+92441,Seniors Vida Sostenible,796,\N,26.0
 124371,senne products GmbH,376,5.0,26.0
-24893,SERBUS KG des Christof Haidacher & Co.,896,5.0,39.0
+24893,SERBUS KG des Christof Haidacher & Co.,897,5.0,39.0
 36869,SERI Nachhaltigkeitsforschungs und –kommunikations GmbH,758,3.0,7.0
 44711,Service für Haus & Garten Markus Brandl,146,1.0,8.0
 14870,SES Stadtentwässerung Stuttgart,534,12.0,29.0
 32906,SFP Architekten GmbH,539,3.0,6.0
-92415,Shine Psicología y Coaching S.L,839,,26.0
+92415,Shine Psicología y Coaching S.L,840,\N,26.0
 41402,siebold/hamburg messebau gmbh,310,4.0,33.0
-25016,Silbernagl Markus GmbH,898,3.0,39.0
+25016,Silbernagl Markus GmbH,899,3.0,39.0
 127444,silberzebra gmbh,591,2.0,9.0
-24903,SiMobil GmbH,898,5.0,39.0
+24903,SiMobil GmbH,899,5.0,39.0
 19542,Simon Brechel Nachhaltigkeitsmanagement,520,1.0,7.0
 90090,Simon Veith | Nachhaltige Fotografie,465,1.0,23.0
 29802,sinnovation – nachhaltig entwickeln,475,1.0,7.0
@@ -1007,10 +1007,10 @@ id,organization,locations_id,employees_id,sectors_id
 25344,smile! Solutions GmbH,221,2.0,33.0
 14731,Snehotta Pflegeteam,696,2.0,16.0
 127018,Snehotta Pflegeteam,696,6.0,33.0
-72960,Società Mutua Piemonte ETS,873,2.0,16.0
-126590,Società Mutua Piemonte ETS,871,2.0,16.0
+72960,Società Mutua Piemonte ETS,874,2.0,16.0
+126590,Società Mutua Piemonte ETS,872,2.0,16.0
 14965,SODI – Solidaritätsdienst International e. V.,213,2.0,26.0
-92431,Solange A. Ottonello Tuya,832,,26.0
+92431,Solange A. Ottonello Tuya,833,\N,26.0
 143248,SOLAR 4 YOU Consulting Ges.m.b.H.,21,2.0,6.0
 124375,SOLVIS GmbH,416,6.0,17.0
 101562,Sommerland YogaKultur Erbach,746,1.0,34.0
@@ -1058,7 +1058,7 @@ id,organization,locations_id,employees_id,sectors_id
 23250,Stefan Wladarsch,780,1.0,7.0
 14971,Steinbeis-Transferzentrum ZEN,591,1.0,7.0
 14873,Steinbildhauerei Vincent,498,1.0,8.0
-25029,Steiner Touring GmbH,894,12.0,39.0
+25029,Steiner Touring GmbH,895,12.0,39.0
 30147,Steinmetz Braun GmbH,671,2.0,8.0
 106552,step GbR,350,2.0,7.0
 44957,Sterntalerhof – Verein für ganzheitliche Lebensbegleitung,144,3.0,16.0
@@ -1072,23 +1072,23 @@ id,organization,locations_id,employees_id,sectors_id
 129757,Stiftung Gemeinwohl-Ökonomie NRW,366,1.0,26.0
 45950,Stiftung Praktischer Umweltschutz Schweiz – Pusch,183,4.0,26.0
 106945,Stiftung Theologische Hochschule Reutlingen der Evangelisch-methodistischen Kirche,567,3.0,10.0
-35307,"Stimmumschwung, Hayo Keckeis, Wilhermsdorf",770,,1.0
-133268,STL srl sb,881,3.0,38.0
+35307,"Stimmumschwung, Hayo Keckeis, Wilhermsdorf",770,\N,1.0
+133268,STL srl sb,882,3.0,38.0
 87391,Strobel AG,766,4.0,28.0
-35308,Strom vom Dach,105,,12.0
+35308,Strom vom Dach,105,\N,12.0
 87416,Struck-Leuchten GmbH & Co. KG,370,5.0,22.0
 129593,STUDIO | STADT | REGION – Förster Kurz Architekten & Stadtplaner Partnerschaft mbB,609,3.0,6.0
 67263,Stuttgarter Bäder,533,12.0,1.0
-92477,Subbética Ecológica,818,1.0,26.0
+92477,Subbética Ecológica,819,1.0,26.0
 94655,subject:RESOUL AG,230,2.0,7.0
 44961,sun.e-solution GmbH,166,2.0,11.0
-92453,Supernaranjas,814,,26.0
-152117,Superuse Studios NL BV,913,2.0,6.0
+92453,Supernaranjas,815,\N,26.0
+152117,Superuse Studios NL BV,915,2.0,6.0
 14932,"Susanne Dahncke, Coaching für Querdenker",296,1.0,7.0
 17165,swapwork UG (haftungsbeschränkt),208,1.0,26.0
 14689,Synthro,487,2.0,7.0
 154460,Szene – Verein zur Förderung der Kultur,62,3.0,1.0
-25020,Taferner GmbH,895,4.0,39.0
+25020,Taferner GmbH,896,4.0,39.0
 38145,TAGWERK Großhandel für Naturkost GmbH,687,2.0,38.0
 14707,Taifun-Tofu GmbH,592,6.0,25.0
 44963,Talents4Good GmbH,207,2.0,15.0
@@ -1103,15 +1103,15 @@ id,organization,locations_id,employees_id,sectors_id
 30156,Techgenossen eG,628,2.0,9.0
 39029,Technischen Hochschule Nürnberg Georg Simon Ohm,760,12.0,10.0
 78432,TECTUM GmbH,131,4.0,6.0
-126584,Tenero Consulting sas,883,1.0,40.0
+126584,Tenero Consulting sas,884,1.0,40.0
 144919,Tepui Energy UG,424,1.0,7.0
 62100,TESD GmbH,743,1.0,9.0
 25351,tetrateam – Nachhaltige Konzepte OHG,228,1.0,18.0
 50520,Textlandia Sibylle Reuter,421,1.0,7.0
-41216,The Camphill School,927,6.0,10.0
+41216,The Camphill School,929,6.0,10.0
 112211,The Changer GmbH,237,2.0,33.0
-92473,The Circular Project,819,1.0,26.0
-106276,The New School for Information Services,911,3.0,10.0
+92473,The Circular Project,820,1.0,26.0
+106276,The New School for Information Services,912,3.0,10.0
 45841,Theater ecce,62,2.0,1.0
 35273,"Theater Salz+Pfeffer, Nürnberg",756,2.0,1.0
 14751,TherapieZeitRaum,360,3.0,16.0
@@ -1132,15 +1132,15 @@ id,organization,locations_id,employees_id,sectors_id
 14806,Tourismusverband Wilder Kaiser,106,4.0,37.0
 14811,Trafik Doppelhammer,104,2.0,38.0
 33859,Transition Woods gGmbH,609,2.0,25.0
-92439,Trasub La Vila S.L.,797,,26.0
-133348,Treebu Srl società benefit,885,2.0,25.0
+92439,Trasub La Vila S.L.,798,\N,26.0
+133348,Treebu Srl società benefit,886,2.0,25.0
 91324,TRESS Brüder (TRESS Lebensmittel GmbH & Co. KG & Tress Gastronomie GmbH & Co. KG),564,5.0,37.0
 36883,Trigon Entwicklungsberatung registrierte Genossenschaft mit beschränkter Haftung,147,2.0,7.0
 14690,Trumer Privatbrauerei,70,4.0,25.0
 40976,Tut-All Software GmbH,577,1.0,9.0
 30333,two4science,522,2.0,5.0
 132121,TZ Net GmbH,435,1.0,29.0
-62183,Uitgeverij Genoeg,917,1.0,23.0
+62183,Uitgeverij Genoeg,919,1.0,23.0
 14719,Ulenspiegel Druck GmbH & Co. KG,640,2.0,28.0
 14916,Ulmer Weltladen,742,2.0,38.0
 14691,Ulrike Häussler,529,1.0,7.0
@@ -1152,24 +1152,24 @@ id,organization,locations_id,employees_id,sectors_id
 124485,UnternehmensSinn PartG,208,1.0,7.0
 25349,UnternehmensSinn PartGes,221,1.0,7.0
 83220,upDATE Gesellschaft für Beratung und Training mbH,757,2.0,7.0
-92383,Urbaser S.A,835,,26.0
+92383,Urbaser S.A,836,\N,26.0
 66816,Urpunkt,175,1.0,7.0
 14876,Urte Töpfer – Wirtschaften mit Menschen,226,1.0,7.0
-92463,USS,828,1.0,26.0
-14795,Vägen Ut! Kooperativen,924,5.0,8.0
+92463,USS,829,1.0,26.0
+14795,Vägen Ut! Kooperativen,926,5.0,8.0
 40899,Vanovi Design,247,2.0,23.0
 14917,Vaude,734,12.0,36.0
 14749,ver.de für nachhaltige Entwicklung e.G.,608,1.0,18.0
 44757,Verein freipflanzen,92,1.0,25.0
 37618,Vereinigte Volksbank eG,371,6.0,4.0
-92461,"Veritable, SL",805,1.0,26.0
+92461,"Veritable, SL",806,1.0,26.0
 143256,Vermessung Schubert ZT GmbH,31,5.0,33.0
 36795,Veronika Lamprecht GAIA-Akademie,48,1.0,7.0
 143242,Versicherungsagentur Halmenschlager GmbH,29,2.0,18.0
 82861,vhs Kempten,714,4.0,10.0
 153963,viadee Unternehmensberatung AG,451,6.0,7.0
 38378,Videotechnik Ing. Friedel HANS e.U.,23,2.0,8.0
-92375,Viña ecológica Miguel Poveda Justamante,798,,26.0
+92375,Viña ecológica Miguel Poveda Justamante,799,\N,26.0
 21406,Vinzenz Service GmbH,563,6.0,33.0
 102365,Vinzenz Service GmbH,740,5.0,37.0
 93793,Vision11 GmbH,603,5.0,7.0
@@ -1205,7 +1205,7 @@ id,organization,locations_id,employees_id,sectors_id
 25379,Westerwald-Brauerei H.Schneider GmbH & Co.KG,495,5.0,25.0
 14956,"Westphal & Baade, Abyme GbR",231,1.0,38.0
 35606,WEtell GmbH,591,2.0,35.0
-92341,WeWater,841,,26.0
+92341,WeWater,842,\N,26.0
 24791,WFG Bornheim,484,2.0,33.0
 14919,Wiedemann Jörn,713,1.0,7.0
 16161,Wiehag Holding GmbH,59,6.0,6.0
@@ -1215,7 +1215,7 @@ id,organization,locations_id,employees_id,sectors_id
 30343,Windkraft Simonsfeld AG,19,5.0,12.0
 14799,Winkler Solar GmbH,124,3.0,12.0
 111946,Wino Biolandbau GmbH&Co.KG,572,3.0,25.0
-24901,Wipptalreisen OHG,900,2.0,39.0
+24901,Wipptalreisen OHG,901,2.0,39.0
 14991,Wir Kinder der Erde – Wildnisschule Bayern,710,1.0,32.0
 45142,WirkWandel Impuls GmbH,246,2.0,7.0
 102421,Wirtschaftsförderung Münster GmbH,452,3.0,26.0
@@ -1232,18 +1232,18 @@ id,organization,locations_id,employees_id,sectors_id
 30100,WOOD Kollnig Handelsagentur,165,1.0,8.0
 46088,Yellow Birds Consulting GmbH & Co. KG,745,1.0,7.0
 143436,Yellow Birds GmbH,743,1.0,7.0
-19131,Ynova Innovation Company BV,920,1.0,7.0
+19131,Ynova Innovation Company BV,922,1.0,7.0
 159682,YYYY Test,234,4.0,7.0
 159686,YYYY Test,234,4.0,7.0
 153924,ZABELDruck GmbH,581,2.0,28.0
 14920,Zahnarztpraxis am Kreuzberg,228,2.0,16.0
 124481,Zahnarztpraxis am Kreuzberg,228,2.0,16.0
 30353,Zallis Naturkost Cafe,658,1.0,25.0
-92485,Zaragoza Vivienda,867,1.0,26.0
+92485,Zaragoza Vivienda,868,1.0,26.0
 44959,Zentrum Mensch Andrea Stoffers,425,1.0,16.0
 118849,Zentrum Zeitgenössischer Musik – Kunsthaus Nexus,90,2.0,1.0
 92844,Zimmerei Diedrich – Die Gesundhausbauer GmbH,413,3.0,6.0
 45156,zimmerwerkstatt Nicola Bannier und Michael Weber,349,1.0,8.0
 14718,Zukunftswerk eG,639,2.0,7.0
 30321,zündstoff. fair organic clothing S. Klemz & M. Rau GbR,589,2.0,36.0
-14728,,,1.0,
+14728,\N,\N,1.0,\N
