@@ -1,3 +1,5 @@
 
 data/modeling/archive/sql_syntax.sql
 data/scraping/.ipynb_checkpoints/webscraping_ecg_database-checkpoint.ipynb
+data/scraping/archive/ecg_df_2024-02-07.csv
+data/scraping/archive/ecg_df_2024-01-08.csv
