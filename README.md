@@ -13,8 +13,8 @@ In this project, I analyze the status quo and trends within the [economy for the
 - Automizing the pipeline utilizing Airflow.
 
 ## Tech used
-- Python (web-scraping)
-- SQL (MYSQL; modeling, analyses)
+- Python (web-scraping; data cleaning & transformation)
+- SQL (MySQL; modeling, relational database, data analysis)
 - Tableau (or similar visualization tool like Metabase - TBD; data visualization)
 - Airflow (pipeline automatization)
 
