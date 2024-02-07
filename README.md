@@ -2,6 +2,8 @@
 Project started in January 2024.  
 Project status: Ongoing.
 
+![cover_photo](hands_picture.jpg)
+
 ## Scope
 In this project, I analyze the status quo and trends within the economy for the common good (ECG) movement. For that, I aim to build a full data pipeline:
 - Web-scraping publicly available data from companies that currently participate in the ECG
@@ -31,3 +33,6 @@ Next on the agenda is to clean the web-scraping code (especially heavily hard-co
 
 ## Collaboration
 This is a pro bono project and I am happy to collaborate on it. If you are interested, don't hesitate to contact me, e.g., on [LinkedIn](https://www.linkedin.com/in/sebastian-bobeth/).
+
+## Acknowledgment
+Cover photo by <a href="https://unsplash.com/@claybanks?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Clay Banks</a> on <a href="https://unsplash.com/photos/five-human-hands-on-brown-surface-LjqARJaJotc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>.
