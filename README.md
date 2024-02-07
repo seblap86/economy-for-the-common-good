@@ -22,7 +22,7 @@ The data stems from [this official website of the ECG movement](https://audit.ec
 ## Status quo
 #### First results
 - I successfully scraped the database and cleaned the data.
-- I modeled the data (see picture below), built the relational database using MySQL, and successfully loaded the data into the MySQL server.
+- I modeled the data (see below), built the relational database using MySQL, and successfully loaded the data into the MySQL server.
 
 ![ECG_database_model](data/modeling/ecg_database_model_EER_diagram.png)
 
