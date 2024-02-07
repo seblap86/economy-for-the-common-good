@@ -1,0 +1,5 @@
+id,company_size_category
+1,Micro (≤10)
+2,Small (≤50)
+3,Mid (≤250)
+4,Large (>250)
