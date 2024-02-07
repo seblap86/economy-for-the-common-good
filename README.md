@@ -30,4 +30,4 @@ The data stems from [this official website of the ECG movement](https://audit.ec
 Next on the agenda is to clean the web-scraping code (especially heavily hard-coded parts), conduct data analyses, build insightful dashboards, and automize the whole data pipeline.
 
 ## Collaboration
-This is a pro bono project and I am happy to collaborate on it. If you are interested, don't hesitate to contact me.
+This is a pro bono project and I am happy to collaborate on it. If you are interested, don't hesitate to contact me, e.g., on [LinkedIn](https://www.linkedin.com/in/sebastian-bobeth/).
