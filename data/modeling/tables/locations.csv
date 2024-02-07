@@ -1,0 +1,928 @@
+id,postal_code,city,country_code,country_id
+1,1010,Wien,AT,1
+2,1020,Wien,AT,1
+3,1030,Wien,AT,1
+4,1040,Wien,AT,1
+5,1050,Wien,AT,1
+6,1060,Wien,AT,1
+7,1070,Wien,AT,1
+8,1072,Wien,AT,1
+9,1080,Wien,AT,1
+10,1090,Wien,AT,1
+11,1140,Wien,AT,1
+12,1150,Wien,AT,1
+13,1180,Wien,AT,1
+14,1190,Wien,AT,1
+15,1210,Wien,AT,1
+16,1220,Wien,AT,1
+17,1230,Wien,AT,1
+18,2000,Stockerau,AT,1
+19,2115,Ernstbrunn,AT,1
+20,2280,Glinzendorf,AT,1
+21,2340,Mödling,AT,1
+22,2352,Gumpoldskirchen,AT,1
+23,2380,Perchtoldsdorf,AT,1
+24,2391,Kaltenleutgeben,AT,1
+25,2393,Sittendorf,AT,1
+26,2540,Bad Vöslau,AT,1
+27,2630,TERNITZ,AT,1
+28,2700,Wiener Neustadt,AT,1
+29,3071,Böheimkirchen,AT,1
+30,3072,Kasten bei Böheimkirchen,AT,1
+31,3100,St. Pölten,AT,1
+32,3123,Großrust,AT,1
+33,3170,Hainfeld,AT,1
+34,3180,Lilienfeld,AT,1
+35,3231,St. Margarethen an der Sierning,AT,1
+36,3353,Seitenstetten,AT,1
+37,3364,Neuhofen an der Ybbs,AT,1
+38,3390,Melk/Donau,AT,1
+39,3423,Wördern,AT,1
+40,3500,Krems,AT,1
+41,3550,Langenlois,AT,1
+42,3822,Karlstein,AT,1
+43,3910,Zwettl,AT,1
+44,4020,Linz,AT,1
+45,4030,Linz,AT,1
+46,4040,Linz,AT,1
+47,4063,Hörsching,AT,1
+48,4112,St. Gotthard i. M.,AT,1
+49,4240,Freistadt,AT,1
+50,4400,Steyr,AT,1
+51,4452,Ternberg,AT,1
+52,4511,Alhaming,AT,1
+53,4553,Schlierbach,AT,1
+54,4560,Kirchdorf an der Krems,AT,1
+55,4643,Pettenbach,AT,1
+56,4644,Scharnstein,AT,1
+57,4810,gmunden,AT,1
+58,4894,Oberhofen,AT,1
+59,4950,Altheim,AT,1
+60,5010,Salzburg,AT,1
+61,5017,Salzburg,AT,1
+62,5020,Salzburg,AT,1
+63,5026,Salzburg,AT,1
+64,5071,Wals,AT,1
+65,5081,Anif,AT,1
+66,5102,Anthering,AT,1
+67,5110,Oberndorf,AT,1
+68,5134,Schwand im Innkreis,AT,1
+69,5161,Elixhausen,AT,1
+70,5162,Obertrum am See,AT,1
+71,5164,Seeham,AT,1
+72,5201,Seekirchen am Wallersee,AT,1
+73,5202,Neumarkt am Wallersee,AT,1
+74,5300,Hallwang,AT,1
+75,5303,Thalgau,AT,1
+76,5322,Hof/Salzburg,AT,1
+77,5400,Hallein,AT,1
+78,5423,St. Koloman,AT,1
+79,5531,Eben/Pg.,AT,1
+80,5550,Radstadt,AT,1
+81,5562,Obertauern,AT,1
+82,5620,Schwarzach,AT,1
+83,5622,Goldegg,AT,1
+84,5640,Bad Gastein,AT,1
+85,5710,Kaprun,AT,1
+86,5721,Piesendorf,AT,1
+87,5730,Mittersill,AT,1
+88,5741,Neukirchen,AT,1
+89,5742,Wald im Pinzgau,AT,1
+90,5760,Saalfelden,AT,1
+91,5771,Leogang,AT,1
+92,6020,Innsbruck,AT,1
+93,6060,Hall in Tirol,AT,1
+94,6065,Thaur,AT,1
+95,6067,Absam,AT,1
+96,6105,Leutasch,AT,1
+97,6112,Wattens,AT,1
+98,6130,Schwaz,AT,1
+99,6136,Pill,AT,1
+100,6161,Natters,AT,1
+101,6176,Völs,AT,1
+102,6330,Kufstein,AT,1
+103,6335,Thiersee,AT,1
+104,6342,Niederndorf,AT,1
+105,6343,Erl,AT,1
+106,6352,Ellmau,AT,1
+107,6361,Hopfgartn,AT,1
+108,6370,Kitzbühel,AT,1
+109,6382,Kirchdorf in Tirol,AT,1
+110,6391,Fieberbrunn,AT,1
+111,6410,Telfs,AT,1
+112,6414,Mieming,AT,1
+113,6422,Stams,AT,1
+114,6441,Umhausen,AT,1
+115,6460,Imst,AT,1
+116,6481,St. Leonhard,AT,1
+117,6543,Nauders,AT,1
+118,6700,Bludenz,AT,1
+119,6706,Bürs,AT,1
+120,6710,Nenzing,AT,1
+121,6713,Ludesch,AT,1
+122,6723,Blons,AT,1
+123,6764,Lech,AT,1
+124,6800,Feldkirch,AT,1
+125,6811,Göfis,AT,1
+126,6830,Rankweil,AT,1
+127,6835,Dafins,AT,1
+128,6840,Götzis,AT,1
+129,6841,Mäder,AT,1
+130,6844,Altach,AT,1
+131,6845,Hohenems,AT,1
+132,6850,Dornbirn,AT,1
+133,6861,Alberschwende,AT,1
+134,6863,Egg,AT,1
+135,6900,Bregenz,AT,1
+136,6971,Hard,AT,1
+137,7000,Eisenstadt,AT,1
+138,7022,Schattendorf,AT,1
+139,7023,Pöttelsdorf,AT,1
+140,7042,Antau,AT,1
+141,7064,Oslip,AT,1
+142,7222,Rohrbach,AT,1
+143,7400,Oberwart,AT,1
+144,7410,Loipersdorf-Kitzladen,AT,1
+145,74582,Gerabronn-Dünsbach,AT,1
+146,8010,Graz,AT,1
+147,8020,Graz,AT,1
+148,8051,Lieboch,AT,1
+149,8111,Gratwein-Straßengel,AT,1
+150,8144,Tobelbad,AT,1
+151,8160,Weiz,AT,1
+152,8181,St. Ruprecht an der Raab,AT,1
+153,8184,Anger,AT,1
+154,8224,Kaindorf bei Hartberg,AT,1
+155,8243,Pinggau,AT,1
+156,8322,Fladnitz im Raabtal,AT,1
+157,8564,Krottendorf-Gaisfeld,AT,1
+158,8625,Turnau,AT,1
+159,8971,Rohrmoos,AT,1
+160,9020,Klagenfurt am Wörthersee,AT,1
+161,9500,Villach,AT,1
+162,9556,Liebenfels,AT,1
+163,9782,Nikolsdorf,AT,1
+164,9900,Lienz,AT,1
+165,9990,Debant,AT,1
+166,9991,Dölsach,AT,1
+167,2000,Antwerpen,BE,2
+168,2018,Antwerpen,BE,2
+169,3010,Kessel-Lo,BE,2
+170,9000,Gent,BE,2
+171,9040,Gent,BE,2
+172,9041,Oostakker,BE,2
+173,1022,Chavannes,CH,3
+174,1922,Les Granges,CH,3
+175,3012,Bern,CH,3
+176,3048,Worblaufen,CH,3
+177,4107,Ettingen (Basel-Landschaft),CH,3
+178,4312,Magden,CH,3
+179,6002,Luzern,CH,3
+180,6218,Ettiswil,CH,3
+181,6333,Hünenberg See,CH,3
+182,8005,Zürich,CH,3
+183,8032,Zürich,CH,3
+184,8036,Zürich,CH,3
+185,8232,Merishausen,CH,3
+186,8268,Salenstein,CH,3
+187,8356,Aadorf / Ettenhausen,CH,3
+188,8400,Winterthur,CH,3
+189,8405,Winterthur,CH,3
+190,8406,Winterthur,CH,3
+191,8408,Winterthur,CH,3
+192,8500,Frauenfeld,CH,3
+193,8598,Bottighofen,CH,3
+194,8832,Feusisberg,CH,3
+195,9100,Herisau,CH,3
+196,9402,Mörschwil,CH,3
+197,01069,Dresden,DE,4
+198,04103,Leipzig,DE,4
+199,04107,Leipzig,DE,4
+200,04275,Leipzig,DE,4
+201,04741,Roßwein,DE,4
+202,06846,Dessau,DE,4
+203,07646,Weißbach,DE,4
+204,08626,Eichigt,DE,4
+205,09112,Chemnitz,DE,4
+206,10115,Berlin,DE,4
+207,10117,Berlin,DE,4
+208,10179,Berlin,DE,4
+209,10243,Berlin,DE,4
+210,10245,Berlin,DE,4
+211,10247,Berlin,DE,4
+212,10289,Berlin,DE,4
+213,10317,Berlin,DE,4
+214,10318,Berlin,DE,4
+215,10365,Berlin,DE,4
+216,10405,Berlin,DE,4
+217,10409,Berlin,DE,4
+218,10437,Berlin,DE,4
+219,10555,Berlin,DE,4
+220,10557,Berlin,DE,4
+221,10585,Berlin,DE,4
+222,10707,Berlin,DE,4
+223,10717,Berlin,DE,4
+224,10777,Berlin,DE,4
+225,10823,Berlin,DE,4
+226,10827,Berlin,DE,4
+227,10829,Berlin,DE,4
+228,10961,Berlin,DE,4
+229,10963,Berlin,DE,4
+230,10965,Berlin,DE,4
+231,10967,Berlin,DE,4
+232,10969,Berlin,DE,4
+233,10999,Berlin,DE,4
+234,1111,YYYY Testort,DE,4
+235,11361,Cairo,DE,4
+236,12047,Berlin,DE,4
+237,12053,Berlin,DE,4
+238,12057,Berlin,DE,4
+239,12099,Berlin,DE,4
+240,12103,Berlin,DE,4
+241,12109,Berlin,DE,4
+242,12157,Berlin,DE,4
+243,12161,Berlin,DE,4
+244,12167,Berlin,DE,4
+245,12203,Berlin,DE,4
+246,12435,Berlin,DE,4
+247,12437,Berlin,DE,4
+248,12489,Berlin,DE,4
+249,12555,Berlin,DE,4
+250,12623,Berlin,DE,4
+251,12629,Berlin,DE,4
+252,12681,Berlin,DE,4
+253,13086,Berlin,DE,4
+254,13187,Berlin,DE,4
+255,13355,Berlin,DE,4
+256,13357,Berlin,DE,4
+257,13469,Berlin,DE,4
+258,13503,Berlin,DE,4
+259,13507,Berlin,DE,4
+260,13587,Berlin,DE,4
+261,14057,Berlin,DE,4
+262,14089,Berlin,DE,4
+263,14119,Berlin,DE,4
+264,14129,Berlin,DE,4
+265,14467,Potsdam,DE,4
+266,14480,Potsdam,DE,4
+267,14548,Schwielowsee,DE,4
+268,14612,Falkensee,DE,4
+269,14641,Nauen OT Groß Behnitz,DE,4
+270,14656,Brieselang,DE,4
+271,14770,Brandenburg an der Havel,DE,4
+272,14797,Kloster Lehnin,DE,4
+273,14806,Bad Belzig,DE,4
+274,16227,Eberswalde,DE,4
+275,16348,Wandlitz,DE,4
+276,16818,Walsleben,DE,4
+277,16831,Rheinsberg,DE,4
+278,18059,Rostock,DE,4
+279,18445,Nisdorf,DE,4
+280,18532,Tuttlingen,DE,4
+281,19053,Schwerin,DE,4
+282,19309,Lenzen,DE,4
+283,20095,Hamburg,DE,4
+284,20148,Hamburg,DE,4
+285,20251,Hamburg,DE,4
+286,20253,Hamburg,DE,4
+287,20259,Hamburg,DE,4
+288,20357,Hamburg,DE,4
+289,20359,Hamburg,DE,4
+290,20457,Hamburg,DE,4
+291,20459,Hamburg,DE,4
+292,20537,Hamburg,DE,4
+293,21029,Hamburg,DE,4
+294,21035,Hamburg,DE,4
+295,21073,Hamburg,DE,4
+296,21079,Hamburg,DE,4
+297,21147,Hamburg,DE,4
+298,21218,Seevetal,DE,4
+299,21423,Winsen/Luhe,DE,4
+300,21682,Stade,DE,4
+301,22041,Hamburg,DE,4
+302,22043,Hamburg,DE,4
+303,22145,Hamburg,DE,4
+304,22299,Hamburg,DE,4
+305,22309,Hamburg,DE,4
+306,22335,Hamburg,DE,4
+307,22337,Hamburg,DE,4
+308,22417,Hamburg,DE,4
+309,22453,Hamburg,DE,4
+310,22525,Hamburg,DE,4
+311,22529,Hamburg,DE,4
+312,22765,Hamburg,DE,4
+313,22769,Hamburg,DE,4
+314,22850,Norderstedt,DE,4
+315,22869,Schenefeld,DE,4
+316,22955,Hoisdorf,DE,4
+317,23056,Hamburg,DE,4
+318,23570,lübeck,DE,4
+319,23948,Stellshagen,DE,4
+320,24159,Kiel,DE,4
+321,24568,Kaltenkirchen,DE,4
+322,24632,Lentföhrden,DE,4
+323,24937,Flensburg,DE,4
+324,24977,Ringsberg,DE,4
+325,25348,Glückstadt,DE,4
+326,25358,Horst (Holstein),DE,4
+327,25474,Ellerbek,DE,4
+328,25813,Husum,DE,4
+329,25821,Breklum,DE,4
+330,25923,Ellhöft,DE,4
+331,26121,Oldenburg,DE,4
+332,26844,Jemgum,DE,4
+333,26919,Brake,DE,4
+334,27324,Eystrup,DE,4
+335,27333,Bücken,DE,4
+336,27568,Bremerhaven,DE,4
+337,27624,Geestland,DE,4
+338,28199,Bremen,DE,4
+339,28215,Bremen,DE,4
+340,28217,Bremen,DE,4
+341,28357,Bremen,DE,4
+342,28719,Bremerhaven,DE,4
+343,28789,Bremerhaven,DE,4
+344,28879,Grasberg,DE,4
+345,29223,Celle,DE,4
+346,29389,Bad Bodenteich,DE,4
+347,29410,Salzwedel,DE,4
+348,29439,Lüchow,DE,4
+349,29456,Hitzacker,DE,4
+350,29468,Bergen an der Dumme,DE,4
+351,29471,Gartow,DE,4
+352,29478,Höhbeck,DE,4
+353,29559,Wrestedt,DE,4
+354,30171,Hannover,DE,4
+355,30173,Hannover,DE,4
+356,30177,Hannover,DE,4
+357,30451,Hannover,DE,4
+358,30453,Hannover,DE,4
+359,30655,Hannover,DE,4
+360,30659,Hannover,DE,4
+361,30966,Hemmingen,DE,4
+362,31171,Nordstemmen,DE,4
+363,31582,Nienburg/Weser,DE,4
+364,32120,Hiddenhausen,DE,4
+365,32584,Löhne,DE,4
+366,32756,Detmold,DE,4
+367,32758,Detmold,DE,4
+368,32791,Lage,DE,4
+369,32805,Horn-Bad Meinberg,DE,4
+370,32839,Steinheim,DE,4
+371,33034,Brakel,DE,4
+372,33098,Paderborn,DE,4
+373,33104,Paderborn,DE,4
+374,33142,Büren,DE,4
+375,33154,Salzkotten,DE,4
+376,33161,Hövelhof,DE,4
+377,33178,Borchen,DE,4
+378,33334,Gütersloh,DE,4
+379,33602,Bielefeld,DE,4
+380,33607,Bielefeld,DE,4
+381,33803,Steinhagen,DE,4
+382,33824,Werther (Westfalen),DE,4
+383,34123,Kassel,DE,4
+384,34128,Kassel,DE,4
+385,34132,Kassel,DE,4
+386,34134,Kassel,DE,4
+387,34233,Fuldatal,DE,4
+388,34289,Zierenberg-Oberelsungen,DE,4
+389,34393,Grebenstein,DE,4
+390,34439,Willebadessen,DE,4
+391,35037,Marburg,DE,4
+392,35039,Marburg,DE,4
+393,35043,Marburg,DE,4
+394,35083,Wetter-Oberrosphe,DE,4
+395,35091,Cölbe,DE,4
+396,35108,Allendorf/Eder,DE,4
+397,35274,Großseelheim,DE,4
+398,35390,Gießen,DE,4
+399,35423,Lich,DE,4
+400,35440,Linden,DE,4
+401,35647,Waldsolms,DE,4
+402,36179,Bebra-Braunhausen,DE,4
+403,36320,Kirtorf-Heimertshausen,DE,4
+404,37073,Göttingen,DE,4
+405,37079,Göttingen,DE,4
+406,37081,Göttingen,DE,4
+407,37083,Göttingen,DE,4
+408,37085,Göttingen,DE,4
+409,37130,Gleichen-Rittmarshausen,DE,4
+410,37176,Nörten-Hardenberg,DE,4
+411,37181,Hardegsen-Lichtenborn,DE,4
+412,37213,Witzenhaiusen,DE,4
+413,37434,Rüdershausen,DE,4
+414,37671,Höxter,DE,4
+415,37696,Marienmünster,DE,4
+416,38112,Braunschweig,DE,4
+417,38518,Gifhorn,DE,4
+418,38542,Leiferde,DE,4
+419,40233,Düsseldorf,DE,4
+420,40235,Düsseldorf,DE,4
+421,40593,Düsseldorf,DE,4
+422,40597,Düsseldorf-Benrath,DE,4
+423,40627,Düsseldorf,DE,4
+424,40878,Ratingen,DE,4
+425,41460,Neuss,DE,4
+426,41462,Neuss,DE,4
+427,41515,Grevenbroich,DE,4
+428,41564,Kaarst,DE,4
+429,41836,Hückelhoven,DE,4
+430,42659,Solingen,DE,4
+431,42897,Remscheid,DE,4
+432,44139,Dortmund,DE,4
+433,44141,Dortmund,DE,4
+434,44143,Dortmund,DE,4
+435,44147,Dortmund,DE,4
+436,44229,Dortmund,DE,4
+437,44263,Dortmund,DE,4
+438,44309,Dortmund,DE,4
+439,44319,Dortmund,DE,4
+440,44329,Dortmund,DE,4
+441,44793,Bochum,DE,4
+442,44809,Bochum,DE,4
+443,44866,Bochumg,DE,4
+444,45327,Essen,DE,4
+445,45468,Mülheim,DE,4
+446,46236,Bottrop,DE,4
+447,47533,Kleve,DE,4
+448,47800,Krefeld,DE,4
+449,48143,Münster,DE,4
+450,48145,Münster,DE,4
+451,48147,Münster,DE,4
+452,48149,Münster,DE,4
+453,48153,Münster,DE,4
+454,48155,Münster,DE,4
+455,48157,Münster,DE,4
+456,48308,Senden-Bösensell,DE,4
+457,48329,Havixbeck,DE,4
+458,48565,Steinfurt,DE,4
+459,49451,Holdorf,DE,4
+460,49477,Ibbenbüren,DE,4
+461,50285,Köln,DE,4
+462,50670,Köln,DE,4
+463,50674,Köln,DE,4
+464,50676,Köln,DE,4
+465,50677,Köln,DE,4
+466,50678,Köln,DE,4
+467,50735,Köln,DE,4
+468,50823,Köln,DE,4
+469,50825,Köln,DE,4
+470,50858,Köln,DE,4
+471,50931,Köln,DE,4
+472,50939,Köln,DE,4
+473,50968,Köln,DE,4
+474,51067,Köln,DE,4
+475,51069,Köln,DE,4
+476,51109,Köln,DE,4
+477,51491,Overath,DE,4
+478,51597,Morsbach,DE,4
+479,52074,Aachen,DE,4
+480,52134,Herzogenrath,DE,4
+481,53111,Bonn,DE,4
+482,53129,Bonn,DE,4
+483,53227,Bonn,DE,4
+484,53332,Bornheim,DE,4
+485,53757,St. Augustin,DE,4
+486,55116,Mainz,DE,4
+487,55122,Mainz,DE,4
+488,55127,Mainz,DE,4
+489,55252,Mainz-Kastel,DE,4
+490,56170,Bendorf,DE,4
+491,56332,Niederfell,DE,4
+492,56575,Weißenthurm,DE,4
+493,57368,Lennestadt,DE,4
+494,57462,Olpe,DE,4
+495,57627,Hachenburg,DE,4
+496,58093,Hagen,DE,4
+497,58097,Hagen,DE,4
+498,58300,Wetter (Ruhr),DE,4
+499,58636,Iselohn,DE,4
+500,58675,Hemer,DE,4
+501,58706,Menden,DE,4
+502,58708,Menden,DE,4
+503,59073,Hamm,DE,4
+504,59368,Werne,DE,4
+505,59602,Rüthen,DE,4
+506,59759,Arnsberg,DE,4
+507,59821,Arnsberg,DE,4
+508,60318,Frankfurt,DE,4
+509,60323,Frankfurt am Main,DE,4
+510,60327,Frankfurt am Main,DE,4
+511,60385,Frankfurt am Main,DE,4
+512,60529,Frankfurt am Main,DE,4
+513,61231,Bad Nauheim,DE,4
+514,61352,Bad Homburg,DE,4
+515,63165,mühlheim am main,DE,4
+516,63512,Hainburg,DE,4
+517,63741,Aschaffenburg,DE,4
+518,63776,Mömbris,DE,4
+519,64283,Darmstadt,DE,4
+520,64289,Darmstadt,DE,4
+521,64295,Darmstadt,DE,4
+522,64297,Darmstadt,DE,4
+523,65934,Frankfurt,DE,4
+524,66871,Albessen,DE,4
+525,68159,Mannheim,DE,4
+526,68161,Mannheim,DE,4
+527,68163,Mannheim,DE,4
+528,68167,Mannheim,DE,4
+529,68219,Mannheim,DE,4
+530,69121,Heidelberg,DE,4
+531,69168,Wiesloch,DE,4
+532,70173,Stuttgart,DE,4
+533,70176,Stuttgart,DE,4
+534,70178,Stuttgart,DE,4
+535,70180,Stuttgart,DE,4
+536,70182,Deutschland,DE,4
+537,70184,Stuttgart,DE,4
+538,70188,Stuttgart,DE,4
+539,70199,Stuttgart,DE,4
+540,70327,Stuttgart,DE,4
+541,70372,Stuttgart,DE,4
+542,70374,Stuttgart,DE,4
+543,70376,Stuttgart,DE,4
+544,70469,Stuttgart – Feuerbach,DE,4
+545,70565,Stuttgart-Vaihingen,DE,4
+546,70567,Stuttgart,DE,4
+547,70569,Stuttgart,DE,4
+548,70599,Stuttgart,DE,4
+549,70771,Leinfelden-Echterdingen,DE,4
+550,70794,Filderstadt,DE,4
+551,70839,Gerlingen,DE,4
+552,71126,Gäufelden,DE,4
+553,71229,Leonberg,DE,4
+554,71263,Weil der Stadt,DE,4
+555,72070,Tübingen,DE,4
+556,72072,Tübingen,DE,4
+557,72074,Tübingen – Bebenhausen,DE,4
+558,72108,Rottenburg am Neckar,DE,4
+559,72116,Mössingen,DE,4
+560,7212,Sulz am Neckar,DE,4
+561,72290,Lossburg,DE,4
+562,72479,Straßberg,DE,4
+563,72488,Sigmaringen,DE,4
+564,72534,Hayingen-Ehestetten,DE,4
+565,72555,Metzingen,DE,4
+566,72622,Nürtingen,DE,4
+567,72762,Reutlingen,DE,4
+568,"73,235",Weilheim an der Teck,DE,4
+569,73614,Schorndorf,DE,4
+570,73630,Remshalden,DE,4
+571,73728,Esslingen,DE,4
+572,74336,Brackenheim,DE,4
+573,74348,Lauffen am Neckar,DE,4
+574,74594,Kreßberg,DE,4
+575,76135,Karlsruhe,DE,4
+576,76137,Karlsruhe,DE,4
+577,76275,Ettlingen,DE,4
+578,76332,Bad Herrenalb,DE,4
+579,76889,Klingenmünster,DE,4
+580,78244,Gottmadingen,DE,4
+581,78315,Radolfzell am Bodensee,DE,4
+582,78359,Orsingen-Nenzingen,DE,4
+583,78462,Konstanz,DE,4
+584,78464,Konstanz,DE,4
+585,78467,Konstanz,DE,4
+586,78532,Tuttlingen,DE,4
+587,78628,Rottweil,DE,4
+588,79098,Freiburg,DE,4
+589,79100,Freiburg,DE,4
+590,79104,Freiburg,DE,4
+591,79106,Freiburg,DE,4
+592,79108,Freiburg,DE,4
+593,79111,Freiburg,DE,4
+594,79249,Merzhausen,DE,4
+595,79312,Emmendingen,DE,4
+596,79400,Kandern,DE,4
+597,79539,Lörrach,DE,4
+598,79585,Steinen Endenbzrg,DE,4
+599,79780,Stühlingen-Mauchen,DE,4
+600,80313,Gauting,DE,4
+601,80331,München,DE,4
+602,80335,München,DE,4
+603,80336,München,DE,4
+604,80337,München,DE,4
+605,80339,München,DE,4
+606,80469,München,DE,4
+607,80538,München,DE,4
+608,80634,München,DE,4
+609,80637,München,DE,4
+610,80797,München,DE,4
+611,80807,München,DE,4
+612,80933,München,DE,4
+613,80992,München,DE,4
+614,80997,München,DE,4
+615,81241,München,DE,4
+616,81369,München,DE,4
+617,81371,München,DE,4
+618,81379,München,DE,4
+619,81476,München,DE,4
+620,81539,München,DE,4
+621,81541,München,DE,4
+622,81543,München,DE,4
+623,81547,München,DE,4
+624,81667,München,DE,4
+625,81669,München,DE,4
+626,81673,München,DE,4
+627,81675,München,DE,4
+628,81735,München,DE,4
+629,81737,München,DE,4
+630,81827,München,DE,4
+631,82024,Taufkirchen,DE,4
+632,82041,Oberhaching,DE,4
+633,82049,Pullach,DE,4
+634,82131,Gauting,DE,4
+635,82140,Olching,DE,4
+636,82152,Krailling,DE,4
+637,82166,Gräfelfing,DE,4
+638,82291,Mammendorf,DE,4
+639,82319,Starnberg,DE,4
+640,82346,Andechs,DE,4
+641,82362,Weilheim,DE,4
+642,82380,Böbing-Grambach,DE,4
+643,82467,Garmisch-Partenkirchen,DE,4
+644,82538,Geretsried,DE,4
+645,83022,Rosenheim,DE,4
+646,83043,Bad Aibling,DE,4
+647,83052,Bruckmühl,DE,4
+648,83071,Stephanskirchen/Högering,DE,4
+649,83128,Halfing,DE,4
+650,83229,Aschau,DE,4
+651,83278,Traunstein,DE,4
+652,83301,Traunreut,DE,4
+653,83324,Ruhpolding,DE,4
+654,83334,Inzell,DE,4
+655,83339,Chieming/Hart,DE,4
+656,83349,Palling,DE,4
+657,83367,Petting,DE,4
+658,83404,Ainring – Mitterfelden,DE,4
+659,83410,Laufen,DE,4
+660,83413,Fridolfing,DE,4
+661,83417,Kirchanschöring,DE,4
+662,83435,Bad Reichenhall,DE,4
+663,83454,Anger,DE,4
+664,83527,Haag i. OB,DE,4
+665,83533,Edling,DE,4
+666,83607,Holzkirchen,DE,4
+667,83734,Hausham,DE,4
+668,83735,Bayrischzell,DE,4
+669,84028,Landshut,DE,4
+670,84034,Landshut,DE,4
+671,84051,Essenbach-Altheim,DE,4
+672,84104,Rudelzhausen,DE,4
+673,85049,Ingolstadt,DE,4
+674,85053,Ingolstadt,DE,4
+675,85055,Ingolstadt,DE,4
+676,85072,Eichstätt,DE,4
+677,85135,Titting,DE,4
+678,85221,Dachau,DE,4
+679,85232,Bergkirchen,DE,4
+680,85276,Pfaffenhofen,DE,4
+681,85354,Freising,DE,4
+682,85356,Freising,DE,4
+683,85405,Nandlstadt,DE,4
+684,85560,Ebersberg,DE,4
+685,85614,Kirchseeon,DE,4
+686,85625,Glonn,DE,4
+687,85748,Garching,DE,4
+688,86152,Augsburg,DE,4
+689,86153,Augsburg,DE,4
+690,86156,Augsburg,DE,4
+691,86159,Augsburg,DE,4
+692,86165,Augsburg,DE,4
+693,86167,Augsburg,DE,4
+694,86169,Augsburg,DE,4
+695,86356,Steppach/Neusäss,DE,4
+696,86381,Krumbach,DE,4
+697,86424,Dinkelscherben,DE,4
+698,86462,Langweid am Lech,DE,4
+699,86497,Horgau,DE,4
+700,86504,Merching,DE,4
+701,86511,Schmiechen,DE,4
+702,86529,Schrobenhausen Sandzell,DE,4
+703,86551,Aichach-Klingen,DE,4
+704,86558,Hohenwart,DE,4
+705,86899,Landsberg am Lech,DE,4
+706,86911,Dießen am Ammersee,DE,4
+707,86919,Utting,DE,4
+708,86932,Pürgen-Lengenfeld,DE,4
+709,86934,Reichling,DE,4
+710,86938,Schondorf,DE,4
+711,86943,Thaining,DE,4
+712,86971,Peiting,DE,4
+713,86984,Prem,DE,4
+714,87435,Kempten,DE,4
+715,87439,Kempten,DE,4
+716,87471,Durach,DE,4
+717,87477,Sulzberg,DE,4
+718,87490,Haldenwang,DE,4
+719,87509,Immenstadt,DE,4
+720,87527,Ofterschwang,DE,4
+721,87534,Oberstaufen,DE,4
+722,87541,Bad Hindelang,DE,4
+723,87561,Oberstdorf,DE,4
+724,87600,Kaufbeuren,DE,4
+725,87616,Marktoberdorf,DE,4
+726,87629,Füssen – Hopfen am See,DE,4
+727,87640,Biessenhofen,DE,4
+728,87645,Schwangau,DE,4
+729,87672,Roßhaupten,DE,4
+730,87724,Ottobeuren,DE,4
+731,88045,Friedrichshafen,DE,4
+732,88046,Friedrichshafen,DE,4
+733,88048,Friedrichshafen,DE,4
+734,88069,Tettnang,DE,4
+735,88099,Neukirch (Bodenseekreis),DE,4
+736,88212,Ravensburg,DE,4
+737,88239,Wangen im Allgäu,DE,4
+738,88250,Weingarten,DE,4
+739,88299,Leutkirch im Allgäu,DE,4
+740,88630,Sigmaringen,DE,4
+741,88662,Überlingen,DE,4
+742,89073,Ulm,DE,4
+743,89075,Ulm,DE,4
+744,89077,Ulm,DE,4
+745,89081,Ulm,DE,4
+746,89155,Erbach,DE,4
+747,89231,Neu-Ulm,DE,4
+748,89269,Vöhringen,DE,4
+749,89312,Günzburg,DE,4
+750,89343,Jettingen-Scheppach,DE,4
+751,90402,Nürnberg,DE,4
+752,90403,Nürnberg,DE,4
+753,90419,Nürnberg,DE,4
+754,90425,Nürnberg,DE,4
+755,90429,Nürnberg,DE,4
+756,90443,Nürnberg,DE,4
+757,90449,Nürnberg,DE,4
+758,90459,Nürnberg,DE,4
+759,90461,Nürnberg,DE,4
+760,90489,Nürnberg,DE,4
+761,90537,Feucht,DE,4
+762,90547,Stein,DE,4
+763,90762,Fürth,DE,4
+764,91056,Erlangen,DE,4
+765,91083,Baiersdorf,DE,4
+766,91154,Roth,DE,4
+767,91161,Hilpoltstein,DE,4
+768,91230,Happurg,DE,4
+769,91249,Weigendorf,DE,4
+770,91452,Wilhermsdorf,DE,4
+771,91541,Rothenburg ob der Tauber,DE,4
+772,91781,Weißenburg,DE,4
+773,92318,Neumarkt,DE,4
+774,93055,Regensburg,DE,4
+775,93077,Bad Abbach,DE,4
+776,93466,Chamerau,DE,4
+777,94116,Hutthurm,DE,4
+778,94356,Kirchroth,DE,4
+779,95444,Bayreuth,DE,4
+780,95447,Bayreuth,DE,4
+781,95494,Gesees,DE,4
+782,95497,Goldkronach,DE,4
+783,95632,Wunsiedel,DE,4
+784,96047,Bamberg,DE,4
+785,96317,Kronach,DE,4
+786,97070,Würzburg,DE,4
+787,97072,Würzburg,DE,4
+788,97359,Schwarzach,DE,4
+789,97461,Hofheim in Unterfranken,DE,4
+790,97616,Bad Neustadt,DE,4
+791,99084,Erfurt,DE,4
+792,D-56203,Höhr-Grenzhausen,DE,4
+793,10997,Berlin,DK,5
+794,3760,Gudhjem,DK,5
+795,03001,Alicante,ES,6
+796,03300,Orihuela,ES,6
+797,03570,Villajoyosa,ES,6
+798,03640,Monòver,ES,6
+799,03690,Sant Vicent del Raspeig,ES,6
+800,03759,Benidoleig,ES,6
+801,03892,Cocentaina,ES,6
+802,07458,Santa Margalida,ES,6
+803,08001,Barcelona,ES,6
+804,08025,Barcelona,ES,6
+805,08028,Barcelona,ES,6
+806,08172,Sant Cugat del Vallés,ES,6
+807,08338,Premià de Dalt,ES,6
+808,08901,L’Hospitalet de Llobregat,ES,6
+809,08916,Badalona,ES,6
+810,08918,Badalona,ES,6
+811,12002,Castelló de la Plana,ES,6
+812,12005,Castellón de la Plana,ES,6
+813,12194,Vall d’Alba,ES,6
+814,12530,Burriana,ES,6
+815,12540,Villareal,ES,6
+816,12549,Betxì,ES,6
+817,12560,Benicassim,ES,6
+818,14940,Cabra,ES,6
+819,28008,Madrid,ES,6
+820,28010,Madrid,ES,6
+821,28013,Madrid,ES,6
+822,28014,Madrid,ES,6
+823,28027,Madrid,ES,6
+824,28049,Alcobendas,ES,6
+825,28224,Pozuelo del Alarcón,ES,6
+826,30002,Murcia,ES,6
+827,31015,Pamplona,ES,6
+828,35010,Las Palmas de Gran Canaria,ES,6
+829,35018,Las Palmas de Gran Canaria,ES,6
+830,35219,El Goro,ES,6
+831,37187,Miranda de Azán,ES,6
+832,38002,Santa Cruz de Tenerife,ES,6
+833,38003,Santa Cruz de Tenerife,ES,6
+834,38004,Santa Cruz de Tenerife,ES,6
+835,38110,Santa Cruz de Tenerife,ES,6
+836,38190,Santa Cruz de Tenerife,ES,6
+837,38206,La Laguna,ES,6
+838,38311,La Orotava,ES,6
+839,38320,La Laguna,ES,6
+840,38400,Puerto de la Cruz,ES,6
+841,38480,Buenavista,ES,6
+842,38611,Granadilla,ES,6
+843,38639,Santa Cruz de Tenerife,ES,6
+844,38690,El Retamar,ES,6
+845,41001,Sevilla,ES,6
+846,41010,Sevilla,ES,6
+847,41960,Gines,ES,6
+848,44550,Alcorisa,ES,6
+849,46003,Valencia,ES,6
+850,46006,Valencia,ES,6
+851,46008,Valencia,ES,6
+852,46017,Valencia,ES,6
+853,46022,Valencia,ES,6
+854,46024,Valencia,ES,6
+855,46114,Cullera,ES,6
+856,46130,Massamagrell,ES,6
+857,46183,L’Eliana,ES,6
+858,46200,Paiporta,ES,6
+859,46230,Alginet,ES,6
+860,46290,Alcàsser,ES,6
+861,46529,Canet d’en Berenguer,ES,6
+862,46680,Algemesi,ES,6
+863,46810,Enguera,ES,6
+864,46900,Torrent,ES,6
+865,46901,Torrent,ES,6
+866,46988,Paterna,ES,6
+867,50003,Zaragoza,ES,6
+868,48260,Križevci,HR,7
+869,//,//,IT,8
+870,10020,Lauriano TO,IT,8
+871,10064,Pinerolo (TO),IT,8
+872,10127,Torino,IT,8
+873,11064,Pinerolo (TO),IT,8
+874,20139,Milano,IT,8
+875,20148,Milano,IT,8
+876,25023,Gottolengo (BS),IT,8
+877,25122,Brescia,IT,8
+878,26030,Calvatone (CR),IT,8
+879,3454,ggrreg,IT,8
+880,36030,Caldogno (VI),IT,8
+881,36063,Marostica,IT,8
+882,37030,Badia Calavena,IT,8
+883,37059,Zevio,IT,8
+884,37124,Verona,IT,8
+885,37133,Verona,IT,8
+886,37138,Verona,IT,8
+887,38010,Tavon – Trento,IT,8
+888,38012,Predaia,IT,8
+889,38017,Mezzolombardo (TN),IT,8
+890,38036,San Giovanni di Fassa – Vigo (TN),IT,8
+891,38123,Mattarello,IT,8
+892,39011,Lana,IT,8
+893,39012,Meran/o,IT,8
+894,39030,Sexten,IT,8
+895,39031,Bruneck,IT,8
+896,39032,Sand in Taufers,IT,8
+897,39033,Colvara,IT,8
+898,39040,Ratschings,IT,8
+899,39042,Brixen,IT,8
+900,39049,Sterzing,IT,8
+901,39053,Steinegg,IT,8
+902,39100,Bozen,IT,8
+903,47013,Dovadola,IT,8
+904,47027,Sarsina,IT,8
+905,47521,Cesena,IT,8
+906,60131,Ancona,IT,8
+907,4980,Reckingen/Mess,LU,9
+908,5365,Munsbach,LU,9
+909,7521,Mersch,LU,9
+910,1001 GD,Amsterdam,NL,10
+911,1071 cv,amsterdam,NL,10
+912,1098,XG Amsterdam,NL,10
+913,3063NS,Rotterdam,NL,10
+914,3551,Utrecht,NL,10
+915,5234 GL,’s-Hertogenbosch,NL,10
+916,5281 RE,Boxtel,NL,10
+917,5342 AL,Oss,NL,10
+918,5615 CN,Eindhoven,NL,10
+919,7901 AR,Tynaarlo,NL,10
+920,8627SJ,Gauw,NL,10
+921,60-689,POZNAŃ,PL,11
+922,2640-206,Encarnação,PT,12
+923,27392,Tomelilla,SE,13
+924,41458,Göteborg,SE,13
+925,BT56 8FQ,Portrush,UK,14
+926,12400,Montevideo,UR,15
+927,19343,Glenmoore,US,16
