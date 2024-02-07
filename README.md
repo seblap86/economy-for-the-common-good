@@ -5,7 +5,7 @@ Project status: Ongoing.
 ![cover_photo](hands_picture.jpg)
 
 ## Scope
-In this project, I analyze the status quo and trends within the economy for the common good (ECG) movement. For that, I aim to build a full data pipeline:
+In this project, I analyze the status quo and trends within the [economy for the common good (ECG) movement](https://www.ecogood.org/). For that, I aim to build a full data pipeline:
 - Web-scraping publicly available data from companies that currently participate in the ECG
 - Modeling the data into a relational database & building the database with MySQL
 - Analyzing the data
