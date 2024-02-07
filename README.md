@@ -19,7 +19,7 @@ In this project, I analyze the status quo and trends within the economy for the 
 ## Database
 The data stems from [this official website of the ECG movement](https://audit.ecogood.org/firmenauskunft-fvz/) that is frequently updated with new entries (balances, companies).
 
-## Progress
+## Status quo
 #### First results
 - I successfully scraped the database and cleaned the data.
 - I modeled the data (see picture below), built the relational database using MySQL, and successfully loaded the data into the MySQL server.
