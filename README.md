@@ -19,13 +19,14 @@ In this project, I analyze the status quo and trends within the economy for the 
 ## Database
 The data stems from [this official website of the ECG movement](https://audit.ecogood.org/firmenauskunft-fvz/) that is frequently updated with new entries (balances, companies).
 
-## First results
+## Progress
+#### First results
 - I successfully scraped the database and cleaned the data.
 - I modeled the data (see picture below), built the relational database using MySQL, and successfully loaded the data into the MySQL server.
 
 ![ECG_database_model](data/modeling/ecg_database_model_EER_diagram.png)
 
-## Next steps
+#### Next steps
 Next on the agenda is to clean the web-scraping code (especially heavily hard-coded parts), conduct data analyses, build insightful dashboards, and automize the whole data pipeline.
 
 ## Collaboration
