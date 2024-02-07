@@ -1,0 +1,16 @@
+Data cleaning:
+- Type code: Gemeinde / M1.2 correction
+- Audit type: AbPE = Peer?
+- Testat vs. Zertifikat?
+- Check if some missing values can be replaced by hand (if there are only few)
+- "//" in postal codes and cities, one "12345" in postal code without city
+- SEKEM -> Egypt? Germany?
+
+Code improvements:
+- Resolve hard coding issues (balance_details)
+
+Research questions:
+- Provide summary information about balances for companies? Like first balance (interesting for when they entered ECG), last balance?
+- Maybe also improvement over years? (maybe more an analytics than an engineering task)
+- Or min max? (year, balance?)
+- Include only valid certificate (compare date to current date)
