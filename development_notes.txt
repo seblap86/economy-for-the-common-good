@@ -5,9 +5,13 @@ Data cleaning:
 - Check if some missing values can be replaced by hand (if there are only few)
 - "//" in postal codes and cities, one "12345" in postal code without city
 - SEKEM -> Egypt? Germany?
+- Switch oldest-newest balances order (balance 1 should always be the first, etc.)
 
 Code improvements:
 - Resolve hard coding issues (balance_details)
+
+Providing the cleaned table to Kaggle:
+- Long and wide format (focus: organizations/balances)
 
 Research questions:
 - Provide summary information about balances for companies? Like first balance (interesting for when they entered ECG), last balance?
