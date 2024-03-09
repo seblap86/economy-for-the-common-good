@@ -1,5 +1,14 @@
 use ecg;
 
+SELECT * FROM balance_audit_types;
+
+# Checking balance audit types
+SELECT t.audit_type, COUNT(b.id)
+FROM balances as b
+INNER JOIN balance_audit_types as t
+ON b.audit_types_id = t.id
+GROUP BY t.audit_type;
+
 ### VIEWS
 # Highscores? ;)
 CREATE OR REPLACE VIEW highscores AS
