@@ -1,0 +1,1458 @@
+organization_id,organization,balance_audit_type,balance_type,balance_version,submission_date,issue_date,valid_until_date,balance_score,documents
+14665.0,ALLMENDA Social Business eG,Audit,M5.0,Compact,28-10-2018,31-05-2019,31-05-2021,444.0,Report+Attestation
+14666.0,Backkultur,Audit,M5.0,Full,31-01-2019,31-05-2019,31-05-2021,453.0,Report+Attestation
+14667.0,Bernhard Oberrauch,Audit,M5.0,Full,01-09-2018,31-03-2021,31-03-2023,520.0,Report+Attestation
+14668.0,buch7.de GmbH,Audit,M5.0,Full,16-11-2018,31-12-2018,31-12-2020,517.0,Report+Attestation
+14669.0,"Cosyma, EPU",Audit,M5.0,Compact,01-07-2018,31-10-2018,31-10-2020,567.0,Report+Attestation
+14670.0,Culumnatura,Audit,M5.0,Compact,01-10-2018,30-04-2019,30-04-2021,722.0,Report+Attestation
+14671.0,Druckerei Zollenspieker,Audit,M4.1,Standard,12-11-2018,31-05-2019,31-05-2021,590.0,Report+Attestation
+14672.0,ECG Ecotopia,Audit,M4.1,Standard,30-11-2018,31-03-2019,31-03-2021,,Attestation
+14673.0,Fuchs Buchbinderei,Audit,M5.0,Full,27-12-2018,30-04-2019,30-04-2021,260.0,Report+Attestation
+14655.0,Gitta Walchner,Audit,M5.0,Compact,01-09-2018,31-05-2019,31-05-2021,443.0,Report+Attestation
+14656.0,Humanistic Management Practices gGmbH,Audit,M5.0,Full,01-07-2018,28-02-2019,28-02-2021,407.0,Report+Attestation
+14657.0,Jaritz- Welten verbinden,Audit,M5.0,Compact,26-05-2018,,,,
+14658.0,Jürgen Linsenmaier,Audit,M5.0,Compact,24-08-2018,28-02-2019,28-02-2021,245.0,Report+Attestation
+14659.0,Karla Schimmel,Audit,M5.0,Compact,15-11-2018,21-03-2019,21-03-2021,278.0,Report+Attestation
+14660.0,Kortz Konfliktspezialisten,Audit,M4.1,Standard,01-07-2018,31-01-2019,31-01-2021,627.0,Report+Attestation
+14661.0,La Perla,Audit,M5.0,Full,01-04-2019,,,,
+14662.0,Landgut Stober,Audit,M5.0,Compact,31-05-2018,30-04-2019,30-04-2021,690.0,Report+Attestation
+14663.0,Müller Bau GmbH & Co KG,Audit,M5.0,Full,05-12-2018,30-06-2019,30-06-2021,249.0,Report+Attestation
+14674.0,Nils Wittke,Audit,M5.0,Full,01-07-2018,31-05-2019,31-05-2021,515.0,Report+Attestation
+14949.0,OeAD-WohnraumverwaltungsGmbH,Audit,M5.0,Full,13-12-2018,31-01-2019,31-01-2021,432.0,Report+Attestation
+14676.0,Oekofrost,Audit,M4.1,Standard,15-11-2018,31-01-2019,31-01-2021,709.0,Report+Attestation
+14677.0,Ökofairbau,Audit,M5.0,Compact,01-07-2018,31-01-2019,31-01-2021,209.0,Report+Attestation
+14678.0,Ökoring Handels GmbH,Audit,M5.0,Full,25-10-2018,31-07-2019,31-07-2021,499.0,Report+Attestation
+14679.0,Omnicert Umweltgutachter GmbH,Audit,M5.0,Full,09-08-2018,31-01-2019,31-01-2021,502.0,Report+Attestation
+14680.0,Parkhotel Frank,Audit,M5.0,Compact,27-11-2018,31-01-2019,31-01-2021,421.0,Report+Attestation
+14681.0,Peter Frank,Audit,M5.0,Full,30-05-2018,30-11-2018,30-11-2020,437.0,Report+Attestation
+14682.0,Peter Weiss Stiftung (PWS)Literaturfestival,Audit,M5.0,Compact,25-07-2018,31-08-2018,31-08-2020,355.0,Report+Attestation
+14683.0,Polarstern,Audit,M5.0,Compact,14-12-2017,31-03-2019,31-03-2021,434.0,Report+Attestation
+14684.0,Regina Sörgel,Audit,M5.0,Compact,10-01-2021,31-05-2021,31-05-2023,384.0,Report+Attestation
+29802.0,sinnovation – nachhaltig entwickeln,Audit,M5.0,Compact,21-01-2019,31-01-2019,31-01-2021,415.0,Report+Attestation
+14686.0,SozKom,Audit,M5.0,Full,18-04-2018,30-11-2018,30-11-2020,441.0,Report+Attestation
+14687.0,Sparda-Bank München eG,Audit,M4.1,Standard,03-12-2018,30-04-2019,30-04-2021,602.0,Report+Attestation
+14688.0,Spider Netzwerk und Software GmbH,Audit,M5.0,Compact,01-07-2018,31-01-2019,31-01-2021,300.0,Report+Attestation
+14689.0,Synthro,Audit,M5.0,Compact,31-05-2018,31-08-2018,31-08-2020,285.0,Attestation
+14690.0,Trumer Privatbrauerei,Audit,M5.0,Compact,17-01-2019,30-06-2019,30-06-2021,329.0,Report+Attestation
+14691.0,Ulrike Häussler,Audit,M5.0,Compact,01-09-2018,31-05-2019,31-05-2021,443.0,Report+Attestation
+102365.0,Vinzenz Service GmbH,Audit,M5.0,Full,23-07-2018,31-10-2018,31-10-2020,254.0,Report+Attestation
+14693.0,Wasmuth & Hörstel,Audit,M5.0,Full,01-07-2018,31-10-2018,31-10-2020,325.0,Report+Attestation
+14694.0,Weiz Stadtmarketing KG,Audit,M5.0,Full,19-11-2018,31-07-2019,31-07-2021,626.0,Report+Attestation
+14695.0,Heinz Ziegenbein GmbH & Co. KG,Audit,M5.0,Compact,02-08-2018,31-01-2019,31-01-2021,298.0,Attestation
+14696.0,Bayer und Hochdörffer GbR,Audit,M5.0,Compact,08-05-2019,30-06-2019,30-06-2021,230.0,Report+Attestation
+14711.0,Raiffeisenbank Lech/Arlberg reg. Genossenschaft m.b.H.,Audit,M5.0,Full,25-04-2019,30-04-2019,30-04-2021,483.0,Report+Attestation
+14713.0,Thomas Henne,Audit,M5.0,Compact,22-03-2019,30-05-2019,30-05-2021,354.0,Report+Attestation
+14708.0,Sonnentor Kräuterhandelsgesellschaft mbH,Audit,M5.0,Full,30-11-2018,31-07-2019,31-07-2021,725.0,Report+Attestation
+14709.0,Stadtmobil Rhein-Neckar AG,Audit,M5.0,Compact,19-03-2019,30-06-2019,30-06-2021,503.0,Report+Attestation
+14710.0,Proiectio,Audit,M5.0,Compact,27-03-2019,31-05-2019,31-05-2021,333.0,Report+Attestation
+14712.0,"NAVISANA eG, seit 2019 GbR",Audit,M5.0,Full,05-04-2019,30-04-2019,30-04-2021,316.0,Report+Attestation
+14707.0,Taifun-Tofu GmbH,Audit,M5.0,Full,17-04-2019,31-08-2019,31-08-2021,608.0,Report+Attestation
+14697.0,Pelzl Beratung & Umsetzung,Audit,M5.0,Compact,09-05-2019,31-07-2019,31-07-2021,461.0,Report+Attestation
+14700.0,Randegger Ottilien-Quelle GmbH,Audit,M5.0,Compact,13-05-2019,30-09-2019,30-09-2021,365.0,Report+Attestation
+14701.0,"Stadtwerke München GmbH, Geschäftsbereich Bäder",Audit,M5.0,Full,13-05-2019,30-09-2019,30-09-2021,391.0,Report+Attestation
+14746.0,BerlinBees Schüler*Innengenossenschaft,Audit,M5.0,Compact,10-06-2019,30-09-2020,30-09-2022,386.0,Report+Attestation
+14734.0,Sonnendruck GmbH,Audit,M5.0,Compact,24-06-2019,31-10-2019,31-10-2021,495.0,Report+Attestation
+14747.0,Matthias Brunk,Audit,M5.0,Compact,27-06-2019,31-10-2019,31-10-2021,473.0,Report+Attestation
+14744.0,Dornbirner Sparkasse Bank AG,Audit,M5.0,Full,02-07-2019,31-03-2020,31-03-2022,455.0,Report+Attestation
+14748.0,Husumer Horizonte,Audit,M5.0,Full,03-07-2019,30-11-2019,30-11-2021,373.0,Report+Attestation
+14766.0,"cibaria GmbH, ökologisch-biologische Vollkornbäckerei",Audit,M5.0,Full,28-06-2019,30-11-2019,30-11-2021,635.0,Report+Attestation
+34879.0,St.Rochus-Apotheke,Audit,M5.0,Full,10-07-2019,31-10-2019,31-10-2021,455.0,Report+Attestation
+14771.0,Nellie Nashorn Soziokultur gGmbH,Audit,M5.0,Full,11-07-2019,30-11-2019,30-11-2021,408.0,Report+Attestation
+14772.0,ananjo informatiker,Audit,M5.0,Compact,12-07-2019,31-12-2019,31-12-2021,290.0,Report+Attestation
+14773.0,Gesellschaft für angewandte Kommunalforschung,Audit,M5.0,Full,12-07-2019,31-10-2019,31-10-2021,529.0,Report+Attestation
+163148.0,rw-cct gmbh,Audit,M5.0,Compact,15-07-2019,30-09-2020,30-09-2022,478.0,Report+Attestation
+14755.0,"LEWANDOWSKI Beratung, Analyse, Entwicklung",Audit,M5.0,Compact,16-07-2019,30-09-2018,30-09-2020,640.0,Report+Attestation
+14756.0,Laube sozial-psychiatrische Aktivitäten GmbH,Audit,M5.0,Compact,18-07-2019,28-02-2020,28-02-2022,289.0,Report+Attestation
+14758.0,Wohnanlage Fasanenhof gGmbH,Audit,M5.0,Compact,05-08-2019,30-11-2019,30-11-2021,444.0,Report+Attestation
+14765.0,Blattwerk Gartengestaltung GmbH,Audit,M5.0,Compact,05-08-2019,31-10-2019,31-10-2021,442.0,Report+Attestation
+14792.0,Ecofit Biofruchtimport GmbH,Audit,M5.0,Compact,06-08-2019,30-11-2019,30-11-2021,349.0,Report+Attestation
+14779.0,WBS TRAINING AG,Audit,M5.0,Full,14-08-2019,31-01-2020,31-01-2022,356.0,Report+Attestation
+14788.0,Lilly Deutschland GmbH,Audit,M5.0,Full,20-08-2019,31-01-2020,31-01-2022,318.0,Report+Attestation
+14790.0,mg: mannheimer gründungszentren gmbh,Audit,M5.0,Full,28-08-2019,28-02-2020,28-02-2022,230.0,Report+Attestation
+46088.0,Yellow Birds Consulting GmbH & Co. KG,Audit,M5.0,Compact,02-09-2019,31-12-2017,31-12-2019,319.0,Report+Attestation
+14794.0,St. Virgil Salzburg,Audit,M5.0,Compact,09-09-2019,30-04-2020,30-04-2022,411.0,Report+Attestation
+14812.0,Hans Stockmar GmbH & Co.KG,Audit,M5.0,Full,09-09-2019,30-04-2020,30-04-2022,554.0,Report+Attestation
+14805.0,Fahnen-Gärtner GmbH,Audit,M5.0,Full,13-09-2019,31-12-2019,31-12-2021,450.0,Report+Attestation
+14806.0,Tourismusverband Wilder Kaiser,Audit,M5.0,Compact,13-09-2019,31-12-2019,31-12-2021,508.0,Report+Attestation
+14809.0,Mobility Center GmbH,Audit,M5.0,Full,13-09-2019,31-01-2020,31-01-2022,454.0,Report+Attestation
+14795.0,Vägen Ut! Kooperativen,Audit,M5.0,Full,26-09-2019,30-04-2020,30-04-2022,660.0,Attestation
+14811.0,Trafik Doppelhammer,Audit,M5.0,Compact,16-10-2019,31-12-2017,31-12-2019,153.0,Report+Attestation
+14796.0,INFO GmbH,Audit,M5.0,Compact,22-10-2019,31-12-2019,31-12-2021,310.0,Report+Attestation
+14798.0,Michael Selig – Berater für Organisation und Transformation,Audit,M5.0,Compact,23-10-2019,31-12-2019,31-12-2021,473.0,Report+Attestation
+14816.0,CMP Competent Management Partners AG,Audit,M5.0,Compact,29-10-2019,31-12-2019,31-12-2021,521.0,Report+Attestation
+14817.0,Melchinger Systemhaus UG (haftungsbeschränkt),Audit,M5.0,Compact,02-11-2019,31-12-2019,31-12-2021,288.0,Report+Attestation
+14818.0,"Amann, Ulrike, Raum für Gemeinwesenentwicklung",Audit,M5.0,Compact,11-05-2017,31-07-2018,31-07-2020,489.0,Report+Attestation
+14824.0,Berg Anne,Audit,M5.0,Full,11-05-2017,30-09-2018,30-09-2020,557.0,Report+Attestation
+14938.0,BKK ProVita,Audit,M5.0,Full,11-05-2017,30-01-2018,30-01-2020,604.0,Report+Attestation
+14846.0,Eigenbetrieb Leben und Wohnen der Landeshauptstadt Stuttgart (ELW),Audit,M5.0,Full,11-05-2018,30-12-2017,30-12-2019,408.0,Report+Attestation
+85120.0,elobau GmbH & Co KG,Audit,M5.0,Full,11-05-2017,30-06-2018,30-06-2020,449.0,Report+Attestation
+14850.0,EM-faktor GmbH – die social profit agentur,Audit,M5.0,Compact,01-01-2018,30-09-2018,30-09-2020,470.0,Report+Attestation
+14853.0,Team Christian Felber (2018),Audit,M5.0,Full,15-01-2018,30-04-2018,30-04-2020,647.0,Attestation
+82684.0,innovia gem GmbH,Audit,M5.0,Full,11-05-2018,28-02-2019,28-02-2021,623.0,Report+Attestation
+14855.0,"Knakruegge, Lutz",Audit,M5.0,Compact,15-11-2019,30-05-2018,30-05-2020,406.0,Report+Attestation
+14857.0,Lenz Consulting,Audit,M5.0,Compact,15-11-2019,30-04-2018,30-04-2020,459.0,
+14863.0,Gebhard Moser,Audit,M5.0,Compact,01-11-2019,30-04-2018,30-04-2020,418.0,Report+Attestation
+14864.0,"Müller, Horst",Audit,M5.0,Compact,15-01-2018,31-03-2018,31-03-2020,506.0,Report+Attestation
+14866.0,Dirk Posse,Audit,M5.0,Compact,15-11-2019,31-05-2018,31-05-2020,507.0,Report+Attestation
+14870.0,SES Stadtentwässerung Stuttgart,Audit,M5.0,Full,11-05-2017,30-04-2018,30-04-2020,430.0,Report+Attestation
+14975.0,Urte Töpfer – Wirtschaften mit Menschen,Audit,M5.0,Compact,01-11-2017,30-10-2017,30-10-2019,451.0,Report
+14880.0,WeShareIT-Ulrich Lang,Audit,M5.0,Compact,30-01-2018,30-01-2018,30-01-2020,500.0,
+18750.0,Wittig HR-CONSULTING,Audit,M5.0,Compact,01-11-2019,30-06-2018,30-06-2020,507.0,Report+Attestation
+14887.0,Abitare,Audit,M4.1,Standard,11-05-2017,30-11-2018,30-11-2020,476.0,Attestation
+14889.0,Alpendruck,Audit,M5.0,Compact,11-05-2018,31-12-2018,31-12-2020,304.0,Report+Attestation
+67207.0,Atelier Marianna,Audit,M5.0,Compact,11-05-2017,31-10-2018,31-10-2020,517.0,Report+Attestation
+14891.0,AUROBIA GmbH & Co KG,Audit,M5.0,Compact,11-05-2017,31-05-2016,31-05-2018,141.0,Report+Attestation
+127354.0,B.A.U.M. Consult GmbH,Audit,M5.0,Compact,11-05-2017,30-11-2018,30-11-2020,430.0,Report+Attestation
+14893.0,Bausinger GmbH,Audit,M5.0,Compact,11-05-2017,30-09-2018,30-09-2020,517.0,Report+Attestation
+14894.0,BfG – Genossenschaft für Gemeinwohl,Audit,M5.0,Compact,11-05-2017,31-01-2018,31-01-2020,495.0,Report+Attestation
+14895.0,Bodan,Audit,M4.1,Standard,11-05-2017,31-03-2018,31-03-2020,,Report+Attestation
+14896.0,BTE Tourismus- und Regionalberatung,Audit,M4.1,Standard,30-11-2017,31-10-2018,31-10-2020,443.0,Report+Attestation
+14897.0,Cappel,Audit,M5.0,Compact,11-05-2017,31-10-2018,31-10-2020,591.0,Report+Attestation
+14898.0,Christian Jensen Kolleg,Audit,M4.1,Standard,11-05-2017,28-02-2019,28-02-2021,528.0,Report+Attestation
+14900.0,Der Fährmann Bestattung und Trauerrituale Bernhard Schöpfer OG,Audit,M5.0,Compact,03-09-2018,31-12-2018,31-12-2020,406.0,Report+Attestation
+14901.0,Fohlenhof Astner,Audit,M5.0,Compact,11-05-2017,31-10-2018,31-10-2020,441.0,Report+Attestation
+14902.0,Helmut Kähler,Audit,M5.0,Compact,09-04-2018,31-03-2018,31-03-2020,300.0,
+14903.0,Johanna Paul,Audit,M4.1,Standard,01-02-2018,31-05-2018,31-05-2020,649.0,Attestation
+14904.0,Gemeinde Kirchanschöring,Audit,M1.2,Municipal,15-11-2019,31-10-2018,31-10-2020,588.0,Report+Attestation
+14905.0,Manfred Jotter – Besser Wirtschaften,Audit,M5.0,Compact,01-06-2018,20-09-2018,20-09-2020,603.0,Report+Attestation
+14906.0,Dynamic Governance Führung und Ethik in der Unternehmensentwicklung Petra Ostfeld,Audit,M5.0,Compact,03-08-2018,31-12-2018,31-12-2020,424.0,Report+Attestation
+14907.0,PRIOR1 GmbH,Audit,M5.0,Compact,11-05-2018,31-12-2018,31-12-2020,336.0,Report+Attestation
+14908.0,Private Hortgruppe Mobile,Audit,M5.0,Compact,11-05-2017,31-12-2018,31-12-2020,480.0,Report+Attestation
+14909.0,Regionalenergie Osttirol reg. Gen. m.b.H.,Audit,M5.0,Compact,11-05-2017,31-10-2018,31-10-2020,479.0,Report+Attestation
+14910.0,Sanoll,Audit,M5.0,Compact,01-09-2018,31-12-2018,31-12-2020,581.0,Report+Attestation
+14911.0,Bürogemeinschaft Sehlbach,Audit,M5.0,Compact,01-06-2018,30-09-2018,30-09-2020,216.0,Report+Attestation
+14912.0,Seifenmanufaktur-Neururer gmbh,Audit,M5.0,Compact,11-05-2017,31-12-2018,31-12-2020,331.0,Report+Attestation
+14913.0,SpreeTrain Consulting,Audit,M5.0,Compact,15-11-2019,31-10-2018,31-10-2020,248.0,Report+Attestation
+14914.0,Schloss Tempelhof eG,Audit,M4.1,Standard,01-11-2019,30-04-2018,30-04-2020,783.0,Report+Attestation
+47041.0,Thomas Uloth Unternehmensberatung,Audit,M5.0,Compact,01-07-2018,30-09-2018,30-09-2020,171.0,Report
+14917.0,Vaude,Audit,M5.0,Full,11-05-2018,30-03-2018,30-03-2020,631.0,Report+Attestation
+14918.0,Waldtraud Dietrich,Audit,M5.0,Compact,01-10-2018,31-12-2018,31-12-2020,312.0,Report+Attestation
+14919.0,Wiedemann Jörn,Audit,M5.0,Compact,01-08-2018,30-11-2018,30-11-2020,457.0,Report+Attestation
+14925.0,Samariterstiftung,Audit,M5.0,Full,05-11-2019,30-06-2020,30-06-2022,482.0,Report+Attestation
+14928.0,Gemeinde Mäder,Audit,M1.2,Municipal,11-11-2019,31-01-2020,31-01-2022,567.0,Report+Attestation
+14853.0,Team Christian Felber,Audit,M5.0,Compact,12-11-2019,30-09-2020,30-09-2022,674.0,Report+Attestation
+14932.0,"Susanne Dahncke, Coaching für Querdenker",Audit,M5.0,Full,14-11-2019,31-03-2020,31-03-2022,327.0,Report+Attestation
+14933.0,Gunz Warenhandels GmbH,Audit,M5.0,Compact,14-11-2019,31-01-2020,31-01-2022,332.0,Report+Attestation
+14950.0,BfG Eigentümer/-innen- und Verwaltungsgenossenschaft eG,Audit,M5.0,Compact,03-12-2019,28-02-2020,28-02-2022,457.0,Report+Attestation
+14936.0,easySoft. GmbH,Audit,M5.0,Compact,12-12-2019,31-03-2020,31-03-2022,442.0,Report+Attestation
+14946.0,Gerd Pöll,Audit,M5.0,Compact,15-12-2019,31-03-2020,31-03-2022,435.0,Report+Attestation
+14948.0,Judith Gunkel Unternehmensberatung,Audit,M5.0,Compact,16-12-2019,31-03-2020,31-03-2022,502.0,Report+Attestation
+14949.0,OeAD-WohnraumverwaltungsGmbH,Audit,M5.0,Full,16-12-2019,31-03-2020,31-03-2022,520.0,Report+Attestation
+14951.0,Pizzinini Busreisen,Audit,M5.0,Compact,17-12-2019,31-12-2019,31-12-2021,344.0,Report+Attestation
+14938.0,BKK ProVita,Audit,M5.0,Full,20-12-2019,31-01-2020,31-01-2022,790.0,Report+Attestation
+14939.0,Seminarhaus deinsdorf e.V.,Audit,M5.0,Compact,21-12-2019,31-05-2020,31-05-2022,488.0,Report+Attestation
+14940.0,Moin Bio Backwaren GmbH,Audit,M5.0,Full,23-12-2019,28-02-2020,28-02-2022,533.0,Report+Attestation
+14942.0,NoviTech e.U.,Audit,M5.0,Compact,27-12-2019,31-03-2020,31-03-2022,312.0,Report+Attestation
+14953.0,fairagent Int. FAI UG (haftungsbeschränkt),Audit,M5.0,Compact,06-01-2020,30-09-2020,30-09-2022,202.0,Report+Attestation
+14934.0,Think fresh,Audit,M5.0,Compact,09-01-2020,31-03-2020,31-03-2022,317.0,Report+Attestation
+14964.0,kleindienst outdoor-assisted-development,Audit,M5.0,Compact,15-01-2020,31-05-2020,31-05-2022,495.0,Report+Attestation
+14954.0,Diakonie Herzogsägmühle,Audit,M5.0,Full,31-01-2020,30-11-2020,30-11-2022,346.0,Report+Attestation
+124636.0,Vorarlberger Landes-Versicherung V.a.G.,Audit,M5.0,Compact,04-02-2020,31-07-2020,31-07-2022,247.0,Report+Attestation
+14973.0,Adelby 1 Kinder- und Jugenddienste gGmbH,Audit,M5.0,Full,05-02-2020,30-09-2020,30-09-2022,392.0,Report+Attestation
+14955.0,n.e.s.t. Bauprojektierung und Vermietung AG,Audit,M5.0,Full,06-02-2020,31-05-2020,31-05-2022,506.0,Report+Attestation
+14961.0,Mick Petersmann,Audit,M5.0,Compact,12-02-2020,30-04-2020,30-04-2022,525.0,Report+Attestation
+14962.0,Voelkel GmbH,Audit,M5.0,Full,11-02-2020,31-10-2020,31-10-2022,584.0,Report+Attestation
+14963.0,monomeer. Alles ohne Plastik,Audit,M5.0,Compact,12-02-2020,31-05-2020,31-05-2022,443.0,Report+Attestation
+14980.0,Stadtwerke Marburg GmbH,Audit,M5.0,Full,25-02-2020,31-08-2020,31-08-2022,380.0,Report+Attestation
+14989.0,confideon Unternehmensberatung GmbH,Audit,M5.0,Compact,11-03-2020,31-07-2020,31-07-2022,489.0,Report+Attestation
+14974.0,Dr. Gabriele Mönicke,Audit,M5.0,Compact,06-04-2020,31-05-2020,31-05-2022,386.0,Report+Attestation
+14975.0,Führen mit… Urte Töpfer,Audit,M5.0,Compact,07-04-2020,31-05-2020,31-05-2022,438.0,Report+Attestation
+14981.0,"Thomas Mönius, Gemeinwohlberater",Audit,M5.0,Compact,08-04-2020,31-05-2020,31-05-2022,465.0,Report+Attestation
+14988.0,DR. ULRICH WIEK Training & Coaching,Audit,M5.0,Compact,20-04-2020,30-09-2020,30-09-2022,205.0,Report+Attestation
+14998.0,Forst Baden-Württemberg (ForstBW),Audit,M5.0,Full,21-04-2020,31-08-2020,31-08-2022,577.0,Report+Attestation
+14997.0,Spitalstiftung Konstanz,Audit,M5.0,Compact,28-04-2020,31-05-2020,31-05-2022,376.0,Report+Attestation
+35308.0,Strom vom Dach,Audit,M5.0,Compact,16-12-2019,31-05-2020,31-05-2022,398.0,Report+Attestation
+15515.0,Steuerkanzlei Heinrich,Audit,M5.0,Compact,22-05-2020,31-10-2020,31-10-2022,315.0,Report+Attestation
+15520.0,Bichlbäck,Audit,M5.0,Compact,22-05-2020,31-05-2020,31-05-2022,402.0,Report+Attestation
+15525.0,"Stadtwerke Kufstein GmbH, Wasserabteilunge",Audit,M5.0,Compact,22-05-2020,31-05-2020,31-05-2022,380.0,Report+Attestation
+15588.0,"Möckernkiez Genossenschaft für selbstverwaltetes, soziales und ökologisches Wohnen eG",Audit,M5.0,Compact,26-05-2020,30-09-2020,30-09-2022,510.0,Report+Attestation
+15653.0,Vitark NV,Audit,M5.0,Compact,27-05-2020,31-07-2020,31-07-2022,348.0,Report+Attestation
+15717.0,Stadtverwaltung Steinheim,Audit,M5.0,Full,28-05-2020,31-08-2020,31-08-2022,423.0,Report+Attestation
+15795.0,EarthWays,Audit,M5.0,Compact,31-05-2020,31-07-2020,31-07-2022,382.0,Report+Attestation
+17165.0,swapwork UG (haftungsbeschränkt),Audit,M5.0,Compact,10-06-2020,31-07-2020,31-07-2022,504.0,Report+Attestation
+17277.0,Avesani Marta,Audit,M5.0,Full,15-06-2020,,,,
+78957.0,Gemeinhardt Service GmbH,Audit,M5.0,Compact,16-06-2020,31-10-2020,31-10-2022,377.0,Report+Attestation
+17841.0,Gemeinwohl-Ökonomie Berlin-Brandenburg e.V.,Audit,M5.0,Compact,21-06-2020,31-08-2020,31-08-2022,422.0,Report+Attestation
+18100.0,Kulturquartier Münster GmbH,Audit,M5.0,Compact,24-06-2020,31-08-2020,31-08-2022,717.0,Report+Attestation
+18598.0,Novatec Consulting GmbH,Audit,M5.0,Compact,06-07-2020,31-10-2020,31-10-2022,239.0,Report+Attestation
+14882.0,WITTIG HR CONSULTING,Audit,M5.0,Compact,07-07-2020,31-08-2020,31-08-2022,537.0,Report+Attestation
+19081.0,Greenpeace e.V.,Audit,M5.0,Full,15-07-2020,31-10-2020,31-10-2022,707.0,Report+Attestation
+19131.0,Ynova Innovation Company BV,Audit,M5.0,Compact,15-07-2020,31-10-2020,31-10-2022,300.0,Report+Attestation
+19279.0,Macrolibrarsi di Golden Books S.r.l.,Audit,M5.0,Full,07-12-2018,30-01-2019,30-01-2021,418.0,Report+Attestation
+19282.0,Remedia di Satanassi & Bosch Società Agricola S.S.,Audit,M5.0,Full,07-12-2018,30-01-2019,30-01-2021,626.0,Report+Attestation
+19285.0,Cappelletti + Bongiovanni Srl,Audit,M5.0,Full,07-12-2018,30-01-2019,30-01-2021,472.0,Report+Attestation
+102365.0,Vinzenz Service GmbH,Audit,M5.0,Full,30-07-2020,31-12-2020,31-12-2022,372.0,Report+Attestation
+135008.0,Bean United GmbH,Audit,M5.0,Full,07-08-2020,31-10-2020,31-10-2022,357.0,Report+Attestation
+19870.0,Lebenshilfe Tirol gem. GmbH,Audit,M5.0,Full,13-08-2020,28-02-2021,28-02-2023,312.0,Attestation
+20027.0,OIKOPOLIS Participations SA,Audit,M5.0,Full,19-08-2020,28-02-2021,28-02-2023,669.0,Report+Attestation
+20289.0,Sächsische Aufbaubank – Förderbank,Audit,M5.0,Full,04-09-2020,31-05-2021,31-05-2023,370.0,Report+Attestation
+20569.0,Gerd Lauermann,Audit,M5.0,Compact,15-09-2020,28-02-2021,28-02-2023,539.0,Report+Attestation
+40119.0,Prof. Dr. Bernd Hümmer,Audit,M5.0,Full,17-09-2020,30-11-2020,30-11-2022,207.0,Report+Attestation
+21191.0,Qaizen GmbH,Audit,M5.0,Full,25-09-2020,31-01-2021,31-01-2023,267.0,Report+Attestation
+21570.0,Nell-Breuning-Haus,Audit,M5.0,Compact,05-10-2020,31-01-2021,31-01-2023,331.0,Report+Attestation
+21623.0,Sparkasse Berchtesgadener Land,Audit,M5.0,Full,06-10-2020,31-01-2021,31-01-2023,432.0,Report+Attestation
+14849.0,EM-Chiemgau- Christoph Fischer GmbH,Audit,M5.0,Full,08-10-2020,31-03-2021,31-03-2023,555.0,Report+Attestation
+22084.0,Diözese St. Pölten – Jugendhaus Schacherhof,Audit,M5.0,Compact,13-10-2020,30-11-2020,30-11-2022,496.0,Report+Attestation
+14686.0,SozKom,Audit,M5.0,Full,15-10-2020,31-12-2020,31-12-2022,443.0,Report+Attestation
+22408.0,bhz Stuttgart e.V.,Audit,M5.0,Compact,21-10-2020,31-12-2020,31-12-2022,357.0,Report+Attestation
+22420.0,Evangelisches Johannesstift Jugendhilfe gGmbH,Audit,M5.0,Full,22-10-2020,28-02-2021,28-02-2023,370.0,Report+Attestation
+22580.0,doubleSlash Net-Business GmbH,Audit,M5.0,Full,26-10-2020,31-03-2021,31-03-2023,324.0,Report+Attestation
+22589.0,Organisationsberatung Annelen Schulze Höing,Audit,M5.0,Compact,26-10-2020,28-02-2021,28-02-2023,300.0,Report+Attestation
+22837.0,Lindig Coaching-Wachstum-Integraton,Audit,M5.0,Compact,26-10-2020,31-03-2021,31-03-2023,344.0,Report+Attestation
+23161.0,Hans Meyer,Audit,M5.0,Compact,03-11-2020,31-01-2021,31-01-2023,316.0,Report+Attestation
+14683.0,Polarstern,Audit,M5.0,Full,04-11-2020,31-03-2021,31-03-2023,516.0,Report+Attestation
+23225.0,followfood GmbH,Audit,M5.0,Compact,05-11-2020,31-08-2021,31-08-2023,719.0,Report+Attestation
+14693.0,Wasmuth & Hörstel,Audit,M5.0,Compact,10-11-2020,31-08-2021,31-08-2023,457.0,Report+Attestation
+85120.0,elobau GmbH & Co KG,Audit,M5.0,Full,21-12-2020,31-01-2021,31-01-2023,602.0,Report+Attestation
+14679.0,Omnicert Umweltgutachter GmbH,Audit,M5.0,Full,12-11-2020,28-02-2021,28-02-2023,441.0,Report+Attestation
+23715.0,Regensburg Tourismus GmbH (RTG),Audit,M5.0,Compact,16-11-2020,28-02-2021,28-02-2023,526.0,Report+Attestation
+24528.0,Dr. Langniß Energie & Analyse,Audit,M5.0,Compact,01-12-2020,31-01-2021,31-01-2023,371.0,Report+Attestation
+24791.0,WFG Bornheim,Audit,M5.0,Full,07-12-2020,28-02-2021,28-02-2023,306.0,Report+Attestation
+25050.0,visuellverstehen GmbH,Audit,M5.0,Compact,14-12-2020,31-03-2021,31-03-2023,405.0,Report+Attestation
+25192.0,Wolf Oeding Unternehmensberatung,Audit,M5.0,Compact,16-12-2020,31-05-2021,31-05-2023,535.0,Attestation
+14891.0,AUROBIA GmbH & Co KG,Audit,M5.0,Compact,17-12-2020,30-04-2021,30-04-2023,151.0,Report+Attestation
+25379.0,Westerwald-Brauerei H.Schneider GmbH & Co.KG,Audit,M5.0,Compact,18-12-2020,30-06-2021,30-06-2023,302.0,Report+Attestation
+25482.0,KarmaKonsum Christoph Harrach,Audit,M5.0,Compact,21-12-2020,28-02-2021,28-02-2023,501.0,Report+Attestation
+25791.0,Brauerei Gutmann,Audit,M5.0,Full,23-12-2020,30-04-2021,30-04-2023,276.0,Report+Attestation
+27489.0,Märkisches Landbrot GmbH,Audit,M5.0,Full,29-01-2021,31-10-2021,31-10-2023,756.0,Report+Attestation
+27524.0,Brigitte Göltz – Training und Beratung,Audit,M5.0,Compact,30-01-2021,28-02-2021,28-02-2023,345.0,Report+Attestation
+14903.0,"Johanna Paul, Organisationsentwicklung und Changemanagement",Audit,M5.0,Compact,08-02-2021,31-05-2021,31-05-2023,391.0,Report+Attestation
+35297.0,D-QuESTioN,Audit,M5.0,Compact,04-02-2021,30-04-2021,30-04-2023,428.0,Attestation
+35302.0,nature and progress,Audit,M5.0,Full,10-02-2021,30-04-2021,30-04-2023,490.0,Report+Attestation
+14687.0,Sparda-Bank München eG,Audit,M3.0,Standard,30-06-2011,30-12-2011,30-12-2013,332.0,Report+Attestation
+14687.0,Sparda-Bank München eG,Audit,M4.0,Standard,31-12-2012,30-11-2013,30-11-2015,385.0,Report+Attestation
+14687.0,Sparda-Bank München eG,Audit,M4.1,Standard,30-11-2015,30-11-2015,30-11-2017,559.0,Report+Attestation
+29652.0,AAP-ARCHITEKTEN ZT-GMBH,Audit,M3.0,Standard,31-12-2011,,,,Report
+133954.0,Christian Rüther e.U.,Audit,M3.0,Standard,31-12-2013,,,,Report
+55101.0,DROSG-PLÖCKINGER & PLÖCKINGER OG,Audit,M3.0,Standard,31-12-2012,,,,Report
+35301.0,MAG. VERENA FLORIAN,Audit,M3.0,Standard,31-12-2011,,,,Report
+28515.0,Manfred Kofranek,Audit,M3.0,Standard,31-12-2011,,,,Report
+29753.0,ReWiG München eG,Audit,M3.0,Standard,31-12-2011,31-12-2011,31-12-2013,469.0,Report+Attestation
+163148.0,rw-cct gmbh,Audit,M3.0,Standard,31-12-2011,,,,Report
+14708.0,Sonnentor Kräuterhandelsgesellschaft mbH,Audit,M3.0,Standard,31-12-2011,31-10-2011,31-10-2013,630.0,Report
+133954.0,Christian Rüther e.U.,Audit,M4.1,Standard,31-12-2013,,,,Report
+55101.0,DROSG-PLÖCKINGER & PLÖCKINGER OG,Audit,M4.1,Standard,31-12-2013,,,,Report
+28515.0,Manfred Kofranek,Audit,M4.1,Standard,31-12-2013,,,,Report
+14711.0,Raiffeisenbank Lech/Arlberg reg. Genossenschaft m.b.H.,Audit,M4.0,Standard,31-12-2012,30-04-2012,30-04-2014,329.0,Report
+14708.0,Sonnentor Kräuterhandelsgesellschaft mbH,Audit,M4.1,Standard,31-12-2012,30-06-2012,30-06-2014,593.0,Report
+32904.0,Radio Next Generation GmbH & Co. KG  (Sender egoFM),Audit,M5.0,Compact,15-02-2021,30-04-2021,30-04-2023,418.0,Report+Attestation
+32906.0,SFP Architekten GmbH,Audit,M5.0,Compact,22-02-2021,31-03-2021,31-03-2023,284.0,Report+Attestation
+35304.0,Rahm Projektmanagement Schlüsselfertigbau GmbH,Audit,M5.0,Compact,23-02-2021,31-03-2021,31-03-2023,252.0,Report+Attestation
+29154.0,Gute Leute Beratung Brigitte Jacobs-Hombeuel,Audit,M5.0,Compact,26-02-2021,31-03-2021,31-03-2023,342.0,Report+Attestation
+29166.0,Gebäudeservice Wodara GmbH,Audit,M5.0,Full,26-02-2021,30-06-2021,30-06-2023,300.0,Report+Attestation
+29214.0,"Andrea Aldosser, Ganzheitliche Personal- und Organisationsentwicklung",Audit,M5.0,Compact,28-02-2021,30-04-2021,30-04-2023,320.0,Report+Attestation
+29635.0,AGENTUR FÜR EVALUATION & QUALITÄTSENTWICKLUNG,Audit,M4.1,Standard,31-12-2013,,,,Report
+14903.0,Johanna Paul,Audit,M4.0,Standard,31-12-2013,,,,Report
+29652.0,AAP-ARCHITEKTEN ZT-GMBH,Audit,M4.1,Standard,31-12-2013,,,,Report
+14655.0,Gitta Walchner,Audit,M4.1,Standard,31-12-2013,,,,Report
+29660.0,REGIOS EG,Audit,M4.0,Standard,31-12-2013,31-12-2013,31-12-2015,604.0,Report+Attestation
+163148.0,rw-cct gmbh,Audit,M4.0,Standard,31-12-2013,,,,Report
+14676.0,Oekofrost,Audit,M4.0,Standard,31-12-2013,31-03-2012,31-03-2014,520.0,Report+Attestation
+14711.0,Raiffeisenbank Lech/Arlberg reg. Genossenschaft m.b.H.,Audit,M4.0,Standard,31-12-2013,30-04-2013,30-04-2015,329.0,Report+Attestation
+14708.0,Sonnentor Kräuterhandelsgesellschaft mbH,Audit,M4.0,Standard,31-12-2013,30-06-2013,30-06-2015,595.0,Report
+29723.0,FH Burgenland,Audit,M4.0,Standard,31-12-2013,16-06-2014,16-06-2016,440.0,Report+Attestation
+29726.0,Kaltenegger & Partner Architekten ZT GmbH,Audit,M4.0,Standard,31-12-2014,31-07-2014,31-07-2016,680.0,Report
+14744.0,Dornbirner Sparkasse Bank AG,Audit,M4.0,Standard,31-12-2014,31-10-2014,31-10-2016,340.0,Report+Attestation
+14876.0,Urte Töpfer – Wirtschaften mit Menschen,Audit,M4.1,Standard,31-12-2013,31-10-2014,31-10-2016,458.0,Report+Attestation
+28515.0,Manfred Kofranek,Audit,M4.1,Standard,31-12-2015,,,,Report
+14755.0,"LEWANDOWSKI Beratung, Analyse, Entwicklung",Audit,M4.1,Standard,31-12-2015,,,,
+163148.0,rw-cct gmbh,Audit,M4.1,Standard,31-12-2015,,,,Report
+14708.0,Sonnentor Kräuterhandelsgesellschaft mbH,Audit,M4.1,Standard,31-12-2015,31-07-2015,31-07-2017,635.0,Report+Attestation
+14691.0,Ulrike Häussler,Audit,M4.1,Standard,31-12-2015,,,,Report
+14917.0,Vaude,Audit,M4.1,Standard,31-12-2015,31-01-2015,31-01-2017,502.0,Report+Attestation
+14655.0,Gitta Walchner,Audit,M4.1,Standard,31-12-2015,,,,Report
+14882.0,Wittig HR-CONSULTING,Audit,M4.1,Standard,31-12-2015,31-05-2015,31-05-2017,386.0,Report+Attestation
+14674.0,Nils Wittke,Audit,M4.1,Standard,31-12-2015,,,,Report
+29753.0,ReWiG München eG,Audit,M4.0,Standard,31-12-2013,30-06-2013,30-06-2015,564.0,Report+Attestation
+14903.0,Johanna Paul,Audit,M4.1,Standard,31-12-2015,,,,Report
+14994.0,Gandler Risk Management,Audit,M4.1,Standard,31-12-2015,,,,Report
+14711.0,Raiffeisenbank Lech/Arlberg reg. Genossenschaft m.b.H.,Audit,M4.1,Standard,31-12-2015,30-04-2015,30-04-2017,419.0,Report+Attestation
+85120.0,elobau GmbH & Co KG,Audit,M4.1,Standard,31-12-2016,30-09-2016,30-09-2018,449.0,Report+Attestation
+14744.0,Dornbirner Sparkasse Bank AG,Audit,M4.1,Standard,31-12-2016,30-11-2016,30-11-2018,394.0,Report+Attestation
+14707.0,Taifun-Tofu GmbH,Audit,M4.1,Standard,31-12-2016,30-09-2016,30-09-2018,575.0,Report+Attestation
+14719.0,Ulenspiegel Druck GmbH & Co. KG,Audit,M4.1,Standard,31-12-2016,30-06-2016,30-06-2018,668.0,Report+Attestation
+14676.0,Oekofrost,Audit,M4.1,Standard,31-12-2016,31-01-2016,31-01-2018,613.0,Report+Attestation
+29769.0,Radio München gUG,Audit,M4.1,Standard,31-12-2016,,,,Report
+14656.0,Humanistic Management Practices gGmbH,Audit,M5.0,Compact,09-03-2021,30-09-2021,30-09-2023,311.0,Report+Attestation
+29802.0,sinnovation – nachhaltig entwickeln,Audit,M5.0,Compact,09-03-2021,30-04-2021,30-04-2023,518.0,Report+Attestation
+14816.0,CMP Competent Management Partners AG,Audit,M4.1,Standard,31-12-2017,31-10-2017,31-10-2019,546.0,Report+Attestation
+46802.0,e-fect dialog evaluation consulting eG,Audit,M4.1,Standard,31-12-2017,30-06-2017,30-06-2019,616.0,Report+Attestation
+29723.0,FH Burgenland,Audit,M4.1,Standard,31-12-2017,31-05-2017,31-05-2019,473.0,Report+Attestation
+19081.0,Greenpeace e.V.,Audit,M4.1,Standard,31-12-2017,30-11-2017,30-11-2019,653.0,Report+Attestation
+29813.0,Grenzstrom Vindved GmbH & CoKG,Audit,M4.1,Standard,31-12-2017,31-08-2017,31-08-2019,564.0,Report+Attestation
+19684.0,Grüne Erde GmbH,Audit,M4.1,Standard,31-12-2017,31-01-2017,31-01-2019,749.0,Report+Attestation
+32995.0,Headgate,Audit,M4.1,Standard,31-12-2017,31-03-2017,31-03-2019,427.0,Report
+14954.0,Diakonie Herzogsägmühle,Audit,M4.1,Standard,31-12-2017,31-07-2017,31-07-2019,428.0,Report+Attestation
+29821.0,Irene Müller,Audit,M4.1,Standard,31-12-2017,30-09-2017,30-09-2019,380.0,Report+Attestation
+27489.0,Märkisches Landbrot GmbH,Audit,M4.1,Standard,31-12-2017,31-03-2017,31-03-2019,773.0,Report+Attestation
+20027.0,OIKOPOLIS Participations SA,Audit,M4.1,Standard,31-12-2017,28-02-2017,28-02-2019,712.0,Report+Attestation
+14711.0,Raiffeisenbank Lech/Arlberg reg. Genossenschaft m.b.H.,Audit,M4.1,Standard,31-12-2017,30-04-2017,30-04-2019,462.0,Report+Attestation
+29832.0,Roseli Gonzalves,Audit,M4.1,Standard,31-12-2017,31-05-2017,31-05-2019,384.0,Report+Attestation
+14925.0,Samariterstiftung,Audit,M4.1,Standard,30-09-2017,30-09-2017,30-09-2019,623.0,Report+Attestation
+14708.0,Sonnentor Kräuterhandelsgesellschaft mbH,Audit,M4.1,Standard,31-12-2017,31-07-2017,31-07-2019,671.0,Report+Attestation
+14795.0,Vägen Ut! Kooperativen,Audit,M4.1,Standard,31-12-2017,,,,Report
+14876.0,Urte Töpfer – Wirtschaften mit Menschen,Audit,M4.1,Standard,31-12-2017,31-10-2017,31-10-2019,451.0,Report+Attestation
+14928.0,Gemeinde Mäder,Audit,M1.2,Municipal,31-12-2017,31-08-2017,31-08-2019,487.0,Report+Attestation
+29889.0,Gemeinde Nenzing,Audit,M1.2,Municipal,31-12-2017,31-08-2017,31-08-2019,425.0,Report+Attestation
+29892.0,GefAA TELECONSULT UG (haftungsbeschränkt),Audit,M4.1,Standard,31-12-2018,31-08-2018,31-08-2020,322.0,Report+Attestation
+14711.0,Raiffeisenbank Lech/Arlberg reg. Genossenschaft m.b.H.,Audit,M5.0,Full,11-03-2021,31-05-2021,31-05-2023,534.0,Report+Attestation
+30343.0,Windkraft Simonsfeld AG,Audit,M5.0,Full,16-03-2021,30-06-2021,30-06-2023,562.0,Report+Attestation
+30768.0,Points Gesellschaft für digitale Informationssysteme mbH,Audit,M5.0,Compact,23-03-2021,30-06-2021,30-06-2023,273.0,Report+Attestation
+30962.0,corsus corporate sustainability GmbH,Audit,M5.0,Compact,28-03-2021,30-04-2021,30-04-2023,580.0,Report+Attestation
+14907.0,PRIOR1 GmbH,Audit,M5.0,Full,16-04-2021,31-08-2021,31-08-2023,403.0,Report+Attestation
+14705.0,Jochen Siebel Unternehmensberatung,Audit,M5.0,Full,16-04-2021,31-07-2021,31-07-2023,456.0,Report+Attestation
+32425.0,Ivo Knoll,Audit,M5.0,Compact,19-04-2021,31-08-2021,31-08-2023,344.0,Report+Attestation
+35274.0,Kaiser & Kühne Freizeitgeräte GmbH,Audit,M5.0,Full,21-04-2021,30-06-2021,30-06-2023,352.0,Report+Attestation
+32984.0,Judith Landes Training – Beratung – Mediation,Audit,M5.0,Full,28-04-2021,30-06-2021,30-06-2023,342.0,Report+Attestation
+33004.0,inoio gmbh,Audit,M5.0,Compact,29-04-2021,31-07-2021,31-07-2023,388.0,Report+Attestation
+33281.0,IFSM,Audit,M5.0,Compact,30-04-2021,30-09-2021,30-09-2023,231.0,Report+Attestation
+34187.0,Coaching Zahn,Audit,M5.0,Compact,05-05-2021,30-06-2021,30-06-2023,300.0,Report+Attestation
+34879.0,St.Rochus-Apotheke,Audit,M5.0,Full,11-05-2021,31-01-2022,31-01-2024,464.0,Report+Attestation
+14893.0,Bausinger GmbH,Audit,M5.0,Full,17-05-2021,30-06-2021,30-06-2023,616.0,Report+Attestation
+35606.0,WEtell GmbH,Audit,M5.0,Full,18-05-2021,30-09-2021,30-09-2023,470.0,Report+Attestation
+14733.0,liesLotte MEDIEN VERLAG,Audit,M5.0,Full,21-05-2021,31-07-2021,31-07-2023,406.0,Report+Attestation
+14945.0,Kurt Egger – eku-konstruktiv,Audit,M4.0,Standard,31-12-2011,,,,Report+Attestation
+14945.0,Kurt Egger – eku-konstruktiv,Audit,M4.1,Standard,31-12-2015,30-06-2015,30-06-2017,348.0,Report+Attestation
+36533.0,DI Siegfried Lerchbaumer,Audit,M4.0,Standard,31-12-2012,31-12-2012,31-12-2014,534.0,Report+Attestation
+36543.0,RAUM.WERTcc DIin Ursula Spannberger,Audit,M4.1,Standard,31-12-2015,30-06-2015,30-06-2017,490.0,Report+Attestation
+14818.0,"Amann, Ulrike, Raum für Gemeinwesenentwicklung",Audit,M4.1,Standard,31-10-2015,31-01-2016,31-01-2018,405.0,Report+Attestation
+30962.0,corsus corporate sustainability GmbH,Audit,M4.1,Standard,30-06-2016,30-06-2016,30-06-2018,671.0,Report+Attestation
+36556.0,Wofgang Biebel,Audit,M4.0,Standard,31-12-2013,31-12-2013,31-12-2015,607.0,Report+Attestation
+36608.0,"N-Motion, Röhrle & Henle Partnerschaftsgesellschaft",Audit,M5.0,Compact,25-05-2021,31-01-2022,31-01-2024,417.0,Report+Attestation
+36677.0,Peter Eschner,Audit,M4.1,Standard,02-07-2016,31-08-2016,31-08-2018,511.0,Report+Attestation
+14853.0,Team Christian Felber,Audit,M4.0,Standard,30-12-2012,30-12-2012,30-12-2014,662.0,Report+Attestation
+14853.0,Team Christian Felber,Audit,M4.1,Standard,30-04-2015,30-06-2015,30-06-2017,617.0,Report+Attestation
+36697.0,FORUM BERUFSBILDUNG MÜNCHEN KARL THIESSEN,Audit,M4.0,Standard,19-09-2011,31-12-2011,31-12-2013,418.0,Report+Attestation
+36733.0,Institut für Zukunftskompetenzen e.U.,Audit,M4.0,Standard,31-12-2012,,,,
+36736.0,JELINEK AKADEMIE e.U.,Audit,M4.0,Standard,14-03-2013,30-06-2013,30-06-2015,301.0,Report+Attestation
+36746.0,KAIROS – WIRKUNGSFORSCHUNG & ENTWICKLUNG GEMEINNÜTZIGE GMBH,Audit,M4.0,Standard,26-05-2013,31-12-2013,31-12-2015,737.0,Report+Attestation
+14855.0,"Knakruegge, Lutz",Audit,M4.0,Standard,11-09-2011,30-12-2011,30-12-2013,427.0,Report+Attestation
+14855.0,"Knakruegge, Lutz",Audit,M5.0,Compact,12-01-2018,31-05-2018,31-05-2020,406.0,Report+Attestation
+36753.0,Koloo Projects,Audit,M4.1,Standard,17-02-2016,30-04-2016,30-04-2018,432.0,Report+Attestation
+36756.0,SOUND STRATEGY e.U.,Audit,M4.0,Standard,16-02-2012,30-06-2012,30-06-2014,489.0,Report+Attestation
+36795.0,Veronika Lamprecht GAIA-Akademie,Audit,M4.0,Standard,29-11-2011,30-12-2011,30-12-2013,622.0,Report+Attestation
+20569.0,Gerd Lauermann,Audit,M4.1,Standard,21-07-2015,30-09-2015,30-09-2017,396.0,Report+Attestation
+36813.0,Nagl-Pölzer Consulting,Audit,M4.0,Standard,30-08-2013,30-08-2013,30-08-2015,375.0,Report+Attestation
+14964.0,kleindienst outdoor-assisted-development,Audit,M4.1,Standard,30-09-2012,30-09-2012,30-09-2014,563.0,Report
+14964.0,kleindienst outdoor-assisted-development,Audit,M4.1,Standard,31-03-2016,31-03-2016,31-03-2018,577.0,Report+Attestation
+36845.0,schink-kantoku,Audit,M4.1,Standard,08-05-2014,30-11-2014,30-11-2016,408.0,Report+Attestation
+36869.0,SERI Nachhaltigkeitsforschungs und –kommunikations GmbH,Audit,M4.0,Standard,22-09-2011,31-12-2011,31-12-2013,609.0,Report+Attestation
+36874.0,GESVIT Karl Steinwender e.U.,Audit,M4.0,Standard,18-05-2013,31-12-2013,31-12-2015,323.0,Report+Attestation
+36877.0,Holger Stützle IT- & Organisationsberatung,Audit,M4.1,Standard,30-09-2015,30-09-2015,30-09-2017,334.0,Report+Attestation
+14947.0,Harald Thurner,Audit,M4.1,Standard,22-05-2015,30-06-2015,30-06-2017,438.0,Report+Attestation
+36883.0,Trigon Entwicklungsberatung registrierte Genossenschaft mit beschränkter Haftung,Audit,M4.0,Standard,18-08-2011,31-12-2011,31-12-2013,477.0,Report+Attestation
+14779.0,WBS TRAINING AG,Audit,M4.1,Standard,30-06-2016,30-11-2016,30-11-2018,272.0,Report+Attestation
+36892.0,Nikolaus Teixeira communications & design,Audit,M4.1,Standard,22-09-2016,30-10-2016,30-10-2018,433.0,Report+Attestation
+14850.0,EM-faktor GmbH – die social profit agentur,Audit,M4.0,Standard,13-12-2013,31-12-2014,31-12-2016,369.0,Report+Attestation
+36903.0,Gugler GmbH,Audit,M4.0,Standard,21-09-2011,31-12-2011,31-12-2013,549.0,Report+Attestation
+36906.0,interlink marketing e. U. Anna Oladejo,Audit,M4.1,Standard,30-06-2016,30-11-2016,30-11-2018,368.0,Report+Attestation
+36912.0,KLUFAMILY Familie & Beruf Management GmbH,Audit,M4.0,Standard,31-03-2013,31-12-2013,31-12-2015,474.0,Report+Attestation
+14734.0,Sonnendruck GmbH,Audit,M4.0,Standard,28-02-2013,28-06-2013,28-06-2015,337.0,Report+Attestation
+14734.0,Sonnendruck GmbH,Audit,M4.1,Standard,26-09-2014,31-10-2014,31-10-2016,359.0,Report+Attestation
+37001.0,taz Verlags u. Vertriebs GmbH,Audit,M4.1,Standard,28-02-2015,31-03-2015,31-03-2017,395.0,Report+Attestation
+14938.0,BKK ProVita,Audit,M4.1,Standard,31-12-2015,31-12-2015,31-12-2017,374.0,Attestation
+37056.0,Nina Baresch,Audit,M4.0,Standard,31-12-2012,31-12-2012,31-12-2014,491.0,Report+Attestation
+37060.0,SpielScheune der Geschichten,Audit,M4.1,Standard,31-07-2016,31-07-2016,31-07-2018,446.0,Report+Attestation
+34879.0,St.Rochus-Apotheke,Audit,M4.1,Standard,31-12-2016,31-12-2016,31-12-2018,439.0,Report+Attestation
+37182.0,St. Gereon Seniorendienste gemeinnützige GmbH,Audit,M4.0,Standard,14-03-2013,30-04-2013,30-04-2015,646.0,Report
+37267.0,Dr. Norbert Wißgott,Audit,M4.0,Standard,30-09-2011,30-09-2011,30-09-2013,456.0,Attestation
+14708.0,Sonnentor Kräuterhandelsgesellschaft mbH,Audit,M5.0,Full,02-06-2021,31-07-2021,31-07-2023,743.0,Report+Attestation
+37370.0,Steuerkanzlei Uwe K.Eberhardt,Audit,M5.0,Full,03-06-2021,31-07-2021,31-07-2023,486.0,Report+Attestation
+37391.0,DYAS Beratungsges. mbH,Audit,M5.0,Compact,04-06-2021,31-07-2021,31-07-2023,418.0,Report+Attestation
+14824.0,Berg Anne,Audit,M4.1,Standard,31-12-2016,28-02-2015,28-02-2017,497.0,Report+Attestation
+37700.0,EZ-Akademie | Vitale Menschen Unternehmen Gemeinden (Verein),Audit,M4.1,Standard,31-12-2015,31-05-2015,31-05-2017,462.0,Report+Attestation
+37702.0,ANJA HAIDER-WALLNER/ SMILEVEDA,Audit,M4.1,Standard,10-06-2016,30-11-2016,30-11-2018,568.0,Report+Attestation
+37705.0,Maria Henkys ShopConsult-NRW,Audit,M4.1,Standard,03-08-2013,30-11-2013,30-11-2015,543.0,Report+Attestation
+37707.0,Armin Hipper – Büro für Nachhaltigkeit & Wirtschaftsethik,Audit,M4.1,Standard,31-12-2014,24-03-2014,24-03-2016,262.0,Report+Attestation
+37707.0,Armin Hipper – Büro für Nachhaltigkeit & Wirtschaftsethik,Audit,M4.1,Standard,31-12-2016,30-06-2016,30-06-2018,463.0,Report+Attestation
+14656.0,Humanistic Management Practices – HMP Gerd Hofielen,Audit,M4.1,Standard,31-12-2015,31-05-2015,31-05-2017,466.0,Report+Attestation
+14657.0,Jaritz- Welten verbinden,Audit,M4.1,Standard,31-12-2015,31-05-2015,31-05-2017,496.0,Report
+14905.0,Manfred Jotter – Besser Wirtschaften,Audit,M4.1,Standard,31-12-2015,31-05-2015,31-05-2017,448.0,Report+Attestation
+37715.0,Smaranda Beate Keller Smart Work Design,Audit,M4.1,Standard,31-12-2014,25-04-2014,25-04-2016,454.0,Report+Attestation
+14967.0,Isabella Klien,Audit,M4.1,Standard,31-12-2014,31-03-2014,31-03-2016,563.0,Report+Attestation
+14660.0,Kortz Konfliktspezialisten,Audit,M4.1,Standard,31-12-2015,31-05-2015,31-05-2017,594.0,Report+Attestation
+14880.0,WeShareIT-Ulrich Lang,Audit,M5.0,Full,31-12-2017,31-01-2016,31-01-2018,500.0,Report+Attestation
+14857.0,Lenz Consulting,Audit,M4.1,Standard,31-12-2014,10-09-2012,10-09-2014,289.0,Report+Attestation
+14857.0,Lenz Consulting,Audit,M4.1,Standard,31-12-2015,31-01-2016,31-01-2018,449.0,Report+Attestation
+19534.0,Perspektivatelier,Audit,M4.1,Standard,31-12-2014,31-10-2014,31-10-2016,528.0,Report+Attestation
+14944.0,Sabine Lehner – MARKENwerkstatt,Audit,M4.1,Standard,31-12-2015,31-08-2015,31-08-2017,327.0,Report+Attestation
+14863.0,Gebhard Moser,Audit,M4.1,Standard,30-12-2013,30-11-2012,30-11-2014,267.0,Report+Attestation
+14863.0,Gebhard Moser,Audit,M4.1,Standard,31-12-2015,31-01-2016,31-01-2018,403.0,Report+Attestation
+14864.0,"Müller, Horst",Audit,M4.0,Standard,31-12-2013,31-12-2013,31-12-2015,614.0,Report+Attestation
+37740.0,Felix Oesch – Beratungen Gallusberg GmbH,Audit,M4.1,Standard,03-12-2014,31-03-2014,31-03-2016,439.0,Attestation
+37744.0,Wodara Immobilien e.K.,Audit,M5.0,Compact,31-12-2018,30-10-2018,30-10-2020,226.0,Report
+37746.0,Raum für Bewusst Sein GmbH,Audit,M4.0,Standard,27-11-2012,28-02-2013,28-02-2015,635.0,Report+Attestation
+37748.0,Otto Raich,Audit,M4.1,Standard,16-03-2014,24-03-2014,24-03-2016,306.0,Report+Attestation
+14966.0,Armin Schmelzle,Audit,M4.1,Standard,17-09-2015,30-11-2015,30-11-2017,382.0,Report+Attestation
+37751.0,Christoph Spahn,Audit,M4.0,Standard,30-12-2012,30-12-2013,30-12-2015,529.0,Report+Attestation
+37753.0,Beat Stroo,Audit,M4.0,Standard,31-12-2013,31-12-2013,31-12-2015,542.0,Report+Attestation
+37755.0,Michael Vongerichten,Audit,M4.1,Standard,31-12-2015,31-03-2015,31-03-2017,478.0,Report+Attestation
+37758.0,Michael Weiss,Audit,M4.1,Standard,31-12-2014,31-10-2014,31-10-2016,329.0,Report+Attestation
+14919.0,Wiedemann Jörn,Audit,M4.1,Standard,31-12-2014,25-03-2014,25-03-2016,510.0,Report+Attestation
+19542.0,Simon Brechel Nachhaltigkeitsmanagement,Audit,M5.0,Compact,14-06-2021,31-10-2021,31-10-2023,258.0,Report+Attestation
+38079.0,Bio-Marktgemeinschaft eG Stemmerhof,Audit,M4.0,Standard,31-12-2012,31-12-2012,31-12-2014,596.0,Report+Attestation
+38079.0,Bio-Marktgemeinschaft eG Stemmerhof,Audit,M4.0,Standard,31-12-2013,31-12-2014,31-12-2016,631.0,Report+Attestation
+14670.0,Culumnatura,Audit,M4.0,Standard,31-12-2013,31-12-2013,31-12-2015,479.0,Report+Attestation
+38094.0,dwp eG Fairhandelsgenossenschaft Ravensburg,Audit,M4.0,Standard,31-12-2013,31-12-2013,31-12-2015,674.0,Report+Attestation
+14654.0,Genusshandwerker,Audit,M4.1,Standard,16-06-2016,31-03-2016,31-03-2018,520.0,Report+Attestation
+38102.0,GÖTTIN DES GLÜCKS eG.,Audit,M4.1,Standard,31-03-2012,31-12-2012,31-12-2014,636.0,Report+Attestation
+38102.0,GÖTTIN DES GLÜCKS eG.,Audit,M4.1,Standard,31-12-2013,31-12-2013,31-12-2015,641.0,Report+Attestation
+38102.0,GÖTTIN DES GLÜCKS eG.,Audit,M4.1,Standard,31-08-2015,31-08-2015,31-08-2017,674.0,Report+Attestation
+38107.0,KLEIDERgrün,Audit,M4.1,Standard,31-12-2016,30-12-2016,30-12-2018,571.0,Report+Attestation
+38110.0,Nets.werk Steyr – Nachhaltig leben,Audit,M4.0,Standard,31-12-2012,31-12-2012,31-12-2014,615.0,Report+Attestation
+14678.0,Ökoring Handels GmbH,Audit,M4.1,Standard,16-06-2014,30-06-2013,30-06-2015,541.0,Report+Attestation
+20027.0,OIKOPOLIS Participations SA,Audit,M4.1,Standard,31-10-2014,31-10-2014,31-10-2016,633.0,Report+Attestation
+38150.0,Dr. Susanne Schmall,Audit,M5.0,Compact,16-06-2021,30-09-2019,30-09-2021,473.0,Report+Attestation
+38374.0,ELVG Bentlage GmbH,Audit,M4.1,Standard,31-12-2015,30-11-2015,30-11-2017,394.0,Report+Attestation
+38378.0,Videotechnik Ing. Friedel HANS e.U.,Audit,M4.0,Standard,30-12-2012,31-12-2012,31-12-2014,617.0,Report+Attestation
+38692.0,Graf GmbH,Audit,M4.1,Standard,31-12-2013,31-12-2013,31-12-2015,398.0,Report+Attestation
+38694.0,DER HOLZHOF GmbH  Kunze,Audit,M4.1,Standard,29-11-2013,31-08-2014,31-08-2016,576.0,Report+Attestation
+27489.0,Märkisches Landbrot GmbH,Audit,M4.1,Standard,31-03-2015,31-03-2015,31-03-2017,689.0,Report+Attestation
+27489.0,Märkisches Landbrot GmbH,Audit,M4.0,Standard,31-12-2013,31-03-2013,31-03-2015,652.0,Report
+29734.0,Metzler Käse – Molke GmbH,Audit,M4.1,Standard,30-06-2017,30-06-2017,30-06-2019,407.0,Report+Attestation
+38704.0,R.U.S.Z. Franchising GmbH,Audit,M4.1,Standard,30-07-2016,30-07-2016,30-07-2018,598.0,Report+Attestation
+39029.0,Technische Hochschule Nürnberg Georg Simon Ohm,Audit,M5.0,Full,24-06-2021,31-10-2021,31-10-2023,321.0,Report+Attestation
+39034.0,Evang. Kirchengemeinde Rosphetal-Mellnau,Audit,M5.0,Compact,24-06-2021,31-08-2021,31-08-2023,421.0,Report+Attestation
+40111.0,PAPERBOATS Lenja Rother,Audit,M5.0,Compact,02-07-2021,30-11-2021,30-11-2023,385.0,Report+Attestation
+40298.0,PROMA Versicherungsmakler GmbH & Co.KG,Audit,M5.0,Full,06-07-2021,30-09-2021,30-09-2023,316.0,Report+Attestation
+40573.0,STEAUF-Werkstatt,Audit,M5.0,Compact,08-07-2021,29-02-2022,29-02-2024,411.0,Report+Attestation
+40588.0,ProEngeno GmbH & Co. KG,Audit,M5.0,Full,09-07-2021,31-01-2022,31-01-2024,291.0,Report+Attestation
+40822.0,Hofgut Eichigt GmbH,Audit,M5.0,Full,12-07-2021,30-11-2021,30-11-2023,291.0,Report+Attestation
+38148.0,Weltladen Lienz,Audit,M5.0,Compact,12-07-2021,31-08-2021,31-08-2023,550.0,Report+Attestation
+40871.0,Hotel Balance,Audit,M4.1,Standard,10-03-2015,30-06-2015,30-06-2017,644.0,Report+Attestation
+40874.0,BÜRGERSTIFTUNG PFALZ UND NATURHOTEL STIFTSGUT KEYSERMÜHLE,Audit,M4.1,Standard,15-04-2015,31-03-2015,31-03-2017,656.0,Report+Attestation
+14949.0,OeAD-WohnraumverwaltungsGmbH,Audit,M4.1,Standard,30-06-2016,31-03-2016,31-03-2018,541.0,Report+Attestation
+14949.0,OeAD-WohnraumverwaltungsGmbH,Audit,M4.1,Standard,31-12-2013,30-10-2012,30-10-2014,575.0,Report+Attestation
+40880.0,Rad-Hof Erfurt,Audit,M4.1,Standard,31-12-2013,31-12-2013,31-12-2015,651.0,Report
+40894.0,Kaiser. Die Vollkornbäckerei GmbH,Audit,M5.0,Compact,14-07-2021,31-10-2021,31-10-2023,495.0,Report+Attestation
+14891.0,AUROBIA GmbH & Co KG,Audit,M5.0,Compact,14-07-2021,30-11-2021,30-11-2023,191.0,Report+Attestation
+40968.0,Tischlein Deck Dich e. V.,Audit,M4.1,Standard,24-09-2015,31-01-2016,31-01-2018,548.0,Report+Attestation
+40970.0,b.it GmbH,Audit,M4.0,Standard,25-10-2012,30-12-2011,30-12-2013,516.0,Report+Attestation
+40970.0,b.it GmbH,Audit,M4.1,Standard,07-03-2013,30-06-2013,30-06-2015,497.0,Report+Attestation
+40970.0,b.it GmbH,Audit,M4.1,Standard,31-03-2016,30-06-2016,30-06-2018,716.0,Report+Attestation
+40974.0,ETTL-SOFTWARE GMBH,Audit,M4.0,Standard,21-11-2011,30-12-2011,30-12-2013,595.0,Report+Attestation
+40976.0,Tut-All Software GmbH,Audit,M4.1,Standard,13-04-2013,30-06-2013,30-06-2015,461.0,Report+Attestation
+40981.0,ADAMAH BioHof G. Zoubek Vertriebs KG,Audit,M4.1,Standard,30-03-2016,30-06-2016,30-06-2018,556.0,Report+Attestation
+40983.0,Bioland e.V.,Audit,M4.1,Standard,31-08-2015,30-11-2015,30-11-2017,488.0,Report+Attestation
+40985.0,Bioland Gärtnerei am Hainerbach Harro Colshorn,Audit,M4.0,Standard,30-12-2012,30-12-2012,30-12-2014,601.0,Report+Attestation
+40988.0,Bioland Lammertzhof – Fam. Hannen GbR,Audit,M4.1,Standard,26-10-2015,31-12-2015,31-12-2017,654.0,Report+Attestation
+40994.0,"Der Service Gaertner Gärtnermeister, Reinhard Sperr",Audit,M4.1,Standard,21-01-2015,31-12-2015,31-12-2017,410.0,Report+Attestation
+40996.0,Margit  und Josef Mayr-Lamm,Audit,M4.0,Standard,28-09-2011,28-09-2011,28-09-2013,598.0,Report+Attestation
+41022.0,Entwicklung Gemeinwohl Kunst,Audit,M5.0,Compact,15-07-2021,31-01-2022,31-01-2024,385.0,Report+Attestation
+41039.0,GartenLeben GmbH,Audit,M4.1,Standard,31-12-2013,31-12-2013,31-12-2015,589.0,Report+Attestation
+41043.0,Bioland Gärtnerei Hecker,Audit,M4.0,Standard,30-12-2012,31-12-2012,31-12-2014,430.0,Report+Attestation
+41043.0,Bioland Gärtnerei Hecker,Audit,M4.1,Standard,31-12-2013,31-12-2013,31-12-2015,502.0,Report+Attestation
+41057.0,SEKEM Holding for Investment S.A.E. 3,Audit,M4.0,Standard,02-10-2011,31-12-2011,31-12-2013,632.0,Report+Attestation
+41064.0,Business School Lausanne,Audit,M4.1,Standard,29-04-2014,31-10-2014,31-10-2016,461.0,Report+Attestation
+41070.0,Hochschule Bremen,Audit,M4.1,Standard,12-08-2014,30-11-2014,30-11-2016,448.0,Report+Attestation
+41075.0,Waldkindergarten St. Andrä,Audit,M4.1,Standard,28-02-2013,30-06-2013,30-06-2015,774.0,Report+Attestation
+14878.0,Waldorfschulverein Wetterau e.V.,Audit,M5.0,Full,15-02-2018,30-05-2018,30-05-2020,632.0,Report+Attestation
+41078.0,Dr. Hingerl & Partner,Audit,M4.1,Standard,31-05-2016,31-08-2015,31-08-2017,436.0,Report+Attestation
+41207.0,Kirchner Konstruktionen GmbH,Audit,M4.1,Standard,15-02-2013,30-06-2013,30-06-2015,247.0,Report+Attestation
+41207.0,Kirchner Konstruktionen GmbH,Audit,M4.1,Standard,30-03-2014,26-04-2014,26-04-2016,272.0,Report+Attestation
+41207.0,Kirchner Konstruktionen GmbH,Audit,M4.1,Standard,30-08-2018,31-10-2016,31-10-2018,312.0,Report+Attestation
+41212.0,Weltweitwandern GmbH,Audit,M4.1,Standard,30-12-2013,30-12-2013,30-12-2015,425.0,Report+Attestation
+41216.0,The Camphill School,Audit,M4.1,Standard,03-06-2015,30-07-2015,30-07-2017,552.0,Report
+14917.0,Vaude,Audit,M4.1,Standard,30-11-2012,28-02-2013,28-02-2015,480.0,Report+Attestation
+41902.0,Oliver Tunnat,Audit,M5.0,Compact,24-07-2021,30-11-2021,30-11-2023,439.0,Report+Attestation
+14901.0,Fohlenhof Astner,Audit,M5.0,Compact,13-08-2021,31-10-2021,31-10-2023,463.0,Report+Attestation
+14955.0,n.e.s.t. Bauprojektierung und Vermietung AG,Audit,M5.0,Full,26-08-2021,30-11-2021,30-11-2023,541.0,Report+Attestation
+44720.0,Corona Bürotechnik GmbH,Audit,M4.1,Standard,30-08-2021,30-06-2021,30-06-2023,510.0,Attestation
+44939.0,satis&fy AG,Audit,M4.1,Standard,31-03-2014,06-05-2014,06-05-2016,247.0,Report+Attestation
+44998.0,oceanBASIS GmbH,Audit,M5.0,Compact,01-09-2021,31-01-2022,31-01-2024,432.0,Report+Attestation
+45011.0,Gemeinschaft zur Förderung und Vernetzung der freien Künste Bochums e.V.,Audit,M5.0,Compact,01-09-2021,30-11-2021,30-11-2023,425.0,Report+Attestation
+45149.0,CRM – Coastal Research & Management,Audit,M5.0,Compact,03-09-2021,31-01-2022,31-01-2024,394.0,Report+Attestation
+46802.0,e-fect dialog evaluation consulting eG,Audit,M5.0,Full,14-09-2021,31-01-2022,31-01-2024,556.0,Report+Attestation
+47041.0,Thomas Uloth Unternehmensberatung,Audit,M5.0,Compact,18-09-2021,31-12-2021,31-12-2023,271.0,Report+Attestation
+47495.0,Flores Farm GmbH,Audit,M5.0,Compact,23-09-2021,29-02-2022,29-02-2024,585.0,Report+Attestation
+47819.0,Spielzeugmuseum,Audit,M5.0,Compact,27-09-2021,31-10-2021,31-10-2023,331.0,Report+Attestation
+48061.0,Wildbad Rothenburg Evgl. Tagungsstätte KdöR,Audit,M5.0,Compact,29-09-2021,29-02-2022,29-02-2024,500.0,Report+Attestation
+14676.0,Oekofrost,Audit,M5.0,Full,01-10-2021,29-02-2022,29-02-2024,718.0,Report+Attestation
+14869.0,Schäfer Installationen,Audit,M5.0,Compact,06-10-2021,31-03-2022,31-03-2024,512.0,Report+Attestation
+14788.0,Lilly Deutschland GmbH,Audit,M5.0,Full,18-10-2021,31-12-2021,31-12-2023,371.0,Report+Attestation
+14812.0,Hans Stockmar GmbH & Co.KG,Audit,M5.0,Full,19-10-2021,31-01-2022,31-01-2024,560.0,Report+Attestation
+14900.0,Der Fährmann Bestattung und Trauerrituale Bernhard Schöpfer OG,Audit,M5.0,Compact,19-10-2021,31-01-2022,31-01-2024,410.0,Report+Attestation
+14766.0,"cibaria GmbH, ökologisch-biologische Vollkornbäckerei",Audit,M5.0,Full,20-10-2021,30-04-2022,30-04-2024,639.0,Report+Attestation
+50170.0,ECB-Beratung GmbH,Audit,M5.0,Full,22-10-2021,30-04-2022,30-04-2024,179.0,Report+Attestation
+14796.0,INFO GmbH,Audit,M5.0,Compact,25-10-2021,31-12-2021,31-12-2023,493.0,Report+Attestation
+51046.0,Hoffnungszeichen | Sign of Hope e.V.,Audit,M5.0,Compact,28-10-2021,30-04-2022,30-04-2024,557.0,Report+Attestation
+51855.0,Liot Kunststofftechnik,Audit,M5.0,Compact,05-11-2021,31-12-2021,31-12-2023,284.0,Report+Attestation
+14744.0,Dornbirner Sparkasse Bank AG,Audit,M5.0,Full,09-11-2021,31-05-2022,31-05-2024,484.0,Report+Attestation
+51855.0,Liot Kunststofftechnik,Audit,M5.0,Compact,10-05-2020,31-10-2018,31-10-2020,215.0,Report+Attestation
+52579.0,Die Bremer Stadtreinigung,Audit,M5.0,Full,12-11-2021,30-04-2022,30-04-2024,358.0,Report+Attestation
+52862.0,Havelmi eG,Audit,M5.0,Compact,15-11-2021,31-03-2022,31-03-2024,438.0,Report+Attestation
+14749.0,ver.de für nachhaltige Entwicklung e.G.,Audit,M5.0,Compact,17-11-2021,31-03-2022,31-03-2024,597.0,Report+Attestation
+53621.0,Sport Wolf,Audit,M5.0,Full,22-11-2021,31-03-2022,31-03-2024,274.0,Report+Attestation
+14909.0,Regionalenergie Osttirol reg. Gen. m.b.H.,Audit,M5.0,Compact,23-11-2021,31-01-2022,31-01-2024,554.0,Report+Attestation
+53775.0,DLG – Gemeinnützige Dienstleistungsgesellschaft der Re-gion Weiz G.m.b.H.,Audit,M5.0,Full,24-11-2021,31-03-2022,31-03-2024,391.0,Report+Attestation
+54126.0,Gertruden-Hof,Audit,M5.0,Compact,26-11-2021,29-02-2022,29-02-2024,569.0,Report+Attestation
+55101.0,mehrWerte Unternehmensentwicklung,Audit,M5.0,Compact,01-12-2021,31-01-2022,31-01-2024,613.0,Report+Attestation
+14949.0,OeADWohnraumverwaltungsGmbH,Audit,M5.0,Full,03-12-2021,31-03-2022,31-03-2024,527.0,Report+Attestation
+55440.0,Rudolf Eckel Federnfabrik,Audit,M5.0,Compact,03-12-2021,31-03-2022,31-03-2024,216.0,Report+Attestation
+55745.0,wobkom GmbH,Audit,M5.0,Full,07-12-2021,29-02-2022,29-02-2024,447.0,Report+Attestation
+56171.0,Raidboxes GmbH,Audit,M5.0,Compact,10-12-2021,31-08-2022,31-08-2024,256.0,Report+Attestation
+44813.0,Eissalon Franz Leonardelli KG,Audit,M5.0,Compact,15-12-2021,30-04-2022,30-04-2024,367.0,Report+Attestation
+14669.0,"Cosyma, EPU",Audit,M5.0,Compact,15-12-2021,31-03-2022,31-03-2024,630.0,Report+Attestation
+56881.0,Topp Textil GmbH,Audit,M5.0,Full,16-12-2021,30-06-2022,30-06-2024,342.0,Report+Attestation
+57026.0,CariKids gGmbH,Audit,M5.0,Compact,17-12-2021,29-02-2022,29-02-2024,492.0,Report+Attestation
+51682.0,HR Pioneers GmbH,Audit,M5.0,Full,22-12-2021,29-02-2022,29-02-2024,289.0,Report+Attestation
+58579.0,Aktion Eine Welt e.V.,Audit,M5.0,Compact,29-12-2021,31-03-2022,31-03-2024,569.0,Report+Attestation
+59060.0,Claudia Schleicher | Engagement & Change,Audit,M5.0,Full,03-01-2022,29-02-2022,29-02-2024,386.0,Report+Attestation
+14701.0,"Stadtwerke München GmbH, Geschäftsbereich Bäder",Audit,M5.0,Full,18-01-2022,31-03-2022,31-03-2024,426.0,Report+Attestation
+14723.0,hpkj | heilpädagogisch-psychotherapeutische Kinder- und Jugendhilfe e.V.,Audit,M5.0,Full,21-01-2022,31-07-2022,31-07-2024,542.0,Report+Attestation
+61590.0,nowwork GbR,Audit,M5.0,Compact,25-01-2022,30-09-2022,30-09-2024,427.0,Report+Attestation
+61662.0,Vollkornbäckerei Barth GmbH,Audit,M5.0,Compact,26-01-2022,30-06-2022,30-06-2024,395.0,Report+Attestation
+61933.0,IMPROVE-Bildung mit Zukunft,Audit,M5.0,Compact,27-01-2022,30-04-2022,30-04-2024,245.0,Report+Attestation
+62156.0,Gemeinschaftskrankenhaus Havelhöhe,Audit,M5.0,Compact,28-01-2022,31-08-2022,31-08-2024,367.0,Report+Attestation
+62168.0,cramer & müller service GmbH & Co. KG / cramer müller & partner consulting PartG,Audit,M5.0,Full,28-01-2022,31-03-2022,31-03-2024,310.0,Report+Attestation
+14895.0,BODAN Großhandel für Naturkost GmbH,Audit,M5.0,Full,01-02-2022,30-06-2022,30-06-2024,583.0,Report+Attestation
+14805.0,Fahnen-Gärtner GmbH,Audit,M5.0,Full,08-02-2022,31-05-2022,31-05-2024,453.0,Report+Attestation
+63662.0,Stiegl-Gut Wildshut GmbH,Audit,M5.0,Compact,08-02-2022,31-08-2022,31-08-2024,403.0,Attestation
+64887.0,GreenWebspace  Riedmatten It Solutions e.U.,Audit,M5.0,Compact,17-02-2022,31-05-2022,31-05-2024,445.0,Report+Attestation
+14687.0,Sparda-Bank München eG,Audit,M5.0,Full,18-02-2022,30-06-2022,30-06-2024,560.0,Report+Attestation
+65212.0,K2 Engineering GmbH,Audit,M5.0,Full,21-02-2022,30-06-2022,30-06-2024,284.0,Report+Attestation
+56033.0,Sempact AG,Audit,M5.0,Full,24-02-2022,30-06-2022,30-06-2024,307.0,Report+Attestation
+65752.0,Kanzlei Besser Steuerberatungsgesellschaft mbH,Audit,M5.0,Compact,28-02-2022,31-07-2022,31-07-2024,202.0,Report+Attestation
+14925.0,Samariterstiftung,Audit,M5.0,Full,01-03-2022,30-09-2022,30-09-2024,575.0,Report+Attestation
+66816.0,Urpunkt,Audit,M5.0,Compact,09-03-2022,31-03-2022,31-03-2024,236.0,Report+Attestation
+14837.0,Gertec GmbH Ingenieurgesellschaft,Audit,M5.0,Compact,11-03-2022,30-09-2022,30-09-2024,375.0,Report+Attestation
+67207.0,Atelier Marianna,Audit,M5.0,Compact,10-03-2022,31-05-2022,31-05-2024,497.0,Report+Attestation
+14955.0,n.e.s.t. Bauprojektierung und Vermietung AG,Audit,M5.0,Full,16-03-2022,30-04-2022,30-04-2024,580.0,Report+Attestation
+68060.0,Netzwerk Geburt und Familie e.V.,Audit,M5.0,Full,23-03-2022,31-07-2022,31-07-2024,606.0,Report+Attestation
+68219.0,Regionaldirektion Martin Bantle e.K.,Audit,M5.0,Compact,24-03-2022,30-06-2022,30-06-2024,417.0,Report+Attestation
+68530.0,TAOASIS GmbH Natur Duft Manufaktur,Audit,M5.0,Full,28-03-2022,31-10-2022,31-10-2024,456.0,Report+Attestation
+72205.0,P1 Consulting GmbH,Audit,M5.0,Full,07-04-2022,31-01-2023,31-01-2025,228.0,Attestation
+73439.0,Caritasverband für den Landkreis Emmendingen e.V.,Audit,M5.0,Compact,19-04-2022,30-09-2022,30-09-2024,355.0,Report+Attestation
+14895.0,Bodan,Audit,M4.1,Standard,20-04-2022,30-09-2015,30-09-2017,496.0,Report+Attestation
+14895.0,Bodan,Audit,M3.0,Standard,20-04-2022,30-09-2010,30-09-2012,,Report
+14895.0,Bodan,Audit,M4.0,Standard,20-04-2022,30-04-2012,30-04-2014,,Report
+73570.0,SCHELP MEDIATION,Audit,M5.0,Compact,20-04-2022,30-06-2022,30-06-2024,602.0,Report+Attestation
+73618.0,HeimatERBE GmbH,Audit,M5.0,Full,21-04-2022,30-09-2022,30-09-2024,406.0,Report+Attestation
+74013.0,Müller & Mooseder Unternehmensberatung,Audit,M5.0,Compact,25-04-2022,30-11-2022,30-11-2024,200.0,Report+Attestation
+74298.0,Unternehmensberatung Hagmann,Audit,M5.0,Compact,27-04-2022,31-03-2023,31-03-2025,449.0,Report+Attestation
+14678.0,Ökoring Handels GmbH,Audit,M5.0,Full,04-05-2022,30-09-2022,30-09-2024,578.0,Report+Attestation
+75496.0,Diakonie Düsseldorf e.V.,Audit,M5.0,Full,09-05-2022,31-12-2022,31-12-2024,333.0,Report+Attestation
+75629.0,mondo buchhandlung,Audit,M5.0,Full,10-05-2022,30-11-2022,30-11-2024,348.0,Report+Attestation
+14870.0,SES Stadtentwässerung Stuttgart,Audit,M5.0,Full,11-05-2022,31-08-2022,31-08-2024,504.0,Attestation
+77444.0,Stadtreinigung Hamburg,Audit,M5.0,Full,30-05-2022,30-11-2022,30-11-2024,529.0,Report+Attestation
+25351.0,tetrateam OHG,Audit,M5.0,Full,01-06-2022,31-12-2022,31-12-2024,677.0,Report+Attestation
+77849.0,"Stadtwerke München GmbH, Wasserkraft",Audit,M5.0,Full,02-06-2022,30-09-2022,30-09-2024,430.0,Report+Attestation
+78247.0,stg – Die MitarbeiterBerater GmbH,Audit,M5.0,Full,07-06-2022,31-10-2022,31-10-2024,278.0,Report+Attestation
+78324.0,JanKoTec – Zukunft. Nachhaltig. Gestalten.,Audit,M5.0,Compact,08-06-2022,30-09-2022,30-09-2024,357.0,Report+Attestation
+14773.0,Gesellschaft für angewandte Kommunalforschung mbH,Audit,M5.0,Full,08-06-2022,31-08-2022,31-08-2024,569.0,Report+Attestation
+78364.0,Gregor Meister,Audit,M5.0,Compact,08-06-2022,31-08-2022,31-08-2024,422.0,Report+Attestation
+78957.0,GEMEINHARDT SERVICE GmbH,Audit,M5.0,Full,14-06-2022,31-12-2022,31-12-2024,375.0,Report+Attestation
+79094.0,Lebuco e.U.,Audit,M5.0,Compact,16-06-2022,31-03-2023,31-03-2025,355.0,Report+Attestation
+79534.0,playfulmind GmbH,Audit,M5.0,Compact,18-06-2022,30-11-2022,30-11-2024,153.0,Report+Attestation
+79708.0,"Neumarkter Lammsbräu, Gebr. Ehrnsperger KG",Audit,M5.0,Full,20-06-2022,30-09-2022,30-09-2024,577.0,Report+Attestation
+36903.0,Gugler GmbH,Audit,M5.0,Compact,20-06-2022,31-08-2022,31-08-2024,531.0,Report+Attestation
+80325.0,Kenneth Alexander Grodotzki,Audit,M5.0,Full,20-06-2022,30-09-2022,30-09-2024,278.0,Attestation
+81881.0,Sportvereinigung Feuerbach 1883 e.V.,Audit,M5.0,Compact,29-06-2022,30-09-2022,30-09-2024,238.0,Report+Attestation
+82244.0,Raiffeisenbank Region St. Pölten eGen,Audit,M5.0,Compact,30-06-2022,31-10-2022,31-10-2024,284.0,Report+Attestation
+82684.0,innovia gem GmbH,Audit,M5.0,Full,05-07-2022,31-07-2022,31-07-2024,707.0,Report+Attestation
+84129.0,Gottwald Finanznavigator,Audit,M5.0,Compact,18-07-2022,30-09-2022,30-09-2024,232.0,Report+Attestation
+84326.0,Capri HotelbetriebsGmbH & Co KG,Audit,M5.0,Full,20-07-2022,31-12-2022,31-12-2024,410.0,Report+Attestation
+84899.0,myCB1 Group B.V.,Audit,M5.0,Full,27-07-2022,31-01-2023,31-01-2025,187.0,Report+Attestation
+14981.0,"Thomas Mönius, Gemeinwohlberater",Audit,M5.0,Full,28-07-2022,31-10-2022,31-10-2024,547.0,Report+Attestation
+85120.0,ensian Group GmbH,Audit,M5.0,Full,29-07-2022,31-12-2022,31-12-2024,610.0,Report+Attestation
+85373.0,POLIFANT Stuttgart gGmbH,Audit,M5.0,Compact,03-08-2022,30-11-2022,30-11-2024,415.0,Report+Attestation
+14809.0,Mobility Center GmbH,Audit,M5.0,Full,03-08-2022,31-01-2023,31-01-2025,479.0,Report+Attestation
+14681.0,Peter Frank,Audit,M5.0,Full,07-08-2022,30-11-2022,30-11-2024,496.0,Report+Attestation
+86947.0,Hara Do | Institut für Wachstum UG,Audit,M5.0,Compact,08-08-2022,30-09-2022,30-09-2024,336.0,Report+Attestation
+87524.0,hansekonzept Dirk Rosenstock,Audit,M5.0,Compact,12-08-2022,30-11-2022,30-11-2024,342.0,Report+Attestation
+88846.0,i+m Naturkosmetik Berlin GmbH,Audit,M5.0,Compact,25-08-2022,30-09-2023,30-09-2025,607.0,Report+Attestation
+89051.0,Lafim-Diakonie a.V.,Audit,M5.0,Full,26-08-2022,30-11-2022,30-11-2024,330.0,Report+Attestation
+90051.0,Christian Jensen Kolleg gemeinnützige GmbH Breklum,Audit,M5.0,Full,06-09-2022,31-07-2023,31-07-2025,589.0,Report+Attestation
+91279.0,ESN Deutsche Tischtennis Technologie GmbH,Audit,M5.0,Full,15-09-2022,31-12-2022,31-12-2024,218.0,Report+Attestation
+91324.0,TRESS Brüder (TRESS Lebensmittel GmbH & Co. KG & Tress Gastronomie GmbH & Co. KG),Audit,M5.0,Full,15-09-2022,31-03-2023,31-03-2025,445.0,Report+Attestation
+14998.0,Forst Baden-Württemberg (ForstBW),Audit,M5.0,Full,16-09-2022,31-12-2022,31-12-2024,609.0,Report+Attestation
+91596.0,Dr. Arthur Pelchen,Audit,M5.0,Compact,19-09-2022,28-02-2023,28-02-2025,534.0,Report+Attestation
+91614.0,AMC Luxembourg,Audit,M5.0,Compact,20-09-2022,31-12-2022,31-12-2024,229.0,Report+Attestation
+,Marketeasing,Audit,M5.0,Full,01-04-2013,01-04-2013,01-04-2015,,
+,"Veritable, SL",Audit,M5.0,Full,01-04-2013,01-04-2013,01-04-2015,,
+,USS,Audit,M5.0,Full,01-04-2017,01-04-2017,01-04-2019,,
+,Mellowmove,Audit,M5.0,Full,01-04-2017,01-04-2017,01-04-2019,,
+92467.0,Alive Surf,Audit,M5.0,Full,01-04-2017,01-04-2017,01-04-2019,446.0,
+,Bornholm,Audit,M5.0,Full,01-04-2017,01-04-2017,01-04-2019,,
+,Eticus Eticae,Audit,M5.0,Full,05-12-2013,05-12-2013,05-12-2015,,
+,The Circular Project,Audit,M5.0,Full,07-10-2016,07-10-2016,07-10-2018,,
+,Alter Consulta,Audit,M5.0,Full,10-06-2016,10-06-2016,10-06-2018,,
+,Subbética Ecológica,Audit,M5.0,Full,10-12-2015,10-12-2015,10-12-2017,,
+,Pauma,Audit,M5.0,Full,10-12-2015,10-12-2015,10-12-2017,,
+,Fundació Institut Guttman,Audit,M5.0,Full,15-01-2018,15-01-2018,15-01-2020,,
+,Institut Provençana,Audit,M5.0,Full,15-03-2021,15-03-2021,15-03-2023,,
+92485.0,Zaragoza Vivienda,Audit,M5.0,Full,15-11-2016,15-11-2016,15-11-2018,673.0,
+92487.0,LMC,Audit,M5.0,Full,16-06-2014,16-06-2014,16-06-2016,470.0,
+92489.0,ArtMarketing SL,Audit,M5.0,Full,16-12-2013,16-12-2013,16-12-2015,625.0,
+92491.0,Aloeysalud,Audit,M5.0,Full,20-01-2014,20-01-2014,20-01-2016,548.0,
+92457.0,Animación y logística cultural S.L.U.,Audit,M5.0,Full,20-10-2018,20-10-2018,20-10-2020,348.0,
+92495.0,Folgado,Audit,M5.0,Full,20-10-2020,20-10-2020,20-10-2022,547.0,
+92497.0,Imanol Medrano de Azpeitia,Audit,M5.0,Full,21-02-2014,21-02-2014,21-02-2016,441.0,
+92499.0,Fundación Horta Sud,Audit,M5.0,Full,21-03-2015,21-03-2015,21-03-2017,685.0,
+92501.0,Delibera,Audit,M5.0,Full,22-07-2014,22-07-2014,22-07-2016,581.0,
+92503.0,Biocosas,Audit,M5.0,Full,22-07-2014,22-07-2014,22-07-2016,399.0,
+92505.0,Kaleidos,Audit,M5.0,Full,24-05-2016,24-05-2016,24-05-2018,612.0,
+92507.0,Angaraveca,Audit,M5.0,Full,24-05-2016,24-05-2016,24-05-2018,840.0,
+92489.0,ArtMarketing SL,Audit,M5.0,Full,25-05-2016,25-05-2016,25-05-2018,688.0,
+92511.0,Can Cet,Audit,M5.0,Full,25-07-2014,25-07-2014,25-07-2016,624.0,
+92513.0,Oceanográfica,Audit,M5.0,Full,30-08-2013,30-08-2013,30-08-2015,787.0,
+92515.0,Limonium Canarias SL,Audit,M5.0,Full,30-09-2013,30-09-2013,30-09-2015,764.0,
+92517.0,Ética patrimonios S.L.U.,Audit,M5.0,Full,30-10-2017,30-10-2017,30-10-2019,625.0,
+92361.0,"Action Waterscape, S.L.",Audit,M5.0,Full,30-10-2017,30-10-2017,30-10-2019,491.0,
+92513.0,Oceanográfica,Audit,M5.0,Full,30-10-2018,30-10-2018,30-10-2020,767.0,
+92365.0,Grupo La Plana,Audit,M5.0,Full,31-12-2016,31-12-2016,31-12-2018,536.0,
+92525.0,Centro de psicología y Coaching Valencia S.L.,Audit,M5.0,Full,31-12-2021,31-12-2021,31-12-2023,215.0,
+14686.0,SozKom,Audit,M5.0,Full,28-09-2022,30-11-2022,30-11-2024,549.0,Report+Attestation
+93101.0,sd vybrant GmbH,Audit,M5.0,Full,30-09-2022,28-02-2023,28-02-2025,300.0,Report+Attestation
+93793.0,Vision11 GmbH,Audit,M5.0,Full,04-10-2022,31-12-2022,31-12-2024,100.0,Report+Attestation
+93999.0,easyconsult GmbH,Audit,M5.0,Compact,06-10-2022,30-06-2023,30-06-2025,193.0,Report+Attestation
+94595.0,Vivat Lingua! Sprachtrainingsprogramme GmbH,Audit,M5.0,Compact,14-10-2022,31-12-2022,31-12-2024,469.0,Report+Attestation
+94655.0,subject:RESOUL AG,Audit,M5.0,Compact,14-10-2022,31-05-2023,31-05-2025,369.0,Report+Attestation
+23715.0,Regensburg Tourismus GmbH (RTG),Audit,M5.0,Compact,26-10-2022,31-01-2023,31-01-2025,458.0,Report+Attestation
+95454.0,Stadtmobil Südbaden AG,Audit,M5.0,Compact,28-10-2022,28-02-2023,28-02-2025,419.0,Report+Attestation
+25050.0,visuellverstehen GmbH,Audit,M5.0,Full,08-11-2022,31-05-2023,31-05-2025,476.0,Report+Attestation
+21623.0,Sparkasse Berchtesgadener Land,Audit,M5.0,Full,14-11-2022,28-02-2023,28-02-2025,517.0,Report+Attestation
+14940.0,Moin Bio Backwaren GmbH,Audit,M5.0,Full,21-11-2022,31-01-2023,31-01-2025,642.0,Report+Attestation
+98748.0,Hofmann & Drews GbR,Audit,M5.0,Compact,22-11-2022,31-08-2023,31-08-2025,294.0,Report+Attestation
+98840.0,Destination Wattens Regionalentwicklung GmbH,Audit,M5.0,Compact,23-11-2022,31-03-2023,31-03-2025,403.0,Report+Attestation
+98918.0,noventum consulting GmbH,Audit,M5.0,Full,24-11-2022,31-07-2023,31-07-2025,263.0,Report+Attestation
+99165.0,Die Mitmachzentrale e.V.,Audit,M5.0,Full,27-11-2022,31-07-2023,31-07-2025,278.0,Report+Attestation
+101888.0,DAS HELDEN ATELIER,Audit,M5.0,Compact,16-12-2022,28-02-2023,28-02-2025,272.0,Report+Attestation
+102365.0,Vinzenz Service GmbH,Audit,M5.0,Full,22-12-2022,30-06-2023,30-06-2025,432.0,Report+Attestation
+102421.0,Wirtschaftsförderung Münster GmbH,Audit,M5.0,Full,23-12-2022,31-10-2023,31-10-2025,233.0,Report+Attestation
+102906.0,Datenschutzberatung Janthur GmbH,Audit,M5.0,Compact,29-12-2022,31-01-2023,31-01-2025,312.0,Report+Attestation
+25379.0,Westerwald-Brauerei H.Schneider GmbH & Co.KG,Audit,M5.0,Full,30-12-2022,30-06-2023,30-06-2025,416.0,Report+Attestation
+14962.0,Voelkel GmbH,Audit,M5.0,Full,04-01-2023,31-05-2023,31-05-2025,663.0,Report+Attestation
+104216.0,Das Diakonische Werk der Evangelischen Landeskirche in Baden e.V.,Audit,M5.0,Compact,10-01-2023,31-05-2023,31-05-2025,554.0,Report+Attestation
+104639.0,CrossmarX,Audit,M5.0,Compact,12-01-2023,31-03-2023,31-03-2025,432.0,Attestation
+106276.0,The New School for Information Services,Audit,M5.0,Compact,23-01-2023,31-03-2023,31-03-2025,325.0,Report+Attestation
+106552.0,step GbR,Audit,M5.0,Compact,27-01-2023,31-07-2023,31-07-2025,413.0,Attestation
+106945.0,Stiftung Theologische Hochschule Reutlingen der Evangelisch-methodistischen Kirche,Audit,M5.0,Compact,30-01-2023,31-05-2023,31-05-2025,510.0,Report+Attestation
+14711.0,Raiffeisenbank Lech am Arlberg eGen,Audit,M5.0,Full,13-02-2023,30-04-2023,30-04-2025,572.0,Report+Attestation
+110257.0,Flipped Job Market,Audit,M5.0,Compact,16-02-2023,31-03-2023,31-03-2025,430.0,Report+Attestation
+110308.0,Klaus Stuckert GmbH und Co. KG,Audit,M5.0,Compact,16-02-2023,31-10-2023,31-10-2025,281.0,Report+Attestation
+111951.0,Beethoven-Haus Bonn,Audit,M5.0,Full,27-02-2023,31-05-2023,31-05-2025,370.0,Report+Attestation
+112211.0,The Changer GmbH,Audit,M5.0,Compact,28-02-2023,31-10-2023,31-10-2025,404.0,Report+Attestation
+113132.0,Allgemengwuel Agence,Audit,M5.0,Compact,06-03-2023,31-07-2023,31-07-2025,242.0,Report+Attestation
+113857.0,Experts & Talents Center of HR Excellence GmbH,Audit,M5.0,Full,10-03-2023,31-07-2023,31-07-2025,257.0,Report+Attestation
+14690.0,Trumer Privatbrauerei,Audit,M5.0,Compact,14-03-2023,30-06-2023,30-06-2025,375.0,Report+Attestation
+115235.0,Bunte Burger GmbH,Audit,M5.0,Compact,15-03-2023,31-05-2023,31-05-2025,488.0,Report+Attestation
+14708.0,Sonnentor Kräuterhandelsgesellschaft mbH,Audit,M5.0,Full,16-03-2023,31-07-2023,31-07-2025,746.0,Attestation
+30343.0,Windkraft Simonsfeld AG,Audit,M5.0,Full,24-03-2023,30-04-2023,30-04-2025,632.0,Report+Attestation
+118354.0,Caritasverband Köln,Audit,M5.0,Compact,30-03-2023,31-05-2023,31-05-2025,336.0,Report+Attestation
+118474.0,base – homes for students GmbH,Audit,M5.0,Compact,31-03-2023,31-07-2023,31-07-2025,413.0,Report+Attestation
+118513.0,KölnBäder GmbH,Audit,M5.0,Compact,31-03-2023,31-05-2023,31-05-2025,377.0,Report+Attestation
+14714.0,elfgen pick gmbh & co. kg,Audit,M5.0,Full,04-04-2023,31-07-2023,31-07-2025,286.0,Report+Attestation
+120252.0,Profilwerkstatt GmbH,Audit,M5.0,Compact,07-04-2023,30-11-2023,30-11-2025,223.0,Report+Attestation
+119258.0,Holzmanufaktur Rottweil GmbH,Audit,M5.0,Full,17-04-2023,30-06-2023,30-06-2025,375.0,Attestation
+122149.0,Rheinsberger Preussenquelle GmbH,Audit,M5.0,Compact,20-04-2023,31-10-2023,31-10-2025,453.0,Attestation
+122626.0,Brausen GbR,Audit,M5.0,Compact,22-04-2023,30-11-2023,30-11-2025,168.0,Report+Attestation
+123176.0,Diakonie Hasenbergl e. V.,Audit,M5.0,Full,28-04-2023,30-09-2023,30-09-2025,391.0,Report+Attestation
+32904.0,Radio Next Generation GmbH & Co. KG (Sender egoFM),Audit,M5.0,Compact,28-04-2023,31-07-2023,31-07-2025,498.0,Report+Attestation
+124636.0,Vorarlberger Landes-Versicherung V.a.G.,Audit,M5.0,Full,09-05-2023,31-08-2023,31-08-2025,287.0,Report+Attestation
+124805.0,Hiestermann & Frömchen GmbH,Audit,M5.0,Compact,10-05-2023,31-07-2023,31-07-2025,246.0,Report+Attestation
+126130.0,Schamong GmbH & Co. KG,Audit,M5.0,Compact,21-05-2023,31-10-2023,31-10-2025,248.0,Report+Attestation
+126525.0,Stadtwerke Neumarkt i.d.OPf. Energie GmbH,Audit,M5.0,Full,24-05-2023,30-09-2023,30-09-2025,191.0,Report+Attestation
+126529.0,Stadtwerke Neumarkt i.d.OPf. Freizeit & Leben KU,Audit,M5.0,Full,24-05-2023,30-09-2023,30-09-2025,269.0,Report+Attestation
+24791.0,WFG Bornheim,Audit,M5.0,Full,26-05-2023,31-10-2023,31-10-2025,367.0,Report+Attestation
+127018.0,Snehotta Pflegeteam,Audit,M5.0,Full,30-05-2023,30-11-2023,30-11-2025,294.0,Report+Attestation
+127354.0,B.A.U.M. Consult GmbH,Audit,M5.0,Full,01-06-2023,31-08-2023,31-08-2025,513.0,Report+Attestation
+14989.0,confideon Unternehmensberatung GmbH,Audit,M5.0,Compact,02-06-2023,30-11-2023,30-11-2025,493.0,Report+Attestation
+14949.0,OeAD-WohnraumverwaltungsGmbH,Audit,M5.0,Full,06-06-2023,30-11-2023,30-11-2025,494.0,Report+Attestation
+127813.0,Fraktion BÜNDNIS 90/DIE GRÜNEN im Bayerischen Landtag,Audit,M5.0,Full,05-06-2023,31-10-2023,31-10-2025,270.0,Report+Attestation
+99328.0,prosa Architektur+Stadtplanung BDA,Audit,M5.0,Compact,15-06-2023,31-07-2023,31-07-2025,432.0,Report+Attestation
+130935.0,RUNA REISEN GmbH,Audit,M5.0,Full,22-06-2023,31-10-2023,31-10-2025,281.0,Report+Attestation
+131662.0,Nivona Apparate GmbH,Audit,M5.0,Full,28-06-2023,31-10-2023,31-10-2025,132.0,Report+Attestation
+24834.0,Chemical Check GmbH,Audit,M5.0,Compact,29-06-2023,31-10-2023,31-10-2025,363.0,Report+Attestation
+132863.0,AGIT mbH,Audit,M5.0,Full,07-07-2023,31-10-2023,31-10-2025,270.0,Report+Attestation
+133954.0,Christian Rüther e.U.,Audit,M4.1,Standard,17-07-2015,31-05-2015,31-05-2017,547.0,Report+Attestation
+135008.0,Bean United GmbH,Audit,M5.0,Full,25-07-2023,30-09-2023,30-09-2025,374.0,Report+Attestation
+135620.0,FC St. Pauli von 1910 e.V.,Audit,M5.0,Compact,31-07-2023,31-12-2023,31-12-2025,527.0,Report+Attestation
+46983.0,Diakonieverbund Schweicheln e.V.,Audit,M5.0,Full,02-08-2023,,,,
+29802.0,sinnovation – nachhaltig entwickeln,Audit,M5.0,Compact,07-08-2023,31-08-2023,31-08-2025,585.0,Report+Attestation
+14709.0,Stadtmobil Rhein-Neckar AG,Audit,M5.0,Compact,25-08-2023,30-09-2023,30-09-2025,605.0,Report+Attestation
+14973.0,Adelby 1 Kinder- und Jugenddienste gGmbH,Audit,M5.0,Full,25-08-2023,31-12-2023,31-12-2025,475.0,Report+Attestation
+139341.0,Evangelische Kirchengemeinden Griesheim und Nied,Audit,M5.0,Compact,06-09-2023,31-12-2023,31-12-2025,381.0,Report+Attestation
+35606.0,WEtell GmbH,Audit,M5.0,Full,11-09-2023,31-10-2023,31-10-2025,547.0,Attestation
+140188.0,IMPULSGEBEREI,Audit,M5.0,Full,14-09-2023,31-12-2023,31-12-2025,495.0,Report+Attestation
+14796.0,INFO GmbH,Audit,M5.0,Full,10-10-2023,31-12-2023,31-12-2025,554.0,Report+Attestation
+144356.0,Ökologisch-Demokratische Partei  ÖDP,Audit,M5.0,Compact,16-10-2023,31-12-2023,31-12-2025,362.0,Report+Attestation
+144485.0,Ökologisch-Demokratische Partei LV Berlin,Audit,M5.0,Compact,16-10-2023,31-12-2023,31-12-2025,334.0,Attestation
+35667.0,Wertachtal-Werkstätten gGmbH,Audit,M5.0,Full,17-10-2023,31-12-2023,31-12-2025,327.0,Report+Attestation
+14701.0,"Stadtwerke München GmbH, Geschäftsbereich Bäder",Audit,M5.0,Full,20-10-2023,31-12-2023,31-12-2025,451.0,Report+Attestation
+145504.0,St.Rochus-Apotheke,Audit,M5.0,Full,23-10-2023,,,,
+145526.0,Dipl.-Ing. H. Bendl GmbH & Co. KG,Audit,M5.0,Full,24-10-2023,31-12-2023,31-12-2025,198.0,Report+Attestation
+21570.0,Nell-Breuning-Haus,Audit,M5.0,Compact,26-10-2023,28-02-2024,28-02-2026,427.0,Report+Attestation
+14849.0,EM-Chiemgau- Christoph Fischer GmbH,Audit,M5.0,Full,31-10-2023,31-12-2023,31-12-2025,583.0,Report+Attestation
+147396.0,Michaelshof Hepsisau,Audit,M5.0,Compact,03-11-2023,31-12-2023,31-12-2025,443.0,Report+Attestation
+150465.0,Polarstern GmbH,Audit,M5.0,Full,23-11-2023,31-01-2024,31-01-2026,599.0,Report+Attestation
+153690.0,LABORATORIO ECOTECH S.R.L.,Audit,M5.0,Full,19-12-2023,,,,Report+Attestation
+14704.0,Doro Heckelsmüller,Peer,M5.0,Compact,16-05-2019,20-05-2019,20-05-2021,,Report+Certificate
+14705.0,Jochen Siebel,Peer,M5.0,Compact,16-05-2019,20-05-2019,20-05-2021,332.0,Report+Certificate
+14706.0,Biomarkt La Vida e.K.,Peer,M5.0,Compact,16-05-2019,20-05-2019,20-05-2021,493.0,Report+Certificate
+14727.0,Praxisgemeinschaft AMEDEA,Peer,M5.0,Compact,16-05-2019,20-05-2019,20-05-2021,386.0,Report+Certificate
+163148.0,rw-cct gmbh,Peer,M5.0,Compact,16-05-2019,31-05-2019,31-05-2021,535.0,Report
+14730.0,Schubert Bio & Vollwert Bäckerei GmbH & Co KG,Peer,M5.0,Full,23-05-2019,31-07-2020,31-07-2022,349.0,Report+Certificate
+14731.0,Snehotta Pflegeteam,Peer,M5.0,Full,23-05-2019,31-07-2020,31-07-2022,250.0,Report+Certificate
+14732.0,Herzstück Horgau eG i.G.,Peer,M5.0,Full,23-05-2019,31-07-2020,31-07-2022,243.0,Report+Certificate
+14733.0,liesLotte MEDIEN VERLAG,Peer,M5.0,Full,23-05-2019,31-07-2020,31-07-2022,282.0,Report+Certificate
+14714.0,elfgen pick gmbh & co. kg,Peer,M5.0,Full,23-05-2019,31-07-2020,31-07-2022,319.0,Report+Certificate
+14715.0,Werte-voller-Leben GmbH & Co KG,Peer,M5.0,Full,23-05-2019,31-07-2020,31-07-2022,129.0,Report+Certificate
+14716.0,Outward Bound gGmbH,Peer,M5.0,Full,23-05-2019,31-07-2020,31-07-2022,316.0,Report+Certificate
+35300.0,HBplus Dinkelscherben GmbH Steuerberatungsgesellschaft,Peer,M5.0,Full,23-05-2019,31-07-2020,31-07-2022,142.0,Report+Certificate
+14718.0,Zukunftswerk eG,Peer,M5.0,Compact,01-03-2019,30-04-2019,30-04-2021,432.0,Report+Certificate
+14719.0,Ulenspiegel Druck GmbH & Co. KG,Peer,M5.0,Compact,31-03-2019,,,,
+14720.0,Öko & Fair Umweltzentrum Gauting,Peer,M5.0,Compact,31-03-2019,,,,
+14721.0,Bioculture GmbH,Peer,M5.0,Compact,31-03-2019,30-04-2019,30-04-2021,382.0,Report+Certificate
+14722.0,Backhaus Cramer,Peer,M5.0,Compact,31-03-2019,30-04-2019,30-04-2021,474.0,Certificate
+14723.0,hpkj | heilpädagogisch-psychotherapeutische Kinder- und Jugendhilfe e.V.,Peer,M5.0,Compact,28-02-2019,31-03-2019,31-03-2021,595.0,Report+Certificate
+68060.0,Netzwerk Geburt und Familie e.V.,Peer,M5.0,Compact,28-02-2019,31-03-2019,31-03-2021,527.0,Report+Certificate
+14725.0,MobilSpiel e.V.,Peer,M5.0,Compact,28-02-2019,31-03-2019,31-03-2021,458.0,Report+Certificate
+14726.0,Fairmittler Stefan Gmeiner e.U.,Peer,M5.0,Compact,04-06-2019,31-05-2019,31-05-2021,303.0,Report+Certificate
+14735.0,Mathis Spenglerei GmbH,Peer,M5.0,Compact,04-06-2019,31-05-2019,31-05-2021,180.0,Report+Certificate
+14736.0,MÜLLER Ofenbau Bertram u. Harald Müller GesnbR,Peer,M5.0,Compact,04-06-2019,31-05-2019,31-05-2021,297.0,Report+Certificate
+14737.0,Architekturbüro Mießl GmbH,Peer,M5.0,Full,05-06-2019,30-09-2020,30-09-2022,278.0,Report+Certificate
+14738.0,Contecta Immobilienverwaltung GmbH,Peer,M5.0,Full,06-06-2019,30-09-2020,30-09-2022,246.0,Report+Certificate
+14742.0,Farbenmühle mcdrent GmbH & Co.KG,Peer,M5.0,Compact,06-06-2019,,,,
+14745.0,HABICHT+PARTNER,Peer,M5.0,Compact,06-06-2019,30-06-2019,30-06-2021,574.0,Report+Certificate
+14751.0,TherapieZeitRaum,Peer,M5.0,Compact,12-06-2019,31-12-2019,31-12-2021,697.0,Certificate
+14752.0,kiss the inuit,Peer,M5.0,Compact,12-06-2019,30-06-2019,30-06-2021,673.0,Report+Certificate
+14753.0,Privatpraxis für Psychotherapie und Supervision,Peer,M5.0,Compact,12-06-2019,30-06-2019,30-06-2021,521.0,Report+Certificate
+14739.0,Integra e.V.,Peer,M5.0,Compact,27-06-2019,30-06-2019,30-06-2021,443.0,Report+Certificate
+14740.0,Diabetes und Stoffwechselpraxis Wetter,Peer,M5.0,Compact,27-06-2019,30-06-2019,30-06-2021,151.0,Report+Certificate
+14749.0,ver.de für nachhaltige Entwicklung e.G.,Peer,M5.0,Compact,27-06-2019,31-07-2019,31-07-2021,530.0,Report+Certificate
+14750.0,grimm Vermögensberatung,Peer,M5.0,Compact,27-06-2019,31-07-2019,31-07-2021,570.0,Certificate
+14764.0,Mathias Winkler – Nachhaltige Finanzlösungen,Peer,M5.0,Compact,27-06-2019,31-07-2019,31-07-2021,463.0,Report+Certificate
+14767.0,Ing. Robert Thoma G.m.b.H.,Peer,M5.0,Full,10-07-2019,28-02-2019,28-02-2021,503.0,Report+Certificate
+84326.0,Capri HotelbetriebsGmbH & Co KG,Peer,M5.0,Full,10-07-2019,28-02-2019,28-02-2021,398.0,Report+Certificate
+14769.0,conSalis e.Gen.,Peer,M5.0,Full,10-07-2019,28-02-2019,28-02-2021,518.0,Report+Certificate
+14759.0,castello – Wohlfühlhotel in Königsleiten,Peer,M5.0,Compact,05-08-2019,31-12-2019,31-12-2021,400.0,Report+Certificate
+14760.0,Kaiserhof Anif Hotel-Restaurant-Bar,Peer,M5.0,Compact,05-08-2019,31-12-2019,31-12-2021,436.0,Report+Certificate
+14761.0,BioVitalHotel Sommerau,Peer,M5.0,Compact,05-08-2019,31-12-2019,31-12-2021,544.0,Report+Certificate
+14762.0,Die Seitenalm,Peer,M5.0,Compact,05-08-2019,,,,
+14763.0,Biohotel Schiessentobel,Peer,M5.0,Compact,05-08-2019,31-12-2019,31-12-2021,571.0,Report+Certificate
+14782.0,PAP Pongauer ArbeitsProjekt,Peer,M5.0,Compact,05-08-2019,31-12-2019,31-12-2021,583.0,Report+Certificate
+14783.0,"Christof Bader KG – Fliesen, Kachelöfen, Natursteine",Peer,M5.0,Compact,05-08-2019,31-12-2019,31-12-2021,508.0,Report+Certificate
+14784.0,Kulturverein Schloss Goldegg,Peer,M5.0,Compact,05-08-2019,31-12-2019,31-12-2021,658.0,Report+Certificate
+14775.0,Cafe Pausenraum,Peer,M5.0,Full,01-07-2018,31-12-2018,31-12-2020,642.0,Report+Certificate
+14776.0,focus-energie,Peer,M5.0,Compact,20-11-2017,31-12-2018,31-12-2020,644.0,Certificate
+14777.0,Waldorfschulverein Freiburg St. Georgen,Peer,M5.0,Compact,10-12-2018,31-12-2018,31-12-2020,716.0,Report+Certificate
+14778.0,Organiced Kitchen,Peer,M5.0,Compact,29-07-2019,28-02-2020,28-02-2022,631.0,Report+Certificate
+14797.0,Bäckerei Bahde GmbH,Peer,M5.0,Compact,01-10-2019,30-11-2019,30-11-2021,609.0,Certificate
+14801.0,Forum Futura UG,Peer,M5.0,Compact,02-10-2019,31-10-2019,31-10-2021,477.0,Report+Certificate
+14802.0,Ecosia GmbH,Peer,M5.0,Compact,02-10-2019,31-10-2019,31-10-2021,775.0,Report+Certificate
+14803.0,Mein Grundeinkommen e.V. (gemeinnützig),Peer,M5.0,Compact,02-10-2019,31-10-2019,31-10-2021,540.0,Report+Certificate
+14804.0,FIBUR GmbH,Peer,M5.0,Compact,02-10-2019,31-10-2019,31-10-2021,498.0,Report+Certificate
+14807.0,Blattfrisch GmbH,Peer,M5.0,Compact,02-10-2019,30-11-2019,30-11-2021,487.0,Certificate
+14808.0,Karl Siegel Produktions GmbH & Co. KG,Peer,M5.0,Compact,02-10-2019,30-11-2019,30-11-2021,444.0,Certificate
+14810.0,Nack Büroeinrichtungen GmbH,Peer,M5.0,Compact,02-10-2019,30-11-2019,30-11-2021,395.0,Certificate
+14799.0,Winkler Solar GmbH,Peer,M5.0,Compact,24-10-2019,,,,
+32995.0,Headgate,Peer,M5.0,Compact,24-10-2019,,,,
+14814.0,Dorfelektriker Mittelberger GmbH,Peer,M5.0,Compact,24-10-2019,,,,
+14819.0,AmVieh-Theater,Peer,M5.0,Compact,01-01-2019,30-03-2019,30-03-2021,702.0,Report+Certificate
+14820.0,Apotheke am Goetheplatz,Peer,M5.0,Compact,03-03-2018,30-10-2018,30-10-2020,577.0,Certificate
+14821.0,ARBA-BIOPLAN Genossenschaft,Peer,M5.0,Compact,14-11-2017,31-07-2018,31-07-2020,728.0,Report
+14822.0,arbeit plus Salzburg,Peer,M5.0,Compact,11-05-2017,30-03-2019,30-03-2021,482.0,Report+Certificate
+14825.0,Bio Hotel Bayerischer Wirt,Peer,M5.0,Compact,11-05-2018,30-03-2019,30-03-2021,627.0,Report+Certificate
+14826.0,Bio Hotel Eggensberger,Peer,M5.0,Compact,11-05-2017,30-03-2019,30-03-2021,654.0,Report+Certificate
+14828.0,"Catucho GbR (Ulrike &Laura Eckhardt), Rösterei",Peer,M5.0,Compact,07-11-2017,,,,
+14829.0,CCC Druck und Medien GmbH,Peer,M5.0,Compact,30-11-2017,,,,
+14830.0,"Czeczatka, Werner & Partner Steuerberatungsgesellschaft",Peer,M5.0,Compact,30-11-2017,30-10-2018,30-10-2020,293.0,Report
+14831.0,die Fleckenbühler Hof Fleckenbühl gGmbH,Peer,M5.0,Compact,11-05-2017,30-10-2018,30-10-2020,748.0,Report
+14832.0,Dietzinger+Partner,Peer,M5.0,Compact,11-05-2018,30-10-2018,30-10-2020,539.0,Report+Certificate
+14833.0,Dorfladen Häger e.V.,Peer,M5.0,Compact,11-05-2017,,,,
+14845.0,Ego Elektrikergenossenschaft,Peer,M5.0,Compact,11-05-2018,,,,Report
+14849.0,EM-Chiemgau- Christoph Fischer GmbH,Peer,M5.0,Compact,11-05-2017,30-10-2018,30-10-2020,639.0,Report+Certificate
+14851.0,Engel und Brotzge og einfachmoebel,Peer,M5.0,Compact,16-01-2018,30-04-2018,30-04-2020,549.0,Report+Certificate
+14852.0,F & P Stock Solution GmbH,Peer,M5.0,Compact,11-05-2018,,,,
+14834.0,Foto Flausen,Peer,M5.0,Full,11-05-2018,30-03-2019,30-03-2021,393.0,Report+Certificate
+14835.0,Frobenius-Foisner-Holzeis Steuerberatung GmbH,Peer,M5.0,Compact,11-05-2018,30-10-2018,30-10-2020,258.0,Certificate
+14836.0,germanBroker.net Aktiengesellschaft,Peer,M5.0,Compact,11-05-2017,,,,
+14837.0,Gertec GmbH Ingenieurgesellschaft,Peer,M5.0,Compact,11-05-2018,,,,
+14838.0,Gruber+Haumer Landschaftsarchitektur.OG,Peer,M5.0,Compact,11-05-2017,30-04-2018,30-04-2020,568.0,Report
+14839.0,Gut Sonnenhausen GmbH & Co. KG,Peer,M5.0,Compact,11-05-2017,30-03-2019,30-03-2021,605.0,Report+Certificate
+14840.0,h+m Garten und Landschaft,Peer,M5.0,Compact,11-05-2017,30-10-2018,30-10-2020,488.0,Report+Certificate
+14841.0,"Hotel Garmischer Hof, Seiwald-von Thurn GmbH",Peer,M5.0,Compact,11-05-2017,30-03-2019,30-03-2021,603.0,Report+Certificate
+14843.0,Jonathan Seminarhotel,Peer,M5.0,Compact,11-05-2017,31-07-2017,31-07-2019,483.0,Report+Certificate
+14844.0,KBW Katholisches Kreisbildungswerk,Peer,M5.0,Compact,11-05-2017,31-07-2017,31-07-2019,400.0,Report+Certificate
+14854.0,Kleinwechter & Bröker GmbH,Peer,M5.0,Compact,11-05-2017,,,,
+24522.0,Lebarte,Peer,M5.0,Compact,11-05-2017,30-04-2018,30-04-2020,549.0,Report
+14858.0,Maas Naturwaren GmbH,Peer,M5.0,Compact,11-05-2017,,,,
+14859.0,Malerei Wülser und Partner GmbH,Peer,M5.0,Compact,11-05-2017,30-04-2018,30-04-2020,443.0,Report
+14860.0,Malzfabrik,Peer,M5.0,Compact,11-05-2017,,,,
+14861.0,Marmed GmbH,Peer,M5.0,Compact,11-05-2017,30-10-2018,30-10-2020,458.0,Report
+14862.0,Mein Kindskopf UG,Peer,M5.0,Compact,11-05-2017,30-10-2018,30-10-2020,426.0,Report+Certificate
+14865.0,natürlich unverpackt,Peer,M5.0,Compact,11-05-2017,,,,
+14867.0,Praxisgemeinschaft Fridolfing,Peer,M5.0,Compact,11-05-2017,31-07-2017,31-07-2019,373.0,Report
+14868.0,Sachranger Dorfladen UG,Peer,M5.0,Compact,11-05-2017,30-10-2018,30-10-2020,643.0,Report
+14869.0,Schäfer Installationen,Peer,M5.0,Compact,11-05-2017,,,,
+14871.0,Sotronik GmbH,Peer,M5.0,Compact,11-05-2017,30-04-2018,30-04-2020,531.0,Report
+14872.0,St Elisabeth-Verein e.V. Marburg Berufliche Bildung (StEEB),Peer,M5.0,Full,11-05-2017,30-10-2018,30-10-2020,208.0,Report
+14873.0,Steinbildhauerei Vincent,Peer,M5.0,Compact,11-05-2017,30-10-2018,30-10-2020,473.0,Report+Certificate
+14874.0,Stierlin Holz am Bau GmbH,Peer,M5.0,Compact,11-05-2017,30-04-2018,30-04-2020,437.0,Report
+14875.0,Taoasis GmbH Natur Duft Manufaktur,Peer,M5.0,Compact,11-05-2017,,,,
+14877.0,Vollkornbäckerei Niemand GmbH,Peer,M5.0,Compact,11-05-2017,31-10-2018,31-10-2020,417.0,Report+Certificate
+14879.0,werkzwei – Lutz Dudek,Peer,M5.0,Compact,11-05-2017,,,,
+29166.0,Gebäudeservice Wodara GmbH,Peer,M5.0,Compact,11-05-2017,,,,
+14884.0,Arbatherm,Peer,M5.0,Compact,05-11-2017,30-04-2018,30-04-2020,482.0,Report
+14885.0,4e solutions GmbH,Peer,M4.1,Standard,11-05-2017,30-03-2018,30-03-2020,690.0,Report+Certificate
+14886.0,4plus5,Peer,M5.0,Compact,11-05-2017,28-02-2019,28-02-2021,,Certificate
+14888.0,ad fontes,Peer,M5.0,Compact,11-05-2017,31-03-2019,31-03-2021,,Report+Certificate
+14899.0,Dinkelbeck,Peer,M5.0,Compact,11-05-2017,28-02-2019,28-02-2021,,Certificate
+14916.0,Ulmer Weltladen,Peer,M5.0,Compact,28-12-2017,28-02-2019,28-02-2021,,Certificate
+14920.0,Zahnarztpraxis am Kreuzberg,Peer,M4.1,Standard,01-11-2019,31-05-2015,31-05-2017,388.0,Report
+14921.0,KV&P Unternehmensberatung,Peer,M5.0,Compact,11-05-2017,,,,
+14923.0,Hobbyhimmel,Peer,M4.1,Standard,11-05-2017,30-09-2018,30-09-2020,625.0,Report+Certificate
+14924.0,Reyerhof,Peer,M4.1,Standard,11-05-2017,30-03-2018,30-03-2020,745.0,Report+Certificate
+14930.0,"Gemüsekiste, Hartmann & Rönicke OHG",Peer,M5.0,Full,12-11-2019,,,,
+14931.0,CONTIGO Fairtrade GmbH,Peer,M5.0,Full,12-11-2019,31-12-2019,31-12-2021,847.0,Certificate
+14927.0,soulproducts GmbH,Peer,M5.0,Full,26-07-2019,28-02-2020,28-02-2022,872.0,Report+Certificate
+14941.0,Kiezbett GbR,Peer,M5.0,Compact,26-07-2019,28-02-2020,28-02-2022,751.0,Report+Certificate
+14937.0,bittar. worte & zeichen setzen,Peer,M5.0,Compact,20-11-2019,28-02-2020,28-02-2022,601.0,Report+Certificate
+14944.0,Sabine Lehner – MARKENwerkstatt,Peer,M5.0,Full,30-12-2019,31-12-2019,31-12-2021,556.0,Report+Certificate
+14945.0,Kurt Egger – eku-konstruktiv,Peer,M5.0,Full,30-12-2019,31-12-2019,31-12-2021,557.0,Report+Certificate
+14947.0,Harald Thurner,Peer,M5.0,Compact,30-12-2019,31-12-2019,31-12-2021,426.0,Report+Certificate
+77329.0,Haus Luise,Peer,M5.0,Compact,10-01-2020,31-01-2020,31-01-2022,372.0,Report+Certificate
+77336.0,Werner Furtner Consulting,Peer,M5.0,Compact,10-01-2020,31-01-2020,31-01-2022,379.0,Report+Certificate
+14959.0,IBB Ingenieurbüro Bernstetter,Peer,M5.0,Compact,10-01-2020,31-01-2020,31-01-2022,244.0,Report+Certificate
+14960.0,Gerlinde Lamberty,Peer,M5.0,Compact,10-01-2020,31-01-2020,31-01-2022,334.0,Report+Certificate
+14965.0,SODI – Solidaritätsdienst International e. V.,Peer,M5.0,Compact,23-01-2020,28-02-2020,28-02-2022,531.0,Report+Certificate
+14966.0,Armin Schmelzle,Peer,M5.0,Compact,20-01-2020,31-01-2020,31-01-2022,464.0,Report+Certificate
+14967.0,Isabella Klien,Peer,M5.0,Compact,20-01-2020,31-01-2020,31-01-2022,686.0,Report+Certificate
+14968.0,Ursula Spannberger,Peer,M5.0,Compact,20-01-2020,31-01-2020,31-01-2022,642.0,Report+Certificate
+14956.0,"Westphal & Baade, Abyme GbR",Peer,M5.0,Compact,03-02-2020,28-02-2020,28-02-2022,303.0,Report+Certificate
+14969.0,Tim Weinert,Peer,M5.0,Compact,20-02-2020,28-02-2020,28-02-2022,339.0,Report+Certificate
+14970.0,rolf dingethal organisations- und managemententwicklung,Peer,M5.0,Compact,20-02-2020,25-02-2018,25-02-2020,353.0,Certificate
+14971.0,Steinbeis-Transferzentrum ZEN,Peer,M5.0,Compact,20-02-2020,25-02-2020,25-02-2022,386.0,Certificate
+14976.0,Biond GmbH,Peer,M5.0,Full,03-03-2020,31-12-2019,31-12-2021,619.0,Report+Certificate
+14977.0,Unser Kastanienhof,Peer,M5.0,Full,03-03-2020,31-12-2019,31-12-2021,615.0,Report+Certificate
+14978.0,Lichtenborner Kräuteer,Peer,M5.0,Full,03-03-2020,31-12-2019,31-12-2021,777.0,Report+Certificate
+14979.0,Naturkost Querbeet,Peer,M5.0,Full,03-03-2020,31-12-2019,31-12-2021,744.0,Certificate
+14985.0,Hotel Villa Orange,Peer,M5.0,Compact,10-03-2020,31-12-2019,31-12-2021,551.0,Report+Certificate
+14986.0,Tannerhof GmbH & Co.KG,Peer,M5.0,Compact,10-03-2020,31-12-2019,31-12-2021,571.0,Report+Certificate
+14987.0,BIOHOTEL KUNSTQUARTIER,Peer,M5.0,Compact,10-03-2020,31-12-2019,31-12-2021,674.0,Report+Certificate
+14706.0,Biomarkt La Vida e.K.,Peer,M5.0,Compact,12-03-2020,13-11-2020,13-11-2022,507.0,Report+Certificate
+14991.0,Wir Kinder der Erde – Wildnisschule Bayern,Peer,M5.0,Compact,12-03-2020,13-11-2020,13-11-2022,356.0,Report+Certificate
+14992.0,Horst Haas Prototypen,Peer,M5.0,Compact,12-03-2020,13-11-2020,13-11-2022,171.0,Report+Certificate
+14982.0,Schachtelhalm UG,Peer,M5.0,Full,17-03-2020,31-12-2019,31-12-2021,769.0,Certificate
+14983.0,Universität Kassel Hessische Staatsdomäne,Peer,M5.0,Full,17-03-2020,31-12-2019,31-12-2021,507.0,Certificate
+14994.0,Gandler Risk Management,Peer,M5.0,Full,27-04-2020,31-10-2019,31-10-2021,446.0,Report+Certificate
+14995.0,Mode & Sport Moreau GesmbH,Peer,M5.0,Full,27-04-2020,31-10-2019,31-10-2021,390.0,Report+Certificate
+14996.0,Sehen und Hören Maurer GmbH,Peer,M5.0,Full,27-04-2020,31-10-2019,31-10-2021,529.0,Report+Certificate
+16161.0,Wiehag GmbH,Peer,M5.0,Compact,02-06-2020,31-05-2020,31-05-2022,520.0,Report+Certificate
+17818.0,Saphenus Medical Technology GmbH,Peer,M5.0,Compact,20-06-2020,31-03-2020,31-03-2022,305.0,Report+Certificate
+17821.0,Braucommune in Freistadt,Peer,M5.0,Compact,20-06-2020,31-05-2020,31-05-2022,519.0,Report+Certificate
+19534.0,Perspektivatelier,Peer,M5.0,Compact,28-07-2020,31-08-2020,31-08-2022,503.0,Report+Certificate
+19536.0,Ilse Lang,Peer,M5.0,Compact,28-07-2020,30-09-2020,30-09-2022,497.0,Report+Certificate
+19538.0,Maga Ulli Fejer,Peer,M5.0,Compact,28-07-2020,30-09-2020,30-09-2022,438.0,Report+Certificate
+19540.0,Ing. Robert Graf Unternehmensberatung,Peer,M5.0,Compact,28-07-2020,30-09-2020,30-09-2022,422.0,Report+Certificate
+19684.0,Grüne Erde GmbH,Peer,M5.0,Full,04-08-2020,30-06-2020,30-06-2022,747.0,Report+Certificate
+19686.0,Lux Bau GmbH,Peer,M5.0,Full,04-08-2020,30-06-2020,30-06-2022,399.0,Report+Certificate
+19688.0,blp Geo Services GmbH,Peer,M5.0,Full,04-08-2020,30-06-2020,30-06-2022,383.0,Report+Certificate
+20244.0,Lekido,Peer,M5.0,Full,02-05-2019,31-05-2019,31-05-2021,152.0,Report+Certificate
+20441.0,Schloss Blumenthal Gmbh & Co. KG,Peer,M5.0,Full,10-09-2020,30-09-2020,30-09-2022,467.0,Report+Certificate
+20445.0,Bürgerenergiegenossenschaft im Landkreis Pfaffenhofen a. d. Ilm eG,Peer,M5.0,Full,10-09-2020,30-09-2020,30-09-2022,441.0,Report+Certificate
+20449.0,Bürger-Energie-Genossenschaft Neuburg-Schrobenhausen-Aichach-Eichstätt eG,Peer,M5.0,Full,10-09-2020,30-09-2020,30-09-2022,411.0,Report+Certificate
+22119.0,Gemeinwohlagentur Rubatscher Dagmar,Peer,M5.0,Compact,14-10-2020,31-10-2020,31-10-2022,680.0,Report+Certificate
+22381.0,mICU-Alps GmbH,Peer,M5.0,Compact,20-10-2020,31-10-2020,31-10-2022,653.0,Report+Certificate
+22385.0,Haus of Commons,Peer,M5.0,Compact,20-10-2020,31-10-2020,31-10-2022,722.0,Report+Certificate
+22388.0,Gute Frücht,Peer,M5.0,Compact,20-10-2020,31-10-2020,31-10-2022,848.0,Report+Certificate
+22392.0,Mag. Michael Zitterl,Peer,M5.0,Compact,20-10-2020,31-10-2020,31-10-2022,760.0,Report+Certificate
+23246.0,GeoTeam Gesellschaft für umweltgerechte Land- und Wasserwirtschaft mbH,Peer,M5.0,Compact,30-06-2021,30-06-2021,30-06-2023,386.0,Report+Certificate
+23248.0,Objekt-Service Roland Blechschmidt GmbH,Peer,M5.0,Compact,30-06-2021,30-06-2021,30-06-2023,308.0,Report+Certificate
+14851.0,Engel und Brotzge og einfachmoebel,Peer,M5.0,Compact,01-12-2020,10-12-2021,10-12-2023,377.0,Report+Certificate
+24522.0,LEBARTE  Johannes Falch,Peer,M5.0,Compact,01-12-2020,10-12-2021,10-12-2023,364.0,Report+Certificate
+24525.0,Eva Dornauer,Peer,M5.0,Compact,01-12-2020,10-12-2021,10-12-2023,451.0,Report+Certificate
+24834.0,Chemical Check GmbH,Peer,M5.0,Compact,08-12-2020,,,,
+35275.0,A & K Engemann GbR,Peer,M5.0,Compact,08-12-2020,,,,
+24840.0,Graf Metternich-Quellen Karl Schöttker KG,Peer,M5.0,Compact,08-12-2020,,,,
+24842.0,Goldeimer gGmbH,Peer,M5.0,Compact,08-12-2020,30-04-2021,30-04-2023,733.0,Certificate
+24844.0,Markthalle Betriebsgesellschaft mbH,Peer,M5.0,Compact,08-12-2020,30-04-2021,30-04-2023,298.0,Certificate
+24848.0,Naturkost Nord Großhandelsgesellschaft mbH,Peer,M5.0,Compact,08-12-2020,30-04-2021,30-04-2023,502.0,Certificate
+24893.0,SERBUS KG des Christof Haidacher & Co.,Peer,M5.0,Compact,11-12-2020,21-12-2020,21-12-2022,325.0,Report+Certificate
+24896.0,Mellauner S.r.l.,Peer,M5.0,Compact,11-12-2020,31-01-2021,31-01-2023,257.0,Report+Certificate
+24898.0,Holzer Bus GmbH,Peer,M5.0,Compact,11-12-2020,21-12-2020,21-12-2022,194.0,Report+Certificate
+24901.0,Wipptalreisen OHG,Peer,M5.0,Compact,11-12-2020,21-12-2020,21-12-2022,266.0,Report+Certificate
+24903.0,SiMobil GmbH,Peer,M5.0,Compact,11-12-2020,21-12-2020,21-12-2022,344.0,Report+Certificate
+25016.0,Silbernagl GmbH,Peer,M5.0,Compact,14-12-2020,21-12-2020,21-12-2022,314.0,Report+Certificate
+25018.0,Fugger Reisen KG d. Volgger Werner & Co.,Peer,M5.0,Compact,14-12-2020,21-12-2020,21-12-2022,263.0,Report+Certificate
+25020.0,Taferner GmbH,Peer,M5.0,Compact,14-12-2020,21-12-2020,21-12-2022,266.0,Report+Certificate
+25029.0,Steiner Touring GmbH,Peer,M5.0,Compact,14-12-2020,21-12-2020,21-12-2022,256.0,Report+Certificate
+25099.0,Auto Rainer GmbH,Peer,M5.0,Compact,16-12-2020,21-12-2020,21-12-2022,354.0,Report+Certificate
+25101.0,Seiwald KG des Seiwald Klaus & Co.,Peer,M5.0,Compact,16-12-2020,21-12-2020,21-12-2022,319.0,Report+Certificate
+25344.0,smile! Solutions GmbH,Peer,M5.0,Compact,17-12-2020,28-02-2020,28-02-2022,377.0,Report+Certificate
+25346.0,Schwarzseher GmbH,Peer,M5.0,Compact,17-12-2020,28-02-2020,28-02-2022,573.0,Report+Certificate
+25349.0,UnternehmensSinn PartGes,Peer,M5.0,Compact,17-12-2020,28-02-2020,28-02-2022,421.0,Report+Certificate
+25351.0,tetrateam OHG,Peer,M5.0,Compact,17-12-2020,28-02-2020,28-02-2022,687.0,Report+Certificate
+25426.0,Petersilchen GmbH,Peer,M5.0,Compact,20-12-2020,,,,
+25428.0,Lebenshilfe Brakel gGmbH,Peer,M5.0,Compact,20-12-2020,,,,
+25435.0,framtid GmbH,Peer,M5.0,Compact,20-12-2020,30-04-2021,30-04-2023,512.0,Certificate
+27428.0,Easy Mobil GmbH,Peer,M5.0,Compact,28-01-2021,31-01-2021,31-01-2023,244.0,Report+Certificate
+27430.0,Pizzinini Mobility GmbH,Peer,M5.0,Compact,28-01-2021,31-01-2021,31-01-2023,335.0,Report+Certificate
+27432.0,TLB GmbH,Peer,M5.0,Compact,28-01-2021,31-01-2021,31-01-2023,239.0,Report+Certificate
+35273.0,"Theater Salz+Pfeffer, Nürnberg",Peer,M5.0,Compact,25-06-2021,30-06-2021,30-06-2023,381.0,Report+Certificate
+35298.0,"Hauswirtschaftliches Service-Team GmbH, Baiersdorf",Peer,M5.0,Compact,25-06-2021,30-06-2021,30-06-2023,333.0,Report+Certificate
+35292.0,"Meister Küfner Nusseckenmanufaktur, Nürnberg",Peer,M5.0,Compact,28-06-2021,30-06-2021,30-06-2023,351.0,Report+Certificate
+35307.0,"Stimmumschwung, Hayo Keckeis, Wilhermsdorf",Peer,M5.0,Compact,08-02-2021,30-06-2021,30-06-2023,259.0,Report+Certificate
+35296.0,"FARCAP Faire Mode gGmbH, Fürth",Peer,M5.0,Compact,25-06-2021,30-06-2021,30-06-2023,625.0,Report+Certificate
+35305.0,Rosy Green Wool GbR – Rosmary Stegmann und Patrick Gruban,Peer,M5.0,Compact,13-02-2021,31-07-2021,31-07-2023,548.0,Report+Certificate
+29850.0,Alex Wissmann,Peer,M5.0,Compact,09-03-2021,30-04-2021,30-04-2023,377.0,Report+Certificate
+14665.0,ALLMENDA Social Business eG,Peer,M4.1,Standard,31-12-2016,30-12-2016,30-12-2018,627.0,Report+Certificate
+30038.0,Monika Riedl Christallmanufaktur,Peer,M4.1,Standard,31-12-2016,30-09-2016,30-09-2018,448.0,Report+Certificate
+14814.0,Dorfelektriker Mittelberger GmbH,Peer,M4.1,Standard,31-12-2016,31-08-2016,31-08-2018,653.0,Report+Certificate
+30047.0,Dr. Alois Mair,Peer,M4.1,Standard,31-12-2016,,,,Report
+14756.0,Laube sozial-psychiatrische Aktivitäten GmbH,Peer,M4.1,Standard,31-12-2016,06-09-2016,06-09-2018,348.0,Report+Certificate
+30083.0,SCHINDEL UND HOLZ,Peer,M4.1,Standard,31-12-2016,31-05-2016,31-05-2018,475.0,Report+Certificate
+14794.0,St. Virgil Salzburg,Peer,M4.1,Standard,31-12-2016,06-09-2016,06-09-2018,505.0,Report+Certificate
+30091.0,Heinrich Michael Wansch,Peer,M4.1,Standard,31-12-2016,30-09-2016,30-09-2018,330.0,Report+Certificate
+14690.0,Trumer Privatbrauerei,Peer,M4.1,Standard,31-12-2016,30-09-2016,30-09-2018,427.0,Report+Certificate
+30096.0,Gemeindeverband für Abfallwirtschaft und Umweltschutz – Umweltverband,Peer,M4.1,Standard,31-12-2016,,,,Report
+30100.0,WOOD Kollnig Handelsagentur,Peer,M4.1,Standard,31-12-2016,31-05-2016,31-05-2018,341.0,Report+Certificate
+14772.0,ananjo informatiker,Peer,M4.1,Standard,31-12-2017,,,,Report
+30106.0,BürgerEnergieGenossenschaft eG,Peer,M4.1,Standard,31-12-2017,,,,Report+Certificate
+30110.0,Biohotel Amadeus,Peer,M4.1,Standard,31-12-2017,30-05-2017,30-05-2019,593.0,Report+Certificate
+30114.0,BioHotel und Gastronomie Burg Lenzen,Peer,M4.1,Standard,31-12-2017,30-05-2017,30-05-2019,616.0,Report+Certificate
+14766.0,"cibaria GmbH, ökologisch-biologische Vollkornbäckerei",Peer,M4.1,Standard,31-12-2017,28-02-2017,28-02-2019,630.0,Report+Certificate
+30127.0,Condrobs e.V.,Peer,M4.1,Standard,31-12-2017,,,,Report
+30132.0,"embedded linux devices, EXD",Peer,M4.1,Standard,31-12-2017,31-10-2014,31-10-2016,609.0,Report+Certificate
+14773.0,Gesellschaft für angewandte Kommunalforschung,Peer,M4.1,Standard,31-12-2017,30-04-2017,30-04-2019,427.0,Report+Certificate
+30139.0,Familienferienanlage Gut Nisdorf GmbH,Peer,M4.1,Standard,31-12-2017,30-05-2017,30-05-2019,541.0,Report+Certificate
+30144.0,Juwelier Ernst-Walter Poser,Peer,M4.1,Standard,31-12-2017,31-03-2017,31-03-2019,357.0,Report+Certificate
+30147.0,Steinmetz Braun GmbH,Peer,M5.0,Compact,30-04-2021,31-07-2021,31-07-2023,297.0,Report+Certificate
+30149.0,HNO Praxis Dr. Ioannis Charalampakis,Peer,M5.0,Compact,30-04-2021,31-07-2021,31-07-2023,269.0,Report+Certificate
+30151.0,Marianne Voit-Lipowsky,Peer,M5.0,Compact,30-04-2021,31-07-2021,31-07-2023,423.0,Report+Certificate
+30153.0,Regionalkollektiv eG,Peer,M5.0,Compact,30-04-2021,31-07-2021,31-07-2023,473.0,Report+Certificate
+30156.0,Techgenossen eG,Peer,M5.0,Compact,30-04-2021,31-07-2021,31-07-2023,448.0,Report+Certificate
+30299.0,Münchner Aids- Hilfe e.V.,Peer,M4.1,Standard,31-12-2017,30-11-2017,30-11-2019,456.0,Report+Certificate
+30305.0,PARITÄTISCHE Sozialpsychiatrisches Zentrum München gGmbH,Peer,M4.1,Standard,31-12-2017,30-11-2017,30-11-2019,425.0,Report+Certificate
+30309.0,qnipp GmbH,Peer,M4.1,Standard,31-12-2017,30-09-2016,30-09-2018,483.0,Report+Certificate
+30317.0,Hotel Gutshaus Stellshagen,Peer,M4.1,Standard,31-12-2017,30-05-2017,30-05-2019,692.0,Report+Certificate
+30321.0,zündstoff. fair organic clothing S. Klemz & M. Rau GbR,Peer,M4.1,Standard,31-12-2017,30-08-2017,30-08-2019,726.0,Report+Certificate
+30326.0,Biohof Lecker GbR,Peer,M5.0,Compact,31-12-2017,31-07-2017,31-07-2019,594.0,Report+Certificate
+14847.0,EL PUENTE GmbH,Peer,M5.0,Compact,31-12-2017,30-09-2017,30-09-2019,836.0,
+30333.0,two4science GmbH,Peer,M5.0,Compact,16-03-2021,30-04-2021,30-04-2023,423.0,Report+Certificate
+30337.0,Africa Green Tec AG,Peer,M5.0,Compact,16-03-2021,,,,Report
+30353.0,Zallis Naturkost Cafe,Peer,M5.0,Compact,31-12-2017,31-07-2017,31-07-2019,621.0,Report
+30355.0,Malteser Hilfsdienst gemeinnützige GmbH,Peer,M5.0,Compact,31-12-2017,31-07-2017,31-07-2019,371.0,Report
+30357.0,Lebensraum Holz GmbH,Peer,M5.0,Compact,31-12-2017,31-08-2017,31-08-2019,303.0,Report+Certificate
+30380.0,Schlaraffenburger Streuobstagentur,Peer,M5.0,Compact,16-03-2021,30-04-2021,30-04-2023,413.0,Report+Certificate
+14671.0,Druckerei Zollenspieker,Peer,M4.1,Standard,28-02-2015,30-04-2015,30-04-2017,607.0,Report+Certificate
+30925.0,Andreas Heilmann Gartengestaltung,Peer,M5.0,Compact,31-12-2017,31-07-2017,31-07-2019,415.0,Report+Certificate
+31380.0,avance Unternehmensberatung GmbH,Peer,M5.0,Compact,06-04-2021,30-04-2021,30-04-2023,310.0,Report+Certificate
+32323.0,Markus Hölzl,Peer,M5.0,Compact,16-04-2021,30-04-2021,30-04-2023,281.0,Report+Certificate
+14818.0,Raum für Gemeinwesen-Entwicklung,Peer,M5.0,Compact,28-04-2021,31-05-2021,31-05-2023,437.0,Certificate
+14863.0,Sinnökonomie im Einklang,Peer,M5.0,Compact,28-04-2021,31-05-2021,31-05-2023,409.0,Report+Certificate
+32995.0,Headgate,Peer,M5.0,Compact,28-04-2021,31-05-2021,31-05-2023,503.0,Report+Certificate
+33062.0,Gardion UG,Peer,M5.0,Compact,28-04-2021,31-05-2021,31-05-2023,360.0,Report+Certificate
+33071.0,Freiburg Institut,Peer,M5.0,Compact,29-04-2021,31-05-2021,31-05-2023,610.0,Report+Certificate
+33279.0,Landimmobilien,Peer,M5.0,Compact,30-04-2021,31-05-2021,31-05-2023,454.0,Report+Certificate
+33611.0,kuhs architekten,Peer,M5.0,Compact,03-05-2021,31-05-2021,31-05-2023,454.0,Report+Certificate
+33857.0,München kocht!,Peer,M5.0,Full,03-05-2021,30-11-2021,30-11-2023,232.0,Report+Certificate
+33859.0,Transition Woods gGmbH,Peer,M5.0,Full,03-05-2021,30-11-2021,30-11-2023,414.0,Certificate
+33861.0,Reformhaus Mayr e.K.,Peer,M5.0,Full,03-05-2021,30-11-2021,30-11-2023,353.0,Report+Certificate
+33863.0,"Schwabinger Automobil Haus, Gebr. Herrmann GmbH & Co KG",Peer,M5.0,Full,03-05-2021,30-11-2021,30-11-2023,285.0,Certificate
+35299.0,IFUB GmbH,Peer,M5.0,Full,03-05-2021,30-11-2021,30-11-2023,467.0,Report+Certificate
+34415.0,AXICA Kongress- und Tagungszentrum  GmbH,Peer,M5.0,Compact,06-05-2021,30-09-2021,30-09-2023,390.0,Report+Certificate
+34938.0,be4energy GmbH,Peer,M5.0,Compact,11-05-2021,30-09-2021,30-09-2023,239.0,Certificate
+34942.0,Brumaire Verlag,Peer,M5.0,Compact,11-05-2021,30-09-2021,30-09-2023,321.0,Report+Certificate
+34944.0,Stadtteilzentrum Steglitz e.V,Peer,M5.0,Compact,11-05-2021,30-09-2021,30-09-2023,310.0,Report+Certificate
+35652.0,Naturerlebniszentrum Allgäu,Peer,M5.0,Full,18-05-2021,31-07-2021,31-07-2023,373.0,Report+Certificate
+35657.0,Freilich Unverpackt – Stefanie Grömmer & Martin Kensy Gbr,Peer,M5.0,Full,18-05-2021,31-07-2021,31-07-2023,410.0,Report+Certificate
+35667.0,Wertachtal-Werkstätten gGmbH,Peer,M5.0,Full,18-05-2021,31-07-2021,31-07-2023,291.0,Report+Certificate
+35669.0,Mattlihaus KG,Peer,M5.0,Full,18-05-2021,31-07-2021,31-07-2023,455.0,Report+Certificate
+35671.0,SÄBU Holzbau GmbH,Peer,M5.0,Full,18-05-2021,23-07-2021,23-07-2023,277.0,Report+Certificate
+35674.0,Allgäu GmbH,Peer,M5.0,Full,18-05-2021,31-07-2021,31-07-2023,291.0,Report+Certificate
+35678.0,Füssen Tourismus und Marketing,Peer,M5.0,Full,18-05-2021,31-07-2021,31-07-2023,265.0,Report+Certificate
+36506.0,BOSSE WESTPHAL SCHÄFFER Architekten und Sachverständige PartGmbB,Peer,M4.1,Standard,12-11-2015,31-12-2015,31-12-2017,423.0,Report+Certificate
+36525.0,hamburger immobilienberater Regine Rega-Lindner und Stefan Wendt-Reese GbR,Peer,M4.1,Standard,31-12-2016,31-01-2016,31-01-2018,464.0,Report+Certificate
+36527.0,KARDEA GmbH,Peer,M4.0,Standard,10-04-2013,31-12-2013,31-12-2015,341.0,Report+Certificate
+36531.0,LebensArt  GbR,Peer,M4.1,Standard,19-06-2015,31-12-2015,31-12-2017,685.0,Report+Certificate
+36536.0,JUSTUS MATTHIAS – ARCHITEKTEN,Peer,M4.1,Standard,31-12-2014,30-11-2014,30-11-2016,414.0,Report+Certificate
+36546.0,Büro für Erneuerbare Energie Ing. Leo Riebenbauer GmbH,Peer,M4.0,Standard,08-04-2013,30-06-2013,30-06-2015,564.0,Report+Certificate
+36548.0,"AISENBREY, RICHTER & PARTNER",Peer,M4.0,Standard,31-12-2013,31-12-2013,31-12-2015,622.0,Report+Certificate
+30962.0,corsus corporate sustainability GmbH,Peer,M4.1,Standard,31-07-2015,31-07-2015,31-07-2017,468.0,Report+Certificate
+14896.0,BTE Tourismus- und Regionalberatung,Peer,M4.1,Standard,31-05-2015,31-05-2015,31-05-2017,428.0,Report+Certificate
+36656.0,Cornelia Burth,Peer,M4.1,Standard,28-02-2014,28-02-2014,28-02-2016,313.0,Report+Certificate
+36659.0,cardamom,Peer,M4.1,Standard,19-07-2014,31-07-2014,31-07-2016,772.0,Report+Certificate
+14898.0,Christian Jensen Kolleg,Peer,M4.1,Standard,30-11-2015,31-12-2015,31-12-2017,447.0,Report+Certificate
+36662.0,Reinhard Decker  Unternehmensberater,Peer,M4.1,Standard,16-05-2014,31-05-2014,31-05-2016,458.0,Report+Certificate
+24525.0,Eva Dornauer,Peer,M4.1,Standard,31-08-2014,15-09-2014,15-09-2016,533.0,Report+Certificate
+36666.0,echoholos,Peer,M4.1,Standard,20-04-2015,31-05-2015,31-05-2017,390.0,Report+Certificate
+36671.0,Engineer M.E. Ing. Markus Eisner,Peer,M4.1,Standard,17-03-2014,31-03-2014,31-03-2016,318.0,Report+Certificate
+36684.0,Prof. Dr. Bernd Fittkau,Peer,M4.1,Standard,13-02-2014,30-12-2014,30-12-2016,,Report
+36697.0,FORUM BERUFSBILDUNG MÜNCHEN KARL THIESSEN,Peer,M4.1,Standard,27-11-2012,31-12-2012,31-12-2014,494.0,Report+Certificate
+36711.0,Gaby Belz GmbH,Peer,M4.1,Standard,23-01-2015,31-03-2015,31-03-2017,486.0,Report+Certificate
+29892.0,GefAA TELECONSULT UG (haftungsbeschränkt),Peer,M4.1,Standard,08-12-2015,31-12-2015,31-12-2017,247.0,Report+Certificate
+36724.0,global values,Peer,M4.1,Standard,20-12-2012,30-12-2012,30-12-2014,580.0,Report+Certificate
+36728.0,Höller Seminare,Peer,M4.1,Standard,01-04-2014,30-04-2014,30-04-2016,619.0,Report+Certificate
+36730.0,homann colormanagement,Peer,M4.1,Standard,27-02-2013,31-12-2014,31-12-2016,332.0,Report+Certificate
+36749.0,Busse Franchise Kommunikation,Peer,M4.1,Standard,17-06-2015,31-07-2015,31-07-2017,,Report+Certificate
+36799.0,LernSINN erlebBAR e.V.,Peer,M4.1,Standard,29-09-2014,30-11-2014,30-11-2016,612.0,Report+Certificate
+36803.0,LWP Institut Hannover,Peer,M4.1,Standard,22-07-2014,30-09-2014,30-09-2016,497.0,Report+Certificate
+36805.0,Mae Terra – Seminare Anne Tscharmann & Robert Pilak,Peer,M4.1,Standard,28-02-2014,31-03-2014,31-03-2016,605.0,Report+Certificate
+36811.0,mentalenz Corinna Lütsch & Carsten Schaeffer GbR,Peer,M4.1,Standard,22-06-2015,31-07-2015,31-07-2017,399.0,Report+Certificate
+36824.0,Ökomarkt Verbraucher- und Agrarberatung e.V.,Peer,M4.1,Standard,27-02-2014,28-02-2014,28-02-2016,510.0,Report+Certificate
+36827.0,DI Elke Szalai Planung&Vielfalt,Peer,M4.1,Standard,28-02-2014,31-03-2014,31-03-2016,588.0,Report+Certificate
+36830.0,QuintLog e.U.,Peer,M4.1,Standard,31-12-2016,31-12-2016,31-12-2018,597.0,Report+Certificate
+36834.0,RARENA Dr. Ralf Resch Nachhaltigkeitsberatung,Peer,M4.1,Standard,07-03-2014,31-03-2014,31-03-2016,599.0,Report+Certificate
+36838.0,sattler energie consulting gmbh,Peer,M4.0,Standard,24-03-2014,30-12-2014,30-12-2016,302.0,Report+Certificate
+36865.0,Ingenieurbüro Schlagmann,Peer,M4.1,Standard,31-03-2014,31-03-2014,31-03-2016,605.0,Report+Certificate
+36872.0,STEAUF Stefanie Aufleger,Peer,M4.1,Standard,30-04-2015,31-05-2015,31-05-2017,682.0,Report+Certificate
+36947.0,Oliver Kirchhof,Peer,M5.0,Compact,28-05-2021,30-11-2021,30-11-2023,295.0,Report+Certificate
+36951.0,Karsten Geisler,Peer,M5.0,Compact,28-05-2021,30-11-2021,30-11-2023,353.0,Report+Certificate
+14993.0,naturblau+++ Die Werteagentur,Peer,M4.1,Standard,30-04-2015,31-05-2015,31-05-2017,522.0,Report+Certificate
+36997.0,sinnwerkstatt Medienagentur GmbH,Peer,M4.1,Standard,30-11-2014,30-11-2014,30-11-2016,591.0,Report+Certificate
+19870.0,Lebenshilfe Tirol gem. GmbH,Peer,M4.1,Standard,15-09-2014,15-09-2014,15-09-2016,542.0,Report+Certificate
+37060.0,SpielScheune der Geschichten,Peer,M4.1,Standard,08-03-2014,28-02-2014,28-02-2016,391.0,Report+Certificate
+37075.0,Aka Merch & Textil GmbH,Peer,M5.0,Compact,31-05-2021,30-11-2021,30-11-2023,324.0,Report+Certificate
+37265.0,baukult ZT GmbH,Peer,M5.0,Compact,02-06-2021,30-06-2021,30-06-2023,499.0,Report+Certificate
+37562.0,Weingut Jurtschitsch,Peer,M5.0,Compact,07-06-2021,30-06-2021,30-06-2023,496.0,Certificate
+37564.0,Tanzschule Schwebach,Peer,M5.0,Compact,07-06-2021,,,,
+37618.0,Vereinigte Volksbank eG,Peer,M5.0,Compact,08-06-2021,31-05-2021,31-05-2023,355.0,Report+Certificate
+37702.0,ANJA HAIDER-WALLNER/ SMILEVEDA,Peer,M4.0,Standard,31-12-2013,31-12-2013,31-12-2015,480.0,Report+Certificate
+14656.0,Humanistic Management Practices – HMP Gerd Hofielen,Peer,M4.0,Standard,31-12-2013,31-12-2013,31-12-2015,535.0,Report+Certificate
+19536.0,Ilse Lang,Peer,M4.1,Standard,31-12-2013,31-12-2013,31-12-2015,485.0,Report+Certificate
+38098.0,Fairmondo eG,Peer,M4.1,Standard,30-09-2014,30-11-2014,30-11-2016,648.0,Report+Certificate
+14942.0,NoviTech e.U.,Peer,M4.1,Standard,30-09-2015,30-09-2015,30-09-2017,416.0,Report+Certificate
+14910.0,Sanoll,Peer,M4.1,Standard,30-09-2014,15-09-2014,15-09-2016,528.0,Report+Certificate
+38145.0,TAGWERK Großhandel für Naturkost GmbH,Peer,M4.0,Standard,14-03-2013,30-12-2013,30-12-2015,626.0,Report+Certificate
+38148.0,Weltladen Lienz,Peer,M4.1,Standard,30-01-2016,31-05-2016,31-05-2018,464.0,Report+Certificate
+14887.0,Abitare,Peer,M4.1,Standard,31-12-2015,31-05-2015,31-05-2017,367.0,Report
+38607.0,Kleeschulte Erden GmbH & Co. KG,Peer,M5.0,Compact,20-06-2021,31-03-2022,31-03-2024,315.0,Report+Certificate
+38663.0,Bioplan GbR Büro für Ökologie und Umweltplanung,Peer,M5.0,Compact,21-06-2021,31-05-2021,31-05-2023,279.0,Report+Certificate
+24522.0,LEBARTE  Johannes Falch,Peer,M4.1,Standard,31-05-2014,31-05-2014,31-05-2016,567.0,Report+Certificate
+14859.0,Malerei Wülser und Partner GmbH,Peer,M4.1,Standard,31-12-2013,31-12-2013,31-12-2015,446.0,Report+Certificate
+14996.0,Sehen und Hören Maurer GmbH,Peer,M4.1,Standard,31-10-2013,31-10-2013,31-10-2015,398.0,Report+Certificate
+39550.0,Schmedshof,Peer,M5.0,Compact,26-06-2021,31-03-2022,31-03-2024,326.0,Report+Certificate
+39616.0,Krämerei am Markt,Peer,M5.0,Compact,27-06-2021,31-03-2022,31-03-2024,354.0,Certificate
+14857.0,Lenz Consulting,Peer,M5.0,Compact,05-07-2021,31-07-2021,31-07-2023,440.0,Report+Certificate
+14919.0,Wiedemann Jörn,Peer,M5.0,Full,05-07-2021,31-07-2021,31-07-2023,447.0,Report+Certificate
+40169.0,Ctn Consulting,Peer,M5.0,Compact,05-07-2021,31-07-2021,31-07-2023,309.0,Report+Certificate
+40219.0,Kaiser Haus GmbH & Co. KG,Peer,M5.0,Compact,05-07-2021,31-05-2021,31-05-2023,79.0,Report+Certificate
+40892.0,camera obscura GmbH,Peer,M5.0,Compact,14-07-2021,31-08-2021,31-08-2023,480.0,Report+Certificate
+40896.0,Goldmund Kommunikation,Peer,M5.0,Compact,14-07-2021,31-08-2021,31-08-2023,440.0,Report+Certificate
+40899.0,Vanovi Design,Peer,M5.0,Compact,14-07-2021,31-08-2021,31-08-2023,304.0,Report+Certificate
+40985.0,Bioland Gärtnerei am Hainerbach Harro Colshorn,Peer,M4.1,Standard,30-12-2013,31-12-2013,31-12-2015,732.0,Report+Certificate
+40988.0,Bioland Lammertzhof – Fam. Hannen GbR,Peer,M4.1,Standard,30-12-2013,30-12-2013,30-12-2015,627.0,Report+Certificate
+40996.0,Margit  und Josef Mayr-Lamm,Peer,M4.1,Standard,31-01-2014,31-03-2014,31-03-2016,638.0,Report+Certificate
+41051.0,Kartoffelkombinat – der Verein e.V.,Peer,M4.1,Standard,23-11-2015,31-12-2015,31-12-2017,712.0,Report+Certificate
+41060.0,Heckel Engineering & Projektdienstleistungen neu,Peer,M4.1,Standard,25-03-2013,30-06-2013,30-06-2015,498.0,Report+Certificate
+14777.0,Waldorfschulverein Freiburg St. Georgen,Peer,M4.1,Standard,06-06-2017,30-05-2017,30-05-2019,777.0,Report+Certificate
+37370.0,Steuerkanzlei Uwe K.Eberhardt,Peer,M4.1,Standard,28-04-2015,31-05-2015,31-05-2017,420.0,Report+Certificate
+41214.0,bio austria – Verein zur Förderung des Biologischen Landbaus,Peer,M4.1,Standard,26-08-2015,30-09-2015,30-09-2017,663.0,Report+Certificate
+18100.0,Kulturquartier Münster GmbH,Peer,M4.1,Standard,31-01-2017,28-02-2017,28-02-2019,707.0,Report+Certificate
+37564.0,Tanzschule Schwebach,Peer,M4.1,Standard,31-05-2013,30-06-2012,30-06-2014,451.0,Report+Certificate
+14694.0,Weiz Stadtmarketing KG,Peer,M4.1,Standard,30-01-2013,30-06-2013,30-06-2015,555.0,Report+Certificate
+14757.0,UnternehmensGrün e.V.,Peer,M4.1,Standard,30-01-2016,31-12-2015,31-12-2017,601.0,Report+Certificate
+41321.0,Café Chrysander,Peer,M5.0,Compact,17-07-2021,31-10-2021,31-10-2023,206.0,Certificate
+41402.0,siebold/hamburg messebau gmbh,Peer,M5.0,Compact,19-07-2021,31-10-2021,31-10-2023,367.0,Certificate
+41522.0,Klima Kontor – Planung und Beratung GmbH,Peer,M5.0,Compact,21-07-2021,31-10-2021,31-10-2023,591.0,Certificate
+44173.0,Pineta Hotels,Peer,M5.0,Full,26-08-2021,,,,Report+Certificate
+44178.0,Sadesign SNC,Peer,M5.0,Full,26-08-2021,12-12-2019,12-12-2021,224.0,Certificate
+44182.0,Monteverde Cooperativa Sociale di Solidarietà – Onlus,Peer,M5.0,Full,26-08-2021,12-05-2021,12-05-2023,452.0,Report+Certificate
+133268.0,STL srl.,Peer,M5.0,Full,26-08-2021,12-05-2021,12-05-2023,318.0,Report+Certificate
+44668.0,A&P Steuerberatungsgesellschaft mbH,Peer,M4.0,Standard,30-06-2012,31-12-2012,31-12-2014,427.0,Report+Certificate
+44670.0,ARGEkultur gemeinnützige GmbH,Peer,M4.1,Standard,29-07-2016,06-09-2016,06-09-2018,521.0,Report+Certificate
+44680.0,BAUMGARTNER & CO GMBH,Peer,M4.1,Standard,30-06-2014,31-12-2014,31-12-2016,331.0,Report+Certificate
+44685.0,BestPractice AG,Peer,M4.1,Standard,28-02-2013,30-12-2013,30-12-2015,269.0,Report+Certificate
+44687.0,BioBauernladen Kremstal GmbH,Peer,M4.1,Standard,14-10-2014,31-03-2015,31-03-2017,645.0,Report+Certificate
+44706.0,Biolandhof Josef Braun,Peer,M4.1,Standard,30-04-2015,30-09-2015,30-09-2017,627.0,Report+Certificate
+44709.0,Bodengraf GmbH,Peer,M4.1,Standard,12-09-2015,30-09-2015,30-09-2017,543.0,Report+Certificate
+44711.0,Service für Haus & Garten Markus Brandl,Peer,M4.0,Standard,08-04-2013,30-04-2013,30-04-2015,501.0,Report+Certificate
+44713.0,Createur de Interieur – Ing. Christian Supola,Peer,M4.1,Standard,24-03-2014,31-03-2014,31-03-2016,484.0,Report+Certificate
+44715.0,De Öko Melkburen GmbH,Peer,M4.1,Standard,31-03-2015,30-04-2015,30-04-2017,531.0,Report+Certificate
+44722.0,DESIGNKRAFT Werbeagentur,Peer,M4.1,Standard,30-06-2015,30-09-2015,30-09-2017,370.0,Report+Certificate
+44724.0,Die Grünen Salzburg,Peer,M4.1,Standard,09-09-2015,30-09-2015,30-09-2017,710.0,Report+Certificate
+44741.0,Die Grünen im Salzburger Landtag,Peer,M4.1,Standard,10-09-2015,30-09-2015,30-09-2017,639.0,Report+Certificate
+44749.0,Die Wohnwerkstatt GmbH – Massivholz – Tischlerei Schallmooser,Peer,M4.1,Standard,09-09-2015,30-09-2015,30-09-2017,762.0,Report+Certificate
+44751.0,Druckerei Nienstedt GmbH,Peer,M4.1,Standard,19-02-2015,30-04-2015,30-04-2017,428.0,Report+Certificate
+44753.0,Fair Handels GmbH,Peer,M4.1,Standard,30-08-2021,15-09-2014,15-09-2016,630.0,Report+Certificate
+44755.0,Ferienhof Möller,Peer,M4.1,Standard,31-03-2015,30-04-2015,30-04-2017,504.0,Report+Certificate
+44757.0,Verein freipflanzen,Peer,M4.1,Standard,31-08-2014,15-09-2014,15-09-2016,616.0,Report+Certificate
+44759.0,GreenPrint Osttirol e. U.,Peer,M4.1,Standard,20-01-2016,31-05-2016,31-05-2018,408.0,Report+Certificate
+44761.0,GRONAU PHOTOGRAPHIE – Brigitte und Emanuel Gronau GbR,Peer,M4.0,Standard,13-03-2013,31-12-2013,31-12-2015,424.0,Report+Certificate
+44765.0,DIE GRÜNEN – GRÜNE ALTERNATIVE TIROL,Peer,M4.0,Standard,15-04-2013,31-12-2013,31-12-2015,718.0,Report+Certificate
+44771.0,Raumausstatter Hegemann,Peer,M4.1,Standard,04-11-2016,28-02-2017,28-02-2019,260.0,Report+Certificate
+44779.0,"Thomas Huber, Bauernhof „Kripp“",Peer,M4.1,Standard,30-08-2014,15-09-2014,15-09-2016,622.0,Report+Certificate
+44781.0,IBOR AG CNC-Zerspanung,Peer,M4.0,Standard,30-04-2013,31-12-2013,31-12-2015,227.0,Report+Certificate
+44783.0,Impact Hub Munich GmbH,Peer,M4.1,Standard,23-11-2015,31-12-2015,31-12-2017,613.0,Report+Certificate
+44785.0,Intercoiffeur Erich,Peer,M4.1,Standard,31-01-2014,08-04-2012,08-04-2014,619.0,Report+Certificate
+44787.0,K.u.F. Drack GmbH & Co KG,Peer,M4.1,Standard,04-11-2014,31-12-2014,31-12-2016,443.0,Report+Certificate
+44803.0,KOCHUNDSIMON GbR,Peer,M4.1,Standard,30-04-2015,31-05-2015,31-05-2017,290.0,Report+Certificate
+44805.0,basilikum – soulfood,Peer,M4.1,Standard,30-11-2016,30-12-2016,30-12-2018,581.0,Report+Certificate
+78890.0,lands,Peer,M5.0,Compact,13-12-2016,28-02-2017,28-02-2019,781.0,Report+Certificate
+44809.0,LANG HOLZWÄRME GMBH,Peer,M4.0,Standard,10-04-2013,30-12-2013,30-12-2015,325.0,Report+Certificate
+44813.0,Eissalon Franz Leonardelli KG,Peer,M4.1,Standard,12-05-2013,30-06-2012,30-06-2014,360.0,Report+Certificate
+44816.0,Jochen Lindenfeld Agentur für Kommunikation,Peer,M4.1,Standard,28-02-2017,30-04-2017,30-04-2019,377.0,Report+Certificate
+44820.0,GÄRTNEREI LÖWENZAHN,Peer,M4.0,Standard,11-03-2013,30-06-2013,30-06-2015,651.0,Report+Certificate
+44823.0,MAKAvA delighted GmbH,Peer,M4.1,Standard,31-05-2014,31-07-2014,31-07-2016,624.0,Report+Certificate
+44825.0,Malermeister Andree Antosch,Peer,M4.1,Standard,30-03-2015,30-04-2015,30-04-2017,300.0,Report+Certificate
+44827.0,MaranVEGAN GmbH,Peer,M4.1,Standard,27-06-2016,31-12-2016,31-12-2018,655.0,Report+Certificate
+44832.0,Meierei Horst eG,Peer,M4.1,Standard,08-04-2015,30-04-2015,30-04-2017,419.0,Report+Certificate
+44845.0,Mercacultura GmbH,Peer,M4.1,Standard,31-05-2014,31-07-2014,31-07-2016,541.0,Report+Certificate
+29734.0,Metzler Käse – Molke GmbH,Peer,M4.1,Standard,18-04-2014,31-05-2014,31-05-2016,568.0,Report+Certificate
+14995.0,Mode & Sport Moreau GesmbH,Peer,M4.1,Standard,01-09-2015,31-10-2015,31-10-2017,384.0,Report+Certificate
+44856.0,klasse idee gGmbH,Peer,M4.1,Standard,15-09-2015,30-09-2014,30-09-2016,462.0,Report+Certificate
+44858.0,Oktoberdruck AG,Peer,M4.1,Standard,10-04-2013,31-12-2013,31-12-2015,557.0,Report+Certificate
+44860.0,OWUS Berlin-Brandenburg e.V.,Peer,M4.1,Standard,18-12-2015,31-12-2015,31-12-2017,522.0,Report+Certificate
+44864.0,PersonalDock GmbH,Peer,M4.1,Standard,28-03-2014,28-02-2014,28-02-2016,421.0,Report+Certificate
+44867.0,Quartiermeister – korrekter Konsum GmbH,Peer,M4.1,Standard,18-12-2015,31-12-2015,31-12-2017,665.0,Report+Certificate
+44869.0,Quatsch mit Soße – Stefanie Griesse,Peer,M4.1,Standard,30-09-2014,30-09-2014,30-09-2016,407.0,Report+Certificate
+44871.0,RABOLD UND CO. e.U.,Peer,M4.1,Standard,30-04-2017,31-05-2017,31-05-2019,495.0,Report+Certificate
+44874.0,ray facility management group Nils Bogdol GmbH,Peer,M4.1,Standard,31-01-2017,28-02-2017,28-02-2019,463.0,Report+Certificate
+44932.0,Biohof Reumann,Peer,M4.0,Standard,09-04-2013,30-06-2013,30-06-2015,603.0,Report+Certificate
+44937.0,Rudolf Steiner Haus Hamburg e.V.,Peer,M4.1,Standard,31-01-2014,28-02-2014,28-02-2016,405.0,Report+Certificate
+44942.0,Schachinger Logistik Holding GmbH,Peer,M4.1,Standard,31-03-2014,31-03-2014,31-03-2016,314.0,Report+Certificate
+44946.0,Schirnhofer Gesellschaft m.b.H.,Peer,M4.1,Standard,30-10-2012,30-06-2013,30-06-2015,442.0,Report
+44949.0,Naturgarten Schönegge Schönegge GmbH,Peer,M4.1,Standard,07-06-2015,31-12-2015,31-12-2017,732.0,Report+Certificate
+44951.0,SPES GmbH,Peer,M4.1,Standard,22-12-2014,30-04-2015,30-04-2017,774.0,Report+Certificate
+44953.0,Sroka Stahl- und Anlagenbau U.G. & Co. KG,Peer,M4.0,Standard,09-03-2013,30-06-2013,30-06-2015,408.0,Report+Certificate
+44955.0,EVA STEIGER NATURGESTALTUNGEN,Peer,M4.0,Standard,10-04-2013,30-12-2013,30-12-2015,526.0,Report+Certificate
+44957.0,Sterntalerhof – Verein für ganzheitliche Lebensbegleitung,Peer,M4.1,Standard,01-03-2014,08-04-2014,08-04-2016,669.0,Report+Certificate
+44959.0,Zentrum Mensch Andrea Stoffers,Peer,M4.1,Standard,12-03-2014,31-03-2014,31-03-2016,494.0,Report+Certificate
+44961.0,sun.e-solution GmbH,Peer,M4.1,Standard,31-01-2016,31-05-2016,31-05-2018,381.0,Report+Certificate
+44963.0,Talents4Good GmbH,Peer,M4.1,Standard,31-07-2014,31-12-2015,31-12-2017,454.0,Report+Certificate
+44965.0,Vorarlberger Gemeindeverband,Peer,M4.1,Standard,30-06-2016,30-09-2016,30-09-2018,767.0,Report+Certificate
+45134.0,Unternehmensberatung & Training Dr. Sukowski,Peer,M4.1,Standard,30-11-2015,31-12-2015,31-12-2017,387.0,Report+Certificate
+45136.0,Volkshilfe Tirol,Peer,M4.0,Standard,22-04-2013,30-06-2013,30-06-2015,504.0,Report+Certificate
+45138.0,Walch Bewegt GmbH,Peer,M4.1,Standard,02-09-2014,31-05-2014,31-05-2016,638.0,Report+Certificate
+45140.0,"wellYunit, Sabine Siehl e.K.",Peer,M4.1,Standard,27-03-2014,28-02-2014,28-02-2016,341.0,Report+Certificate
+45142.0,WirkWandel Impuls GmbH,Peer,M4.1,Standard,30-11-2015,31-12-2015,31-12-2017,487.0,Report+Certificate
+14881.0,Wissenschaftsladen Hannover e.V.,Peer,M4.1,Standard,30-09-2016,30-09-2017,30-09-2019,598.0,Report+Certificate
+45146.0,DAS ZENTRUM – Marietta Sonja Keller,Peer,M4.0,Standard,01-03-2013,30-06-2013,30-06-2015,219.0,Report+Certificate
+45156.0,zimmerwerkstatt Nicola Bannier und Michael Weber,Peer,M4.1,Standard,20-01-2014,28-02-2014,28-02-2016,534.0,Report+Certificate
+45835.0,Meisterfloristik Oberndorf,Peer,M5.0,Full,08-09-2021,30-06-2022,30-06-2024,320.0,Report+Certificate
+45839.0,Soziale Initiative gem. GmbH,Peer,M5.0,Full,08-09-2021,30-06-2022,30-06-2024,603.0,Report+Certificate
+45841.0,Theater ecce,Peer,M5.0,Full,08-09-2021,30-06-2022,30-06-2024,566.0,Report+Certificate
+45871.0,Greenpeace Schweiz,Peer,M5.0,Full,09-09-2021,31-10-2021,31-10-2023,731.0,Report+Certificate
+45874.0,GWÖ Schweiz,Peer,M5.0,Full,09-09-2021,31-10-2021,31-10-2023,656.0,Report+Certificate
+45948.0,Fastenopfer,Peer,M5.0,Compact,10-09-2021,31-10-2021,31-10-2023,544.0,Report+Certificate
+45950.0,Stiftung Praktischer Umweltschutz Schweiz – Pusch,Peer,M5.0,Full,10-09-2021,31-10-2021,31-10-2023,539.0,Report+Certificate
+45955.0,öbu – der Verband für nachhaltiges Wirtschaften (Verein),Peer,M5.0,Compact,10-09-2021,31-10-2021,31-10-2023,452.0,Report+Certificate
+46711.0,Kinder lernen Leben (KileLe) gGmbH,Peer,M5.0,Compact,17-09-2021,31-10-2021,31-10-2023,352.0,Report+Certificate
+46969.0,Ev. Jugendhilfe Geltow,Peer,M5.0,Compact,17-09-2021,31-10-2021,31-10-2023,379.0,Report+Certificate
+46971.0,Ev. Jugendhilfe Bochum,Peer,M5.0,Compact,17-09-2021,31-10-2021,31-10-2023,435.0,Report+Certificate
+46973.0,Ev. Jugendhilfe Münsterland gGmbH,Peer,M5.0,Compact,17-09-2021,31-10-2021,31-10-2023,487.0,Report+Certificate
+46983.0,Diakonieverbund Schweicheln e.V. – Vorstandsbereich und Zentrale Verwaltung,Peer,M5.0,Compact,17-09-2021,31-10-2021,31-10-2023,395.0,Report+Certificate
+46986.0,"abw – gemeinnützige Gesellschaft für Arbeit, Bildung und Wohnen mbH",Peer,M5.0,Compact,17-09-2021,31-10-2021,31-10-2023,358.0,Report+Certificate
+46988.0,Ev. Jugendhilfe Schweicheln,Peer,M5.0,Compact,17-09-2021,31-10-2021,31-10-2023,442.0,Report+Certificate
+47141.0,TOFU Manufaktur Christian Nagel GmbH,Peer,M5.0,Compact,20-09-2021,31-10-2021,31-10-2023,524.0,Certificate
+47812.0,deVega Medien GmbH,Peer,M5.0,Full,27-09-2021,31-10-2021,31-10-2023,256.0,Report+Certificate
+47814.0,Degree Clothing GmbH,Peer,M5.0,Full,27-09-2021,31-10-2021,31-10-2023,342.0,Report+Certificate
+47816.0,Willert Holding GmbH,Peer,M5.0,Full,27-09-2021,31-10-2021,31-10-2023,183.0,Report+Certificate
+48622.0,Medus des Andreas Gögele & Co. KG,Peer,M5.0,Full,07-10-2021,28-02-2020,28-02-2022,249.0,Report+Certificate
+48630.0,MITTELBERGER & CO OHG,Peer,M5.0,Full,07-10-2021,30-12-2018,30-12-2020,482.0,Report+Certificate
+50336.0,Kerstin Trümper Kumaus Projektmanagement & Coaching,Peer,M5.0,Compact,24-10-2021,31-10-2021,31-10-2023,334.0,Report+Certificate
+50520.0,Textlandia Sibylle Reuter,Peer,M5.0,Compact,25-10-2021,31-10-2021,31-10-2023,586.0,Report+Certificate
+53438.0,Reishofers Pasch UG,Peer,M5.0,Compact,26-10-2021,31-10-2021,31-10-2023,242.0,Report+Certificate
+51013.0,GM Software Systeme GmbH,Peer,M5.0,Compact,28-10-2021,31-10-2021,31-10-2023,289.0,Report+Certificate
+52981.0,Lederer Boutique Hotel,Peer,M5.0,Compact,16-11-2021,15-11-2021,15-11-2023,236.0,Report+Certificate
+52985.0,Hotel Melanie GmbH,Peer,M5.0,Compact,16-11-2021,15-11-2021,15-11-2023,331.0,Report+Certificate
+52990.0,Hotel zur Post GmbH,Peer,M5.0,Compact,16-11-2021,15-11-2021,15-11-2023,470.0,Report+Certificate
+52993.0,Geschw. Steiner Felseralm GmbH & Co.KG.,Peer,M5.0,Compact,16-11-2021,15-11-2021,15-11-2023,320.0,Report+Certificate
+55121.0,Beschäftigungsförderung Göttingen (kAöR),Peer,M5.0,Compact,01-12-2021,30-11-2021,30-11-2023,427.0,Report+Certificate
+55125.0,Deutsches Theater in Göttingen GmbH,Peer,M5.0,Compact,01-12-2021,30-11-2021,30-11-2023,426.0,Report+Certificate
+55127.0,Kommunale Dienste Göttingen (KDG) kAöR,Peer,M5.0,Compact,01-12-2021,30-11-2021,30-11-2023,342.0,Report+Certificate
+55129.0,Seniorenzentrum Göttingen gGmbH,Peer,M5.0,Compact,01-12-2021,30-11-2021,30-11-2023,360.0,Report+Certificate
+55981.0,Ernährungs-Vitalstoffberatung Lydia Zahn,Peer,M5.0,Full,08-12-2021,21-12-2021,21-12-2023,306.0,Report+Certificate
+55987.0,Die Praxis – Maya Heinrichmeier,Peer,M5.0,Full,08-12-2021,21-12-2021,21-12-2023,418.0,Report+Certificate
+56033.0,Sempact AG,Peer,M5.0,Full,08-12-2021,21-12-2021,21-12-2023,310.0,Report+Certificate
+56298.0,Hotel Grafenast GmbH,Peer,M5.0,Full,11-12-2021,24-01-2022,24-01-2024,424.0,Report+Certificate
+56300.0,Biohotel Stillebach GmbH & CoKG,Peer,M5.0,Full,11-12-2021,24-01-2022,24-01-2024,421.0,Report+Certificate
+56302.0,Hotel Leutascherhof – Wandl OHG,Peer,M5.0,Full,11-12-2021,24-01-2022,24-01-2024,409.0,Certificate
+56307.0,Biohotel Rupertus GmbH & CoKG,Peer,M5.0,Compact,11-12-2021,31-12-2021,31-12-2023,459.0,Report+Certificate
+56309.0,Hotel Steineggerhof Resch Kurt & CoKG,Peer,M5.0,Compact,11-12-2021,31-12-2021,31-12-2023,419.0,Report+Certificate
+56311.0,Biohotel Bergkristall,Peer,M5.0,Compact,11-12-2021,31-12-2021,31-12-2023,415.0,Report+Certificate
+56313.0,Naturresort Gerbehof,Peer,M5.0,Compact,11-12-2021,31-12-2021,31-12-2023,536.0,Report+Certificate
+56526.0,Breinlinger Ingenieure,Peer,M5.0,Compact,14-12-2021,31-12-2021,31-12-2023,496.0,Certificate
+56534.0,Kloster Kirchberg – Berneuchener Verein,Peer,M5.0,Compact,14-12-2021,,,,
+56536.0,Mutpol – Diakonische Jugendhilfe Tuttlingen,Peer,M5.0,Compact,14-12-2021,,,,
+52502.0,Baril Coatings,Peer,M5.0,Compact,28-12-2021,31-01-2021,31-01-2023,413.0,Certificate
+59391.0,No Time To Waste (Snew),Peer,M5.0,Compact,07-01-2022,31-01-2021,31-01-2023,688.0,Certificate
+59402.0,Parktheater Eindhoven,Peer,M5.0,Compact,07-01-2022,,,,
+62100.0,TESD GmbH,Peer,M5.0,Full,28-01-2022,31-10-2022,31-10-2024,532.0,Certificate
+62102.0,lahaye tiedemann gestalten GbR,Peer,M5.0,Full,28-01-2022,31-10-2022,31-10-2024,595.0,Certificate
+62105.0,BOS Balance of Storage Systems,Peer,M5.0,Full,28-01-2022,31-10-2022,31-10-2024,218.0,Certificate
+,datracon GmbH & Co. KG,Peer,M5.0,Full,28-01-2022,31-10-2022,31-10-2024,,Certificate
+,ICF Germany Charter Chapter e.V,Peer,M5.0,Full,28-01-2022,31-10-2022,31-10-2024,,Certificate
+62183.0,Uitgeverij Genoeg,Peer,M5.0,Compact,28-01-2022,,,,
+64591.0,PRO-PLAN GmbH,Peer,M5.0,Compact,15-02-2022,30-11-2022,30-11-2024,370.0,Certificate
+64599.0,Bio Metzgerei Juffinger GmbH,Peer,M5.0,Compact,15-02-2022,30-11-2022,30-11-2024,504.0,Certificate
+64601.0,Dödlinger Touristik GmbH,Peer,M5.0,Compact,15-02-2022,30-11-2022,30-11-2024,277.0,Certificate
+64664.0,Onze-Lieve-Vrouwekathedraal Antwerpen,Peer,M5.0,Compact,15-02-2022,30-06-2022,30-06-2024,326.0,Report+Certificate
+64666.0,de Koer,Peer,M5.0,Compact,15-02-2022,30-06-2022,30-06-2024,546.0,Report+Certificate
+64668.0,Campus National,Peer,M5.0,Compact,15-02-2022,30-06-2022,30-06-2024,524.0,Report+Certificate
+64670.0,Maria-Elisabeth Belpaire,Peer,M5.0,Compact,15-02-2022,30-06-2022,30-06-2024,531.0,Report+Certificate
+76896.0,International School Augsburg -ISA- gAG,Peer,M5.0,Full,23-05-2022,31-01-2023,31-01-2025,278.0,Certificate
+76898.0,Team23 GmbH,Peer,M5.0,Full,23-05-2022,31-01-2023,31-01-2025,265.0,Certificate
+,IBB Ingenieurbüro Bernstetter,Peer,M5.0,Full,24-05-2022,30-06-2022,30-06-2024,,Report+Certificate
+14960.0,Gerlinde Lamberty,Peer,M5.0,Full,24-05-2022,01-06-2022,01-06-2024,568.0,Report+Certificate
+77329.0,Haus Luise,Peer,M5.0,Full,29-05-2022,31-07-2022,31-07-2024,496.0,Certificate
+77336.0,Werner Furtner Consulting,Peer,M5.0,Full,29-05-2022,30-06-2022,30-06-2024,461.0,Report+Certificate
+78313.0,Allgäu Batterie GmbH & Co. KG,Peer,M5.0,Full,08-06-2022,31-07-2022,31-07-2024,266.0,Report+Certificate
+36662.0,Reinhard Decker Unternehmensberater,Peer,M5.0,Compact,09-06-2022,30-11-2022,30-11-2024,433.0,Certificate
+78430.0,müller ofenbau gmbh,Peer,M5.0,Compact,09-06-2022,30-11-2022,30-11-2024,336.0,Certificate
+78432.0,TECTUM GmbH,Peer,M5.0,Compact,09-06-2022,30-11-2022,30-11-2024,297.0,Certificate
+78890.0,lands,Peer,M5.0,Compact,13-06-2022,31-07-2022,31-07-2024,626.0,Certificate
+79370.0,Anne Berg – Bewusster Wandel,Peer,M5.0,Compact,17-06-2022,31-07-2022,31-07-2024,509.0,Certificate
+80060.0,"MehrWert GmbH für Finanzberatung und Vermittlung, Bamberg",Peer,M5.0,Compact,31-10-2022,31-10-2022,31-10-2024,325.0,Report+Certificate
+80062.0,"Ökokiste Schwarzach e.K., Schwarzach a. Main",Peer,M5.0,Compact,31-10-2022,31-10-2022,31-10-2024,424.0,Report+Certificate
+80067.0,Radius UG Fahrradkurier,Peer,M5.0,Compact,05-11-2022,31-10-2022,31-10-2024,426.0,Report+Certificate
+80072.0,"MINOVA Information Services GmbH, Würzburg",Peer,M5.0,Compact,02-11-2022,31-10-2022,31-10-2024,221.0,Report+Certificate
+80263.0,Barghorn GmbH & Co. KG,Peer,M5.0,Compact,26-06-2022,31-12-2022,31-12-2024,707.0,Report+Certificate
+80265.0,Artist MesseService und -Bau GmbH & Co. KG,Peer,M5.0,Compact,26-06-2022,31-12-2022,31-12-2024,584.0,Report+Certificate
+80267.0,Edition Progris,Peer,M5.0,Compact,26-06-2022,31-12-2022,31-12-2024,488.0,Report+Certificate
+80269.0,IB Bernsteinzimmer Immobilienverwaltung GmbH,Peer,M5.0,Compact,26-06-2022,31-12-2022,31-12-2024,757.0,Report+Certificate
+80677.0,Imdahl-Institut,Peer,M5.0,Compact,28-06-2022,31-07-2022,31-07-2024,448.0,Certificate
+82861.0,Volkshochschule & Sing- und Musikschule Kempten (Allgäu)  und nördlicher Teil des Landkreises Oberallgäu e.V.,Peer,M5.0,Full,08-07-2022,31-07-2022,31-07-2024,446.0,Report+Certificate
+82864.0,ANWANDER (Anwander GmbH & Co. KG / Anwander-Waldmann GmbH & Co. KG),Peer,M5.0,Full,08-07-2022,31-07-2022,31-07-2024,257.0,Report+Certificate
+82868.0,Gemeinschaft Sulzbrunn eG,Peer,M5.0,Full,08-07-2022,31-07-2022,31-07-2024,445.0,Report+Certificate
+82902.0,renergie Allgäu e.V.,Peer,M5.0,Full,08-07-2022,31-07-2022,31-07-2024,567.0,Report+Certificate
+82906.0,Lebenshilfe Ostallgäu-Kaufbeuren e.V.,Peer,M5.0,Full,08-07-2022,31-07-2022,31-07-2024,374.0,Report+Certificate
+82913.0,Naturpark Nagelfluhkette e.V.,Peer,M5.0,Full,08-07-2022,31-07-2022,31-07-2024,371.0,Report+Certificate
+82924.0,Biohof Lecker GbR,Peer,M5.0,Full,08-07-2022,31-12-2022,31-12-2024,358.0,Certificate
+82926.0,Grünland der Bioladen,Peer,M5.0,Full,08-07-2022,31-12-2022,31-12-2024,327.0,Report+Certificate
+83190.0,Kollar GmbH,Peer,M5.0,Full,11-07-2022,30-11-2022,30-11-2024,557.0,Report+Certificate
+83220.0,upDATE Gesellschaft für Beratung und Training mbH,Peer,M5.0,Compact,11-07-2022,30-09-2022,30-09-2024,287.0,Report+Certificate
+83223.0,Institut für Nachhaltigkeit – Institute for Sustainability,Peer,M5.0,Compact,11-07-2022,30-09-2022,30-09-2024,390.0,Report+Certificate
+83226.0,Kieferorthopädie Löwenzahn,Peer,M5.0,Compact,11-07-2022,30-09-2022,30-09-2024,107.0,Report+Certificate
+83738.0,RÖSTTROMMEL GMBH KAFFEERÖSTEREI,Peer,M5.0,Compact,13-07-2022,30-09-2022,30-09-2024,154.0,Report+Certificate
+83967.0,Evelyn Peppler,Peer,M5.0,Compact,16-07-2022,31-08-2022,31-08-2024,365.0,Report+Certificate
+83986.0,BLANK_CANVAS,Peer,M5.0,Compact,16-07-2022,31-08-2022,31-08-2024,288.0,Report+Certificate
+83988.0,EcoEmbassy,Peer,M5.0,Compact,16-07-2022,31-08-2022,31-08-2024,217.0,Report+Certificate
+84520.0,"becker druck, F.W. Becker GmbH",Peer,M5.0,Compact,24-07-2022,31-12-2022,31-12-2024,254.0,Report+Certificate
+84555.0,Caritasverband Arnsberg-Sundern e.V.,Peer,M5.0,Compact,25-07-2022,31-12-2022,31-12-2024,324.0,Report+Certificate
+84568.0,Ökokiste Bosshammersch Hof,Peer,M5.0,Compact,25-07-2022,31-12-2022,31-12-2024,668.0,Report+Certificate
+84571.0,Big Picture Consulting GmbH,Peer,M5.0,Full,25-07-2022,31-07-2022,31-07-2024,168.0,Report+Certificate
+84610.0,Content5 AG,Peer,M5.0,Full,25-07-2022,31-07-2022,31-07-2024,243.0,Report+Certificate
+84747.0,forStory GmbH,Peer,M5.0,Full,26-07-2022,31-07-2022,31-07-2024,344.0,Certificate
+84749.0,NEST Architekten GbR,Peer,M5.0,Full,26-07-2022,31-07-2022,31-07-2024,395.0,Report+Certificate
+84783.0,Hotel & Restaurant Menge,Peer,M5.0,Compact,26-07-2022,31-12-2022,31-12-2024,305.0,Report+Certificate
+85041.0,"Berglandkräuter aus Hessen, M. Rehs & U. Kern GbR",Peer,M5.0,Compact,28-07-2022,31-12-2022,31-12-2024,492.0,Report+Certificate
+85214.0,Bioland Lammertzhof – Fam. Hannen GbR,Peer,M5.0,Compact,01-08-2022,31-12-2022,31-12-2024,661.0,Report+Certificate
+85360.0,Markt5- Der regionale Concept Store,Peer,M5.0,Compact,02-08-2022,31-12-2022,31-12-2024,255.0,Report+Certificate
+85412.0,Bioladen Regenbogen Thomas Wälter,Peer,M5.0,Compact,03-08-2022,31-12-2022,31-12-2024,306.0,Report+Certificate
+87387.0,Blackroll AG,Peer,M5.0,Compact,11-08-2022,24-08-2022,24-08-2024,296.0,Report+Certificate
+87389.0,Rolf Schanz Gmbh – Schanz Bänder,Peer,M5.0,Compact,11-08-2022,,,,
+87391.0,Strobel AG,Peer,M5.0,Compact,11-08-2022,25-08-2022,25-08-2024,369.0,Report+Certificate
+87407.0,Caritasverband Paderborn e.V.,Peer,M5.0,Compact,12-08-2022,31-08-2022,31-08-2024,379.0,Certificate
+87410.0,GAB Gesellschaft für Arbeits- und Berufsförderung Bielefeld mbH.,Peer,M5.0,Compact,12-08-2022,31-08-2022,31-08-2024,271.0,Certificate
+87413.0,Schloss Hamborn Rudolf Steiner Werkgemeinschaft e.V.,Peer,M5.0,Compact,12-08-2022,31-08-2022,31-08-2024,574.0,Certificate
+87416.0,Struck-Leuchten GmbH & Co. KG,Peer,M5.0,Compact,12-08-2022,31-08-2022,31-08-2024,227.0,Certificate
+90060.0,Bureau SoSo – Nachhaltiges Grafikdesign,Peer,M5.0,Compact,06-09-2022,31-03-2023,31-03-2025,382.0,Report+Certificate
+90090.0,Simon Veith | Nachhaltige Fotografie,Peer,M5.0,Compact,06-09-2022,31-03-2023,31-03-2025,482.0,Report+Certificate
+90359.0,Schwarzer Business Quality,Peer,M5.0,Compact,08-09-2022,31-10-2022,31-10-2024,246.0,Report+Certificate
+90581.0,Dr. Dr. Behrens Beratung Coaching Training,Peer,M5.0,Compact,11-09-2022,31-10-2022,31-10-2024,222.0,Report+Certificate
+90787.0,BMR Human Resources Interim Management,Peer,M5.0,Compact,13-09-2022,31-10-2022,31-10-2024,209.0,Report+Certificate
+90809.0,Carry Products GmbH,Peer,M5.0,Compact,13-09-2022,31-08-2022,31-08-2024,488.0,Report+Certificate
+90814.0,REUTER × BOBETH,Peer,M5.0,Compact,13-09-2022,31-08-2022,31-08-2024,412.0,Report+Certificate
+90816.0,BRILLENkammer,Peer,M5.0,Compact,13-09-2022,31-08-2022,31-08-2024,472.0,Report+Certificate
+90862.0,Pro Raum GmbH,Peer,M5.0,Compact,13-09-2022,31-03-2023,31-03-2025,319.0,Report+Certificate
+,Enreda,Peer,M5.0,Full,01-11-2019,,,,
+,WeWater,Peer,M5.0,Full,03-11-2020,,,,
+,Circuitos Aljarafe,Peer,M5.0,Full,04-11-2019,,,,
+,Ruth Palomero S.L.,Peer,M5.0,Full,04-11-2019,,,,
+,INFORATGE S.C,Peer,M5.0,Full,04-11-2019,,,,
+,HELIA Cooperativa Valenciana,Peer,M5.0,Full,04-11-2019,,,,
+,ETIC OnLine S.L.,Peer,M5.0,Full,04-11-2019,,,,
+,Lago Becu SL,Peer,M5.0,Full,06-10-2023,,,,
+,Horta de Rajolar,Peer,M5.0,Full,06-11-2019,,,,
+,Piben Fruits,Peer,M5.0,Full,06-11-2019,,,,
+,Bioproducts,Peer,M5.0,Full,06-11-2019,,,,
+92361.0,"Action Waterscape, S.L.",Peer,M5.0,Full,10-03-2016,,,,
+92363.0,Cuinatur,Peer,M5.0,Full,10-12-2019,,,,
+92365.0,Grupo La Plana,Peer,M5.0,Full,10-12-2019,,,,
+92367.0,Hotel Voramar,Peer,M5.0,Full,10-12-2019,,,,
+,Green Urban Data SL,Peer,M5.0,Full,13-10-2021,,,,
+,Arca de Babel S.L,Peer,M5.0,Full,14-10-2020,,,,
+,Agricología José Manuel Bisetto,Peer,M5.0,Full,14-11-2019,,,,
+,Viña ecológica Miguel Poveda Justamante,Peer,M5.0,Full,14-11-2019,,,,
+,Grasaica S.L.,Peer,M5.0,Full,15-03-2021,,,,
+,Buscándome Las Habichuelas (BLH),Peer,M5.0,Full,15-03-2021,,,,
+,Escuela Ideo,Peer,M5.0,Full,16-11-2018,,,,
+,Urbaser S.A,Peer,M5.0,Full,18-02-2019,,,,
+,GAE comunidades,Peer,M5.0,Full,18-02-2019,,,,
+,Chocolates Artesanos Isabel,Peer,M5.0,Full,18-07-2018,,,,
+,AFEF-EBC,Peer,M5.0,Full,18-09-2020,,,,
+,Asociación Traperos de Emaús Murcia,Peer,M5.0,Full,18-09-2020,,,,
+92393.0,Biotremol,Peer,M5.0,Full,19-10-2020,,,,
+,Eco Invéntame,Peer,M5.0,Full,19-10-2020,,,,
+,Espais per conviure,Peer,M5.0,Full,19-10-2020,,,,
+,Natura cultura y servicios ambientales S.L.,Peer,M5.0,Full,20-10-2020,,,,
+,Produccions Metrònoms S.L.,Peer,M5.0,Full,20-10-2020,,,,
+92403.0,Coworking Nomad,Peer,M5.0,Full,22-03-2022,,,,
+,Seco Durán S.L.,Peer,M5.0,Full,22-03-2022,,,,
+,SAPIENS ENERGÍA COOP. V.,Peer,M5.0,Full,22-10-2021,,,,
+,CREARQCIO COOP. V,Peer,M5.0,Full,22-10-2021,,,,
+,Iniciativas industriales de Tenerife Siglo XXI S.l,Peer,M5.0,Full,26-02-2019,,,,
+,Astrotouristing,Peer,M5.0,Full,26-02-2019,,,,
+,Shine Psicología y Coaching S.L,Peer,M5.0,Full,26-02-2019,,,,
+92403.0,Coworking Nomad,Peer,M5.0,Full,26-02-2019,,,,
+,Crowd Spain S.L,Peer,M5.0,Full,26-02-2019,,,,
+,Agresta Soc. Cooperativa,Peer,M5.0,Full,26-02-2019,,,,
+,Playamar y Turismo,Peer,M5.0,Full,26-02-2019,,,,
+,Guia Natura Eco Tourism,Peer,M5.0,Full,26-02-2019,,,,
+,El Sol es vida,Peer,M5.0,Full,26-02-2019,,,,
+,Mª Jesús Pérez Domínguez,Peer,M5.0,Full,26-02-2019,,,,
+,Solange A. Ottonello Tuya,Peer,M5.0,Full,26-02-2019,,,,
+,ISABA PROJETS S.A.,Peer,M5.0,Full,27-10-2021,,,,
+92435.0,IMPRESUM GRAFICAS LITOLEMAS.L.,Peer,M5.0,Full,27-10-2021,,,,
+,Club de Fútbol Popular Orihuela Deportiva,Peer,M5.0,Full,27-11-2021,,,,
+,Trasub La Vila S.L.,Peer,M5.0,Full,27-12-2021,,,,
+,Seniors Vida Sostenible,Peer,M5.0,Full,30-10-2018,,,,
+,Altur coop,Peer,M5.0,Full,30-10-2018,,,,
+,La Urdimbre,Peer,M5.0,Full,30-10-2019,,,,
+92367.0,Hotel Voramar,Peer,M5.0,Full,30-11-2019,,,,
+92363.0,Cuinatur,Peer,M5.0,Full,30-11-2019,,,,
+,Pou de Beca,Peer,M5.0,Full,30-11-2019,,,,
+,Supernaranjas,Peer,M5.0,Full,30-11-2019,,,,
+,Aplicaciones Industriales Valencianas S.L.,Peer,M5.0,Full,30-11-2019,,,,
+92457.0,Animación y logística cultural S.L.U.,Peer,M5.0,Full,30-11-2019,,,,
+92608.0,beckers bester GmbH,Peer,M5.0,Compact,26-09-2022,31-10-2022,31-10-2024,255.0,Report+Certificate
+92832.0,Naturkost Elkershausen GmbH,Peer,M5.0,Compact,28-09-2022,31-10-2022,31-10-2024,421.0,Report+Certificate
+92844.0,Zimmerei Erhard Diedrich GmbH,Peer,M5.0,Compact,28-09-2022,31-10-2022,31-10-2024,282.0,Report+Certificate
+93873.0,Lotta Karotta Bio-Lieferservice OHG,Peer,M5.0,Compact,05-10-2022,31-10-2022,31-10-2024,411.0,Report+Certificate
+93954.0,Schöberl & Pöll GmbH,Peer,M5.0,Full,06-10-2022,30-11-2022,30-11-2024,568.0,Report+Certificate
+93957.0,"Alpenland Gemeinnützige Bau-, Wohn- und Siedlungsgenossenschaft reg.Gen.m.b.H.",Peer,M5.0,Full,06-10-2022,30-11-2022,30-11-2024,444.0,Report+Certificate
+93959.0,ConPlusUltra GmbH,Peer,M5.0,Full,06-10-2022,30-11-2022,30-11-2024,487.0,Report+Certificate
+93961.0,da-ka hausbetreuungs GmbH,Peer,M5.0,Full,06-10-2022,30-11-2022,30-11-2024,571.0,Report+Certificate
+19686.0,Lux Bau GmbH,Peer,M5.0,Full,10-10-2022,30-11-2022,30-11-2024,498.0,Report+Certificate
+96610.0,peppair GmbH,Peer,M5.0,Full,31-10-2022,31-01-2023,31-01-2025,138.0,Report+Certificate
+40983.0,Bioland e.V.,Peer,M5.0,Full,31-10-2022,31-01-2023,31-01-2025,481.0,Report+Certificate
+96622.0,Steuerkanzlei Pfann,Peer,M5.0,Full,31-10-2022,31-01-2023,31-01-2025,189.0,Report+Certificate
+96971.0,fair:möbeln,Peer,M5.0,Compact,05-11-2022,31-12-2022,31-12-2024,326.0,Report+Certificate
+96973.0,Steuerberatungskanzlei Berkelmann,Peer,M5.0,Compact,05-11-2022,31-12-2022,31-12-2024,221.0,Report+Certificate
+96975.0,PRÄSENTATIONSWERK,Peer,M5.0,Compact,05-11-2022,31-12-2022,31-12-2024,371.0,Report+Certificate
+97748.0,Hofbauernhof Laden GbR,Peer,M5.0,Full,11-11-2022,31-12-2022,31-12-2024,315.0,Certificate
+101017.0,Flotte Karotte,Peer,M5.0,Full,08-12-2022,08-12-2022,08-12-2024,402.0,Report+Certificate
+101028.0,Ökokiste Kößnach GmbH & Co. KG,Peer,M5.0,Full,08-12-2022,31-12-2022,31-12-2024,296.0,Certificate
+101128.0,HPP,Peer,M5.0,Compact,09-12-2022,31-12-2022,31-12-2024,21.0,Report+Certificate
+101562.0,Sommerland YogaKultur Erbach,Peer,M5.0,Compact,15-12-2022,31-07-2023,31-07-2025,255.0,Report+Certificate
+101568.0,iCONDU GmbH,Peer,M5.0,Compact,15-12-2022,31-07-2023,31-07-2025,420.0,Report+Certificate
+101570.0,SPINDLER Dachdeckerei-Spenglerei GmbH,Peer,M5.0,Compact,15-12-2022,31-07-2023,31-07-2025,229.0,Report+Certificate
+101572.0,w e i s s Architekten,Peer,M5.0,Compact,15-12-2022,31-07-2023,31-07-2025,274.0,Report+Certificate
+104183.0,Bernd Hümmer (freiberufliche Tätigkeit),Peer,M5.0,Full,09-01-2023,31-07-2023,31-07-2025,416.0,Report+Certificate
+104921.0,Mag. Daniela Christine Schwaiger,Peer,M5.0,Compact,16-01-2023,28-09-2023,28-09-2025,440.0,Report+Certificate
+109043.0,ASC Göttingen von 1846 e.V.,Peer,M5.0,Compact,08-02-2023,28-02-2024,28-02-2026,474.0,Certificate
+110900.0,Göttinger Sport- und Freizeit Verwaltungs GmbH,Peer,M5.0,Full,20-02-2023,28-02-2024,28-02-2026,335.0,Certificate
+111111.0,Fegerl Consulting Studio Salzburg,Peer,M5.0,Full,21-02-2023,28-02-2023,28-02-2025,299.0,Certificate
+14947.0,Harald Thurner,Peer,M5.0,Full,22-02-2023,28-02-2023,28-02-2025,251.0,Report+Certificate
+40970.0,b.it GmbH,Peer,M5.0,Full,22-02-2023,28-02-2023,28-02-2025,598.0,Report+Certificate
+14944.0,Sabine Lehner – MARKENwerkstatt,Peer,M5.0,Full,22-02-2023,28-02-2023,28-02-2025,406.0,Report+Certificate
+111664.0,Pro Basketball Göttingen GmbH,Peer,M5.0,Compact,24-02-2023,,,,
+111946.0,Wino Biolandbau GmbH&Co.KG,Peer,M5.0,Compact,27-02-2023,31-07-2023,31-07-2025,520.0,Report+Certificate
+111948.0,Bibernelle Bio-Lieferdienst,Peer,M5.0,Compact,27-02-2023,31-07-2023,31-07-2025,492.0,Report+Certificate
+112044.0,Kissing und Team GmbH & CO KG,Peer,M5.0,Full,27-02-2023,30-09-2023,30-09-2025,318.0,Report+Certificate
+112046.0,Stadtwerke Menden GmbH,Peer,M5.0,Full,27-02-2023,25-09-2023,25-09-2025,343.0,Report+Certificate
+112674.0,Oasia GbR,Peer,M5.0,Compact,02-03-2023,31-03-2023,31-03-2025,516.0,Certificate
+112793.0,Willmes und Partner,Peer,M5.0,Full,03-03-2023,25-09-2023,25-09-2025,263.0,Report+Certificate
+112820.0,Lehm-Laden GmbH & Co. KG,Peer,M5.0,Compact,03-03-2023,31-03-2023,31-03-2025,651.0,Report+Certificate
+112863.0,Hof am Weiher AG und Öko- Marktgemeinschaft Saar-Pfalz-Hunsrück GmbH,Peer,M5.0,Compact,04-03-2023,30-06-2023,30-06-2025,644.0,Report+Certificate
+113802.0,Hitzacker/Dorf eG,Peer,M5.0,Compact,09-03-2023,31-03-2023,31-03-2025,714.0,Report+Certificate
+115469.0,WERKHAUS Design + Produktion GmbH,Peer,M5.0,Compact,16-03-2023,31-03-2023,31-03-2025,568.0,Certificate
+115472.0,Thomas Schanz Solutions,Peer,M5.0,Compact,16-03-2023,30-06-2023,30-06-2025,481.0,Report+Certificate
+115631.0,Schütte Baumarkt GmbH & Roggan KG,Peer,M5.0,Compact,17-03-2023,31-03-2023,31-03-2025,316.0,Certificate
+35307.0,"Stimmumschwung, Hayo Keckeis, Wilhermsdorf",Peer,M5.0,Compact,23-03-2023,30-09-2023,30-09-2025,248.0,Report+Certificate
+35292.0,"Meister Küfner Nusseckenmanufaktur, Nürnberg",Peer,M5.0,Compact,23-03-2023,30-09-2023,30-09-2025,368.0,Report+Certificate
+35296.0,"FARCAP Faire Mode gGmbH, Fürth",Peer,M5.0,Compact,23-03-2023,30-09-2023,30-09-2025,647.0,Report+Certificate
+35273.0,"Theater Salz+Pfeffer, Nürnberg",Peer,M5.0,Compact,23-03-2023,30-09-2023,30-09-2025,447.0,Report+Certificate
+23246.0,GeoTeam Gesellschaft für umweltgerechte Land- und Wasserwirtschaft mbH,Peer,M5.0,Compact,23-03-2023,30-09-2023,30-09-2025,464.0,Report+Certificate
+118507.0,SK SESSELKAMPAGNE GmbH,Peer,M5.0,Compact,31-03-2023,31-03-2023,31-03-2025,355.0,Report+Certificate
+118847.0,"Haus Dschulnigg, Annemarie Kerrer",Peer,M5.0,Full,03-04-2023,30-04-2023,30-04-2025,354.0,Report+Certificate
+118849.0,Zentrum Zeitgenössischer Musik – Kunsthaus Nexus,Peer,M5.0,Full,03-04-2023,30-04-2023,30-04-2025,385.0,Report+Certificate
+118851.0,Rieder.Steuer.Beratung,Peer,M5.0,Full,03-04-2023,30-04-2023,30-04-2025,405.0,Report+Certificate
+14816.0,CMP Competent Management Partners AG,Peer,M5.0,Compact,05-04-2023,30-06-2023,30-06-2025,549.0,Report+Certificate
+124336.0,Christine Ehlers-werterleben,Peer,M5.0,Compact,08-05-2023,31-08-2023,31-08-2025,313.0,Certificate
+124365.0,Business-health,Peer,M5.0,Compact,08-05-2023,31-08-2023,31-08-2025,313.0,Certificate
+124367.0,blueContec GmbH,Peer,M5.0,Compact,08-05-2023,31-08-2023,31-08-2025,252.0,Certificate
+124369.0,Maßstab Diamant GmbH,Peer,M5.0,Compact,08-05-2023,31-08-2023,31-08-2025,193.0,Certificate
+124371.0,senne products GmbH,Peer,M5.0,Compact,08-05-2023,31-08-2023,31-08-2025,261.0,Certificate
+124375.0,SOLVIS GmbH,Peer,M5.0,Compact,08-05-2023,31-08-2023,31-08-2025,224.0,Certificate
+124379.0,Planungsbüro Drobka GmbH,Peer,M5.0,Compact,08-05-2023,31-08-2023,31-08-2025,95.0,Certificate
+124386.0,Flower Factory,Peer,M5.0,Compact,08-05-2023,31-08-2023,31-08-2025,253.0,Certificate
+124473.0,Gräflich Bernstorff´sche Betriebe,Peer,M5.0,Compact,08-05-2023,31-03-2023,31-03-2025,558.0,Report+Certificate
+124478.0,make world wonder,Peer,M5.0,Compact,08-05-2023,31-08-2023,31-08-2025,245.0,Certificate
+124481.0,Zahnarztpraxis am Kreuzberg,Peer,M5.0,Compact,08-05-2023,31-08-2023,31-08-2025,289.0,Certificate
+124485.0,UnternehmensSinn PartG,Peer,M5.0,Compact,08-05-2023,,,,
+124487.0,camera obscura GmbH,Peer,M5.0,Compact,08-05-2023,31-08-2023,31-08-2025,202.0,Certificate
+124736.0,Rauszeit Agentur,Peer,M5.0,Compact,10-05-2023,30-06-2023,30-06-2025,520.0,Report+Certificate
+,Andreas Bachofner GmbH,Peer,M5.0,Compact,10-05-2023,30-06-2023,30-06-2025,,Report+Certificate
+125273.0,Gesellschaft für Wirtschaftsförderung und Stadtentwicklung Göttingen mbH,Peer,M5.0,Compact,11-05-2023,28-02-2024,28-02-2026,391.0,Certificate
+126462.0,Annemarie Bink und Fiona Brinker GbR,Peer,M5.0,Full,23-05-2023,31-07-2023,31-07-2025,305.0,Certificate
+126876.0,rebio Regionale BIOLAND-Erzeugergemeinschaft GmbH,Peer,M5.0,Compact,26-05-2023,09-08-2023,09-08-2025,435.0,Report+Certificate
+127384.0,Blackbit digital Commerce GmbH,Peer,M5.0,Compact,01-06-2023,,,,
+127441.0,Bio-Landgut Fleisch EZG GmbH,Peer,M5.0,Compact,01-06-2023,09-08-2023,09-08-2025,389.0,Report+Certificate
+127444.0,silberzebra gmbh,Peer,M5.0,Compact,01-06-2023,09-08-2023,09-08-2025,253.0,Certificate
+127451.0,Robi Wache Architekten GmbH,Peer,M5.0,Compact,01-06-2023,09-08-2023,09-08-2025,340.0,Report+Certificate
+127454.0,pro… gemeinsam bauen und leben eG,Peer,M5.0,Compact,01-06-2023,09-08-2023,09-08-2025,322.0,Report+Certificate
+127545.0,LichteGeschichte,Peer,M5.0,Compact,02-06-2023,28-09-2023,28-09-2025,314.0,Report+Certificate
+127566.0,Dalitz Immobilien GmbH,Peer,M5.0,Compact,02-06-2023,31-05-2023,31-05-2025,340.0,Report+Certificate
+129564.0,Drachenstube,Peer,M5.0,Full,13-06-2023,31-12-2023,31-12-2025,186.0,Certificate
+129566.0,Interfacewerk GmbH,Peer,M5.0,Full,13-06-2023,31-12-2023,31-12-2025,502.0,Certificate
+129576.0,Netzwert Partner GmbH,Peer,M5.0,Full,13-06-2023,31-12-2023,31-12-2025,368.0,Certificate
+129590.0,OH LA LAQUA GmbH,Peer,M5.0,Full,13-06-2023,31-12-2023,31-12-2025,168.0,Certificate
+129593.0,STUDIO | STADT | REGION – Förster Kurz Architekten & Stadtplaner Partnerschaft mbB,Peer,M5.0,Full,13-06-2023,31-12-2023,31-12-2025,414.0,Certificate
+129596.0,TARABAO Bio.Fair.Direkt GmbH,Peer,M5.0,Full,13-06-2023,31-12-2023,31-12-2025,345.0,Certificate
+129598.0,Secur Solutions GmbH,Peer,M5.0,Full,13-06-2023,31-12-2023,31-12-2025,180.0,Certificate
+129757.0,Stiftung Gemeinwohl-Ökonomie NRW,Peer,M5.0,Compact,14-06-2023,,,,
+129947.0,Backwarenbetriebe Herbert Nelles OHG,Peer,M5.0,Compact,15-06-2023,31-05-2023,31-05-2025,256.0,Report+Certificate
+130169.0,Das Gemüseabo Max Apfelbacher,Peer,M5.0,Compact,17-06-2023,31-05-2023,31-05-2025,440.0,Report+Certificate
+130850.0,Elbers Hof GmbH & Co.KG,Peer,M5.0,Compact,21-06-2023,31-07-2023,31-07-2025,535.0,Report+Certificate
+131810.0,Elektrizitätswerk Hindelang e.G.,Peer,M5.0,Full,29-06-2023,,,,
+131820.0,Städtische Forggensee-Schifffahrt Füssen Eigenbetrieb der Stadt Füssen,Peer,M5.0,Full,29-06-2023,31-07-2023,31-07-2025,215.0,Certificate
+131825.0,Hotel-Restaurant Adler e.K.,Peer,M5.0,Full,29-06-2023,31-07-2023,31-07-2025,196.0,Certificate
+131829.0,Ingenieurbüro Mayer AG,Peer,M5.0,Full,29-06-2023,,,,
+131833.0,Kurbetriebe Oberstdorf,Peer,M5.0,Full,29-06-2023,31-07-2023,31-07-2025,201.0,Certificate
+131835.0,Tourismusverband Ostallgäu e.V.,Peer,M5.0,Full,29-06-2023,,,,
+131839.0,Kiehne GmbH & Co KG,Peer,M5.0,Full,29-06-2023,31-07-2023,31-07-2025,135.0,Report+Certificate
+132121.0,TZ Net GmbH,Peer,M5.0,Full,03-07-2023,25-10-2023,25-10-2025,182.0,Report+Certificate
+132123.0,eb24-einfach mehr Service,Peer,M5.0,Full,03-07-2023,25-10-2023,25-10-2025,257.0,Report+Certificate
+132125.0,presigno GmbH,Peer,M5.0,Full,03-07-2023,25-10-2023,25-10-2025,330.0,Report+Certificate
+132129.0,WMC Diktiersysteme GmbH,Peer,M5.0,Full,03-07-2023,25-10-2023,25-10-2025,153.0,Report+Certificate
+132138.0,Die AboKiste – Werkhof Service GmbH,Peer,M5.0,Full,03-07-2023,02-11-2023,02-11-2025,479.0,Report+Certificate
+132141.0,Naturbackstube Kreis e.K.,Peer,M5.0,Full,03-07-2023,02-11-2023,02-11-2025,434.0,Report+Certificate
+132143.0,Help2007 Dortmund UG (haftungsbeschränkt),Peer,M5.0,Full,03-07-2023,02-11-2023,02-11-2025,371.0,Report+Certificate
+132147.0,netz.NRW – Verband für Ökologie und soz. Wirtschaften e.V.,Peer,M5.0,Full,03-07-2023,02-11-2023,02-11-2025,568.0,Report+Certificate
+135365.0,Huth Metallbau GmbH & Co. KG,Peer,M5.0,Full,27-07-2023,,,,
+135370.0,Atlantic Hotel Sail City GmbH,Peer,M5.0,Full,27-07-2023,,,,
+135372.0,Klimahaus Betriebsgesellschaft mbH,Peer,M5.0,Full,27-07-2023,,,,
+135374.0,Im-jaich oHG,Peer,M5.0,Full,27-07-2023,,,,
+129847.0,LEDtec GmbH,Peer,M5.0,Compact,09-08-2023,,,,
+139397.0,Alpha IC GmbH,Peer,M5.0,Full,07-09-2023,30-11-2023,30-11-2025,338.0,Report+Certificate
+139399.0,media4nature GmbH,Peer,M5.0,Full,07-09-2023,30-11-2023,30-11-2025,141.0,Report+Certificate
+139401.0,Existenzgründerzentrum Ingolstadt GmbH,Peer,M5.0,Full,07-09-2023,30-11-2023,30-11-2025,48.0,Report+Certificate
+139403.0,Haustechnik Hofer GmbH,Peer,M5.0,Full,07-09-2023,,,,
+140204.0,NAUST HUNECKE und Partner CPA mbH,Peer,M5.0,Full,14-09-2023,30-09-2023,30-09-2025,266.0,Report+Certificate
+140968.0,authento Vera Boos,Peer,M5.0,Compact,21-09-2023,,,,
+14697.0,Pelzl Beratung & Umsetzung,Peer,M5.0,Full,23-09-2023,,,,
+143242.0,Versicherungsagentur Halmenschlager GmbH,Peer,M5.0,Full,07-10-2023,31-10-2023,31-10-2025,163.0,Certificate
+143246.0,PROCESS-M GmbH,Peer,M5.0,Full,07-10-2023,31-10-2023,31-10-2025,274.0,Certificate
+143248.0,SOLAR 4 YOU Consulting Ges.m.b.H. / Schenk & Partner,Peer,M5.0,Full,07-10-2023,31-10-2023,31-10-2025,481.0,Report+Certificate
+143250.0,Hotel Kothmühle GmbH,Peer,M5.0,Full,07-10-2023,31-10-2023,31-10-2025,331.0,Report+Certificate
+143252.0,Michael Winkler,Peer,M5.0,Full,07-10-2023,31-10-2023,31-10-2025,348.0,Certificate
+143254.0,myssion consulting gmbh,Peer,M5.0,Full,07-10-2023,31-10-2023,31-10-2025,148.0,Report+Certificate
+143256.0,Vermessung Schubert ZT GmbH,Peer,M5.0,Full,07-10-2023,31-10-2023,31-10-2025,292.0,Certificate
+143258.0,FOX & FOX OG,Peer,M5.0,Full,07-10-2023,31-10-2023,31-10-2025,151.0,Report+Certificate
+143436.0,Yellow Birds GmbH,Peer,M5.0,Full,09-10-2023,,,,
+145404.0,audit.innovation GmbH Wirtschaftsprüfungsgesellschaft,Peer,M5.0,Compact,22-10-2023,30-11-2023,30-11-2025,200.0,Certificate
+145512.0,Gitta Walchner,Peer,M5.0,Compact,24-10-2023,30-11-2023,30-11-2025,610.0,Report+Certificate
+14713.0,Thomas Henne,Peer,M5.0,Compact,24-10-2023,30-11-2023,30-11-2025,610.0,Certificate
+33857.0,München kocht!,Peer,M5.0,Full,08-12-2023,,,,
+152353.0,Klinglwirt,Peer,M5.0,Full,08-12-2023,,,,
+152355.0,Schlosshotel & Gasthaus Blumenthal GmbH & Co. KG,Peer,M5.0,Full,08-12-2023,,,,
+156929.0,MAJORMAJOR Design Co. Schönbörner – Beerwart Gbr,Peer,M5.0,Full,11-01-2024,,,,
+157021.0,GREENs unlimited GmbH,Peer,M5.0,Compact,11-01-2024,,,,
+157024.0,Stanova Stanztechnik GmbH,Peer,M5.0,Compact,11-01-2024,,,,
+157458.0,GT Emission Solutions UG,Peer,M5.0,Compact,15-01-2024,,,,
+160753.0,integrate-it Netzwerke GmbH,Peer,M5.0,Compact,01-02-2024,,,,
+160755.0,nexus Institut GmbH,Peer,M5.0,Compact,01-02-2024,,,,
+163181.0,COMES e.V.,Peer,M5.0,Compact,20-02-2024,,,,
+163538.0,Mercè Ardiaca · simultans®,Peer,M5.0,Compact,22-02-2024,,,,
+163545.0,Manuela Höfner – Das Aufräumfest,Peer,M5.0,Compact,22-02-2024,,,,
+164413.0,Thomas Böke Unternehmens-Entwicklung,Peer,M5.0,Compact,27-02-2024,,,,
+164461.0,Beigel Steuerberater PartG mbB,Peer,M5.0,Full,27-02-2024,,,,
+164463.0,dng die neue gesellschaft,Peer,M5.0,Full,27-02-2024,,,,
+164465.0,stattbau münchen GmbH,Peer,M5.0,Full,27-02-2024,,,,
+164468.0,terratax Steuerberatungsgesellschaft mbH,Peer,M5.0,Full,27-02-2024,,,,
+166560.0,Daniel Börnert mindfulbranding,Peer,M5.0,Compact,11-03-2024,,,,
+166562.0,Arch Joint Vision – Noriaki Ikeda,Peer,M5.0,Compact,11-03-2024,,,,
