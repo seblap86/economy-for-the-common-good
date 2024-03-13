@@ -1,6 +1,6 @@
 use ecg;
 
-SELECT * FROM balance_audit_types;
+SELECT COUNT(*) FROM balances;
 
 # Checking balance audit types
 SELECT t.audit_type, COUNT(b.id)
